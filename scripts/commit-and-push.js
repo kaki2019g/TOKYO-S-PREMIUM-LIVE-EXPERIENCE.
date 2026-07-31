@@ -16,7 +16,35 @@ function runGit(args, { capture = false } = {}) {
   return capture ? result.stdout.trim() : "";
 }
 
-const message = process.argv.slice(2).join(" ").trim() || "Update site";
+function createCommitMessage(fileList) {
+  const rules = [
+    ["event data", (file) => file.startsWith("data/")],
+    ["frontend", (file) => ["app.js", "index.html", "styles.css", "favicon.svg"].includes(file)],
+    ["tests", (file) => file.startsWith("tests/")],
+    ["automation", (file) => file.startsWith(".github/")],
+    ["documentation", (file) => file.endsWith(".md")],
+    ["tooling", (file) => file.startsWith("scripts/")],
+    ["application code", (file) => file.startsWith("lib/") || file === "server.js"],
+    [
+      "project configuration",
+      (file) => file === ".gitignore" || file === "package.json" || file === "package-lock.json",
+    ],
+  ];
+  const categories = new Set();
+
+  fileList.split("\n").forEach((file) => {
+    const matchedRule = rules.find(([, matches]) => matches(file));
+    categories.add(matchedRule?.[0] || "project files");
+  });
+
+  const summary = new Intl.ListFormat("en", {
+    style: "long",
+    type: "conjunction",
+  }).format([...categories]);
+  return `Update ${summary}`;
+}
+
+const requestedMessage = process.argv.slice(2).join(" ").trim();
 
 runGit(["rev-parse", "--show-toplevel"], { capture: true });
 
@@ -26,8 +54,10 @@ if (changes) {
 
   const stagedChanges = runGit(["diff", "--cached", "--name-only"], { capture: true });
   if (stagedChanges) {
+    const message = requestedMessage || createCommitMessage(stagedChanges);
     console.log("コミット対象:");
     console.log(stagedChanges);
+    console.log(`コミットメッセージ: ${message}`);
     runGit(["commit", "-m", message]);
   } else {
     console.log("コミット対象の変更はありません。");
