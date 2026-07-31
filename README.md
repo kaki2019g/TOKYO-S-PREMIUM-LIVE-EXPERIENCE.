@@ -72,6 +72,12 @@ npm test
 npm run push -- "コミットメッセージ"
 ```
 
+直接実行する場合は次の形式も利用できます。
+
+```bash
+./scripts/commit-and-push.js "コミットメッセージ"
+```
+
 コミットメッセージを省略した場合は `Update site` が使われます。`.env`、`node_modules`、
 `dist` などは `.gitignore` により対象外です。変更がない場合も未送信コミットをプッシュします。
 強制プッシュや履歴の書き換えは行いません。
