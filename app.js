@@ -377,8 +377,8 @@ function changeMonth(amount) {
 
 async function loadSchedule() {
   try {
-    let response = await fetch("/api/events", { cache: "no-store" });
-    if (!response.ok) response = await fetch("./data/events.json", { cache: "no-store" });
+    const response = await fetch("./data/events.json", { cache: "no-store" });
+    if (!response.ok) throw new Error(`Schedule request failed: ${response.status}`);
     const payload = await response.json();
     state.events = payload.events || [];
     state.venues = payload.venues || {};

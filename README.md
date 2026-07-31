@@ -27,6 +27,23 @@ REFRESH_INTERVAL_MS=10800000 npm start
 
 サーバーには `POST /api/refresh` もあります。`REFRESH_TOKEN` を設定した環境では、`Authorization: Bearer <token>` が必要です。トークン未設定時はローカルホストからのリクエストだけを許可します。
 
+## 静的サイトのビルドと公開
+
+公開用ファイルだけを `dist` に生成します。
+
+```bash
+npm run build
+```
+
+Cloudflare Pagesでは、ビルドコマンドを `npm run build`、出力ディレクトリを `dist` に
+設定してください。画面は `data/events.json` を直接読み込むため、本番環境でNodeサーバーを
+常時稼働させる必要はありません。
+
+`.github/workflows/update-events.yml` は6時間ごと、およびGitHub Actions画面からの手動実行時に
+公演データを更新します。取得とテストに成功してデータが変更された場合だけ、`main` ブランチへ
+自動コミットします。公開用のUser-Agentは、GitHubリポジトリのActions variable
+`SCRAPER_USER_AGENT` にサイトURLと連絡先を含めて設定してください。
+
 ## 取得元
 
 - Blue Note Tokyo: 公式月別予約スケジュール

@@ -8,7 +8,7 @@
 
 - ランタイム: Node.js（ES Modules、グローバル `fetch` を使用するため Node.js 18 以降）
 - サーバー: Node.js 標準 `node:http`。Web フレームワークなし
-- フロントエンド: 素の HTML / CSS / JavaScript。ビルド工程なし
+- フロントエンド: 素の HTML / CSS / JavaScript。`npm run build` で静的公開用 `dist` を生成
 - HTML 解析: Cheerio
 - 永続化: `data/events.json` の JSON キャッシュ。データベースなし
 - 日付・表示上の基準タイムゾーン: `Asia/Tokyo`
@@ -21,6 +21,8 @@
 | `lib/scrapers.js` | 3 会場の取得、解析、共通イベント形式への正規化 |
 | `lib/event-store.js` | 会場ごとの更新、失敗時のキャッシュ維持、重複排除、原子的な JSON 保存 |
 | `scripts/scrape.js` | 手動データ更新用 CLI |
+| `scripts/build.js` | Cloudflare Pages向けの静的公開ファイルを `dist` に生成 |
+| `.github/workflows/update-events.yml` | 6時間ごとのデータ更新、テスト、更新JSONの自動コミット |
 | `data/events.json` | UI とテストが利用する取得済みキャッシュ |
 | `index.html` | ページ構造とテンプレート |
 | `app.js` | クライアント状態、絞り込み、日付操作、DOM 描画 |
@@ -34,6 +36,7 @@
 
 ```bash
 npm install          # 依存関係をインストール
+npm run build        # 静的公開用 dist を生成
 npm start            # http://localhost:4173 で起動
 npm run dev          # server.js を watch モードで起動
 npm test             # Node 標準テストを実行
@@ -47,6 +50,7 @@ npm run test:browser # CDP 経由のブラウザ確認（前提条件は下記�
 - `HOST`: bind 先。既定値は `0.0.0.0`
 - `REFRESH_INTERVAL_MS`: 自動更新間隔。既定値は 6 時間
 - `REFRESH_TOKEN`: `POST /api/refresh` の Bearer トークン。未設定時はローカル接続のみ許可
+- `USER_AGENT`: スクレイピング時の識別情報。公開運用ではサイトURLと連絡先を指定
 
 `npm start` と `npm run dev` は起動直後に外部サイトへアクセスし、成功すれば `data/events.json` を書き換えます。単なる静的 UI 確認でもこの副作用があることに注意してください。
 
@@ -55,7 +59,7 @@ npm run test:browser # CDP 経由のブラウザ確認（前提条件は下記�
 1. `lib/scrapers.js` が各公式サイトから最大およそ 6 か月分を取得し、共通形式へ変換します。
 2. `lib/event-store.js` が 3 会場を並列更新します。会場単位で失敗した場合、その会場だけ以前のキャッシュを残します。
 3. 保存時は `data/events.json.tmp` に書いてから rename し、不完全な JSON が見えないようにします。同時更新は共有 Promise でまとめられます。
-4. `server.js` は `GET /api/events` でキャッシュを返します。フロントエンドは API が失敗した場合に `./data/events.json` を読みます。
+4. フロントエンドは `./data/events.json` を直接読みます。`server.js` の `GET /api/events` はローカル利用や外部クライアントとの互換用です。
 5. `app.js` は取得した全件をメモリ上で日付、月、会場、検索語により絞り込み、DOM を再描画します。
 
 イベントを追加・変更する場合は、少なくとも次の共通フィールドを維持してください。
