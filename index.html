@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="ブルーノート東京、コットンクラブ、ビルボードライブ東京の公演をまとめて探せるライブスケジュール"
+    />
+    <title>LIVE SCHEDULE | Tokyo Premium Live Guide</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&family=Noto+Sans+JP:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="site-logo" href="#top" aria-label="LIVE SCHEDULE トップ">
+        <span class="logo-square">L</span>
+        <span>
+          <strong>LIVE SCHEDULE</strong>
+          <small>Blue Note Tokyo / Cotton Club / Billboard Live Tokyo</small>
+        </span>
+      </a>
+      <nav class="header-nav" aria-label="メインナビゲーション">
+        <a class="is-active" href="#schedule">Schedule</a>
+        <a href="#artists">Artists</a>
+        <a href="#venues">Venues</a>
+        <a href="#about">About</a>
+      </nav>
+      <button
+        class="menu-button"
+        type="button"
+        aria-label="メニューを開く"
+        aria-expanded="false"
+      >
+        <i></i><i></i><i></i>
+      </button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="section-label">TOKYO LIVE RESTAURANT GUIDE</p>
+          <h1>TOKYO’S<br />PREMIUM<br />LIVE EXPERIENCE.</h1>
+          <p class="hero-description">
+            3つのプレミアムなステージ。<br />
+            今夜のライブスケジュールを一度にチェック。
+          </p>
+          <a class="outline-button" href="#schedule">
+            View Schedule
+            <span aria-hidden="true">→</span>
+          </a>
+        </div>
+
+        <div class="venue-showcase" id="venues">
+          <a class="venue-panel venue-panel-blue" data-showcase="blue-note" target="_blank" rel="noreferrer">
+            <img alt="" />
+            <span class="venue-panel-shade"></span>
+            <span class="venue-panel-name">Blue Note<small>Tokyo</small></span>
+          </a>
+          <a class="venue-panel venue-panel-cotton" data-showcase="cotton-club" target="_blank" rel="noreferrer">
+            <img alt="" />
+            <span class="venue-panel-shade"></span>
+            <span class="venue-panel-name">Cotton<small>Club</small></span>
+          </a>
+          <a class="venue-panel venue-panel-billboard" data-showcase="billboard" target="_blank" rel="noreferrer">
+            <img alt="" />
+            <span class="venue-panel-shade"></span>
+            <span class="venue-panel-name">Billboard<small>Live Tokyo</small></span>
+          </a>
+        </div>
+      </section>
+
+      <section class="today-section" id="artists">
+        <div class="section-heading-row">
+          <div>
+            <span class="section-label">TODAY’S SCHEDULE</span>
+            <b id="today-label"></b>
+          </div>
+          <a href="#schedule">View All <span>→</span></a>
+        </div>
+        <div class="today-grid" id="today-grid" aria-live="polite">
+          <div class="loading-message">公演データを読み込んでいます...</div>
+        </div>
+      </section>
+
+      <section class="schedule-section" id="schedule">
+        <header class="schedule-intro">
+          <p class="section-label">ALL THREE VENUES</p>
+          <h2>SCHEDULE</h2>
+          <p>3つのライブ会場のスケジュールをまとめてチェック</p>
+        </header>
+
+        <div class="data-status">
+          <span class="status-dot"></span>
+          <span id="data-status-text">データを読み込んでいます</span>
+          <span class="status-sources" id="source-status"></span>
+        </div>
+
+        <div class="date-strip-shell">
+          <button class="square-arrow" id="previous-day" type="button" aria-label="前の日">
+            ‹
+          </button>
+          <div class="date-strip" id="date-strip"></div>
+          <button class="square-arrow" id="next-day" type="button" aria-label="次の日">
+            ›
+          </button>
+          <button class="calendar-icon-button" id="show-month" type="button" aria-label="月間表示">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="4" y="5" width="16" height="15" rx="1"></rect>
+              <path d="M8 3v4M16 3v4M4 9h16"></path>
+            </svg>
+          </button>
+        </div>
+
+        <div class="schedule-workspace">
+          <aside class="schedule-sidebar">
+            <div class="month-heading">
+              <button id="prev-month" type="button" aria-label="前の月">‹</button>
+              <strong id="month-display">2026.06</strong>
+              <button id="next-month" type="button" aria-label="次の月">›</button>
+            </div>
+            <div class="mini-calendar" id="mini-calendar"></div>
+
+            <div class="filter-block">
+              <p>VENUES</p>
+              <button class="venue-filter is-active" data-venue="all" type="button">
+                <i class="filter-check"></i>
+                <span>すべて表示</span>
+                <b id="count-all">0</b>
+              </button>
+              <button class="venue-filter" data-venue="blue-note" type="button">
+                <i class="filter-check blue-check"></i>
+                <span>Blue Note Tokyo</span>
+                <b id="count-blue-note">0</b>
+              </button>
+              <button class="venue-filter" data-venue="cotton-club" type="button">
+                <i class="filter-check cotton-check"></i>
+                <span>Cotton Club</span>
+                <b id="count-cotton-club">0</b>
+              </button>
+              <button class="venue-filter" data-venue="billboard" type="button">
+                <i class="filter-check billboard-check"></i>
+                <span>Billboard Live Tokyo</span>
+                <b id="count-billboard">0</b>
+              </button>
+            </div>
+          </aside>
+
+          <div class="schedule-results">
+            <div class="results-toolbar">
+              <div>
+                <h3 id="results-date">2026.06.13 FRI</h3>
+                <span id="result-count">0 performances</span>
+              </div>
+              <label class="search-box">
+                <svg viewBox="0 0 24 24" aria-hidden="true">
+                  <circle cx="11" cy="11" r="7"></circle>
+                  <path d="m20 20-4-4"></path>
+                </svg>
+                <span class="sr-only">アーティスト名で検索</span>
+                <input id="search-input" type="search" placeholder="アーティスト名で検索" />
+              </label>
+            </div>
+            <div class="event-list" id="event-list" aria-live="polite"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="about-section" id="about">
+        <div>
+          <span class="section-label">ABOUT THIS GUIDE</span>
+          <h2>GOOD MUSIC.<br />UNFORGETTABLE<br />NIGHTS.</h2>
+        </div>
+        <div class="about-copy">
+          <p>
+            心に残るライブ体験を、東京の3つのステージで。
+            公演情報は各会場の公式公開情報から定期的に取得しています。
+          </p>
+          <p class="disclaimer">
+            本サイトは非公式の横断検索サービスです。最新の料金、空席、開演時刻は必ず各会場の公式ページでご確認ください。
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <a class="site-logo footer-logo" href="#top">
+        <span class="logo-square">L</span>
+        <span><strong>LIVE SCHEDULE</strong><small>Tokyo premium live guide</small></span>
+      </a>
+      <p>Schedule data © each venue. <span id="copyright-year"></span></p>
+    </footer>
+
+    <template id="today-card-template">
+      <article class="today-card">
+        <a class="today-image" target="_blank" rel="noreferrer"><img alt="" /></a>
+        <div class="today-card-body">
+          <span class="today-venue"></span>
+          <h3 class="today-title"></h3>
+          <div class="today-shows"></div>
+        </div>
+        <a class="card-arrow" target="_blank" rel="noreferrer" aria-label="公式詳細を見る">→</a>
+      </article>
+    </template>
+
+    <template id="event-template">
+      <article class="event-row event-card">
+        <time class="event-time"></time>
+        <div class="event-venue">
+          <i></i>
+          <span class="venue-name"></span>
+        </div>
+        <div class="event-main">
+          <h3 class="event-title"></h3>
+          <p class="event-subtitle"></p>
+          <div class="event-meta">
+            <span class="event-price"></span>
+            <span class="availability"></span>
+          </div>
+        </div>
+        <a class="event-image" target="_blank" rel="noreferrer"><img alt="" /></a>
+        <a class="event-link" target="_blank" rel="noreferrer" aria-label="公式詳細を見る">→</a>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
