@@ -73,6 +73,8 @@ const initial = await evaluate(`(() => ({
   viewportWidth: document.documentElement.clientWidth,
   scrollWidth: document.documentElement.scrollWidth,
   menuButtonVisible: getComputedStyle(document.querySelector(".menu-button")).display !== "none",
+  monthButtonVisible:
+    getComputedStyle(document.querySelector("#show-month")).display !== "none",
   todayCards: document.querySelectorAll(".today-card").length,
   sourceStatus: document.querySelector("#source-status").textContent
 }))()`);
@@ -84,6 +86,17 @@ const menu = await evaluate(`(() => {
     expanded: button.getAttribute("aria-expanded"),
     navDisplay: getComputedStyle(document.querySelector(".header-nav")).display
   };
+})()`);
+
+const monthView = await evaluate(`(() => {
+  const selectedDate = document.querySelector(".date-button.is-active").dataset.date;
+  document.querySelector("#show-month").click();
+  const result = {
+    heading: document.querySelector("#results-date").textContent,
+    cards: document.querySelectorAll(".event-card").length
+  };
+  document.querySelector('.date-button[data-date="' + selectedDate + '"]').click();
+  return result;
 })()`);
 
 const cottonClub = await evaluate(`(() => {
@@ -131,7 +144,19 @@ const screenshot = await send("Page.captureScreenshot", {
 });
 await writeFile("mobile.png", Buffer.from(screenshot.data, "base64"));
 
-const results = { initial, menu, cottonClub, search, nextMonth, browserErrors };
+await send("Emulation.setDeviceMetricsOverride", {
+  width: 1200,
+  height: 900,
+  deviceScaleFactor: 1,
+  mobile: false,
+});
+
+const desktop = await evaluate(`(() => ({
+  menuButtonVisible: getComputedStyle(document.querySelector(".menu-button")).display !== "none",
+  monthButtonVisible: getComputedStyle(document.querySelector("#show-month")).display !== "none"
+}))()`);
+
+const results = { initial, menu, monthView, cottonClub, search, nextMonth, desktop, browserErrors };
 console.log(JSON.stringify(results, null, 2));
 
 const passed =
@@ -141,10 +166,13 @@ const passed =
   initial.viewportWidth === 390 &&
   initial.scrollWidth === 390 &&
   initial.menuButtonVisible &&
+  initial.monthButtonVisible &&
   initial.todayCards === 3 &&
   initial.sourceStatus.includes("Blue Note: OK") &&
   menu.expanded === "true" &&
   menu.navDisplay === "flex" &&
+  monthView.heading.endsWith("/ ALL DATES") &&
+  monthView.cards >= initial.cards &&
   cottonClub.cards === 1 &&
   cottonClub.resultCount === "1 performances" &&
   search.cards === 1 &&
@@ -152,6 +180,8 @@ const passed =
   nextMonth.month === "2026.07" &&
   nextMonth.cards > 0 &&
   nextMonth.resultCount.endsWith("performances") &&
+  !desktop.menuButtonVisible &&
+  desktop.monthButtonVisible &&
   browserErrors.length === 0;
 
 socket.close();

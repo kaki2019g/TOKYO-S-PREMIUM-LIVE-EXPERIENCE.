@@ -148,7 +148,7 @@ img {
 }
 
 .menu-button {
-  display: flex;
+  display: none;
   flex-direction: column;
   gap: 4px;
   width: 24px;
@@ -956,6 +956,10 @@ footer {
     border-bottom: 1px solid var(--line);
   }
 
+  .menu-button {
+    display: flex;
+  }
+
   .site-header.is-menu-open .header-nav {
     display: flex;
   }
@@ -1013,12 +1017,8 @@ footer {
   }
 
   .date-strip-shell {
-    grid-template-columns: 30px minmax(0, 1fr) 30px;
+    grid-template-columns: 30px minmax(0, 1fr) 30px 36px;
     margin-bottom: 30px;
-  }
-
-  .calendar-icon-button {
-    display: none;
   }
 
   .date-strip {
