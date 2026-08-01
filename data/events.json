@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T19:55:08.157Z",
+  "updatedAt": "2026-08-01T03:53:26.350Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1128,8 +1128,8 @@
         "20:30"
       ],
       "price": "¥6,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5727.jpg?20260801",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marunouchi-vaudeville-show-260825/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -1886,8 +1886,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3108,8 +3108,8 @@
         "20:30"
       ],
       "price": "¥7,700〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5719.jpg?20260801",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3144,8 +3144,8 @@
         "20:30"
       ],
       "price": "¥7,700〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5719.jpg?20260801",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3198,8 +3198,8 @@
         "20:30"
       ],
       "price": "¥7,700〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5719.jpg?20260801",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3414,8 +3414,8 @@
         "20:30"
       ],
       "price": "¥9,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5722.jpg?20260801",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3450,8 +3450,8 @@
         "20:30"
       ],
       "price": "¥9,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5722.jpg?20260801",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shai-maestro-261020/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3756,8 +3756,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21584/top/top_ev-21584_1_1783564502.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21584&date=2026-10-30",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4768,19 +4768,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-07-31T19:55:08.157Z",
+      "updatedAt": "2026-08-01T03:53:26.350Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-07-31T19:55:08.157Z",
+      "updatedAt": "2026-08-01T03:53:26.350Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 72,
-      "updatedAt": "2026-07-31T19:55:08.157Z",
+      "updatedAt": "2026-08-01T03:53:26.350Z",
       "error": null
     }
   }
