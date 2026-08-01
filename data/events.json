@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T08:35:33.306Z",
+  "updatedAt": "2026-08-01T13:58:12.945Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -3241,6 +3241,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21616-2026-10-16",
+      "date": "2026-10-16",
+      "venue": "billboard",
+      "title": "JAY'ED Billboard Live 2026",
+      "subtitle": "JAY'ED presents JUKE BOX LOUNGE 2026 Special Guest：TEE / OMW(JAY’ED,P-CHO)",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥6,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21616/top/top_ev-21615_1_1785292224.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21616&date=2026-10-16",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21451-2026-10-17",
       "date": "2026-10-17",
       "venue": "billboard",
@@ -4768,19 +4786,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-01T08:35:33.306Z",
+      "updatedAt": "2026-08-01T13:58:12.945Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-01T08:35:33.306Z",
+      "updatedAt": "2026-08-01T13:58:12.945Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 72,
-      "updatedAt": "2026-08-01T08:35:33.306Z",
+      "count": 73,
+      "updatedAt": "2026-08-01T13:58:12.945Z",
       "error": null
     }
   }
