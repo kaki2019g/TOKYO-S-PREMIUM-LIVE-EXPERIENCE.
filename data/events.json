@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T03:56:00.231Z",
+  "updatedAt": "2026-08-02T08:38:39.886Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -67,7 +67,7 @@
         "19:00"
       ],
       "price": "¥11,300〜",
-      "availability": "SOLD OUT",
+      "availability": "販売終了",
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21443/top/top_ev-21443_1_1778126948.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21443&date=2026-08-02",
@@ -3817,6 +3817,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21625-2026-10-31",
+      "date": "2026-10-31",
+      "venue": "billboard",
+      "title": "小柳ゆき",
+      "subtitle": "Billboard Live 2026",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥8,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21625/top/top_ev-21625_1_1785462258.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21625&date=2026-10-31",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2026-11-01-kiefer",
       "date": "2026-11-01",
       "venue": "blue-note",
@@ -4786,19 +4804,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-02T03:56:00.231Z",
+      "updatedAt": "2026-08-02T08:38:39.886Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-02T03:56:00.231Z",
+      "updatedAt": "2026-08-02T08:38:39.886Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 73,
-      "updatedAt": "2026-08-02T03:56:00.231Z",
+      "count": 74,
+      "updatedAt": "2026-08-02T08:38:39.886Z",
       "error": null
     }
   }
