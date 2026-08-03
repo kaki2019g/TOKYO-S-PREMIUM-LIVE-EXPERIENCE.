@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T03:58:05.790Z",
+  "updatedAt": "2026-08-03T10:08:18.292Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -660,8 +660,8 @@
         "18:00"
       ],
       "price": "¥6,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21445/top/top_ev-21445_1_1778142896.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21445&date=2026-08-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4804,19 +4804,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-03T03:58:05.790Z",
+      "updatedAt": "2026-08-03T10:08:18.292Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-03T03:58:05.790Z",
+      "updatedAt": "2026-08-03T10:08:18.292Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 74,
-      "updatedAt": "2026-08-03T03:58:05.790Z",
+      "updatedAt": "2026-08-03T10:08:18.292Z",
       "error": null
     }
   }
