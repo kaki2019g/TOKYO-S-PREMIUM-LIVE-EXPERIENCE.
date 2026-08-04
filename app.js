@@ -109,20 +109,11 @@ function filteredEvents() {
     });
 }
 
-function setShowcaseImages() {
-  const today = todayInTokyo();
+function setShowcaseLinks() {
   Object.entries(state.venues).forEach(([venueId, venue]) => {
     const panel = document.querySelector(`[data-showcase="${venueId}"]`);
     if (!panel) return;
-    const event =
-      state.events.find((item) => item.venue === venueId && item.date >= today && item.image) ||
-      state.events.find((item) => item.venue === venueId && item.image);
     panel.href = venue.url;
-    const image = panel.querySelector("img");
-    if (event?.image) {
-      image.src = event.image;
-      image.alt = `${venue.name}の公演イメージ`;
-    }
   });
 }
 
@@ -392,7 +383,7 @@ async function loadSchedule() {
       state.visibleMonth = startOfMonth(state.selectedDate);
     }
 
-    setShowcaseImages();
+    setShowcaseLinks();
     renderToday();
     renderStatus();
     render();

@@ -16,15 +16,20 @@ const publicFiles = new Map([
   ["/app.js", "app.js"],
   ["/favicon.svg", "favicon.svg"],
   ["/data/events.json", "data/events.json"],
+  ["/assets/venues/blue-note-tokyo.jpg", "assets/venues/blue-note-tokyo.jpg"],
+  ["/assets/venues/cotton-club.jpg", "assets/venues/cotton-club.jpg"],
+  ["/assets/venues/billboard-live-tokyo.webp", "assets/venues/billboard-live-tokyo.webp"],
 ]);
 
 const mimeTypes = {
   ".css": "text/css; charset=utf-8",
   ".html": "text/html; charset=utf-8",
   ".js": "text/javascript; charset=utf-8",
+  ".jpg": "image/jpeg",
   ".json": "application/json; charset=utf-8",
   ".png": "image/png",
   ".svg": "image/svg+xml",
+  ".webp": "image/webp",
 };
 
 function sendJson(response, statusCode, payload) {
