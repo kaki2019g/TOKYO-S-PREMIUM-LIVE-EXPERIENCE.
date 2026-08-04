@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T09:11:20.301Z",
+  "updatedAt": "2026-08-04T14:42:00.822Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -2719,6 +2719,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-10-03-aki live 2026 『acoustic hideaway』",
+      "date": "2026-10-03",
+      "venue": "cotton-club",
+      "title": "AKi LIVE 2026 『Acoustic Hideaway』",
+      "subtitle": "好評を博したアコースティック・ライブふたたび AKi、唯一無二の世界観で魅せるプレミアム・ステージ",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥11,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5726.jpg?20260804",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aki-20261003/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-10-03-yellowjackets",
       "date": "2026-10-03",
       "venue": "blue-note",
@@ -4822,19 +4840,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-04T09:11:20.301Z",
+      "updatedAt": "2026-08-04T14:42:00.822Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 81,
-      "updatedAt": "2026-08-04T09:11:20.301Z",
+      "count": 82,
+      "updatedAt": "2026-08-04T14:42:00.822Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 75,
-      "updatedAt": "2026-08-04T09:11:20.301Z",
+      "updatedAt": "2026-08-04T14:42:00.822Z",
       "error": null
     }
   }
