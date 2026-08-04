@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T20:00:52.651Z",
+  "updatedAt": "2026-08-04T03:41:14.772Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1975,8 +1975,8 @@
         "20:30"
       ],
       "price": "¥8,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5728.jpg?20260804",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/naoko-terai-260914/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -2640,8 +2640,8 @@
         "20:30"
       ],
       "price": "¥9,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5730.jpg?20260804",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/westroad-bluesband-260930/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4804,19 +4804,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-03T20:00:52.651Z",
+      "updatedAt": "2026-08-04T03:41:14.772Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-03T20:00:52.651Z",
+      "updatedAt": "2026-08-04T03:41:14.772Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 74,
-      "updatedAt": "2026-08-03T20:00:52.651Z",
+      "updatedAt": "2026-08-04T03:41:14.772Z",
       "error": null
     }
   }
