@@ -22,6 +22,7 @@
 | `lib/event-store.js` | 会場ごとの更新、失敗時のキャッシュ維持、重複排除、原子的な JSON 保存 |
 | `scripts/scrape.js` | 手動データ更新用 CLI |
 | `scripts/build.js` | Cloudflare Pages向けの静的公開ファイルを `dist` に生成 |
+| `scripts/commit-and-push.js` | リモートをリベース形式で取り込み、変更をコミットしてプッシュ |
 | `.github/workflows/update-events.yml` | 6時間ごとのデータ更新、テスト、更新JSONの自動コミット |
 | `data/events.json` | UI とテストが利用する取得済みキャッシュ |
 | `index.html` | ページ構造とテンプレート |
@@ -42,6 +43,7 @@ npm run dev          # server.js を watch モードで起動
 npm test             # Node 標準テストを実行
 npm run scrape       # 公式サイトから取得し data/events.json を更新
 npm run test:browser # CDP 経由のブラウザ確認（前提条件は下記）
+npm run push         # pull --rebase、コミット、再度pull、pushを順に実行
 ```
 
 利用可能な環境変数:

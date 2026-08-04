@@ -464,6 +464,16 @@ img {
   place-items: center;
 }
 
+.calendar-icon-button {
+  transition: color 160ms ease, background 160ms ease, border-color 160ms ease;
+}
+
+.calendar-icon-button.is-active {
+  color: #fff;
+  background: #111;
+  border-color: #111;
+}
+
 .square-arrow {
   font-family: Georgia, serif;
   font-size: 16px;

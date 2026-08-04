@@ -36,6 +36,7 @@ const elements = {
   resultCount: document.querySelector("#result-count"),
   resultsDate: document.querySelector("#results-date"),
   monthDisplay: document.querySelector("#month-display"),
+  showMonthButton: document.querySelector("#show-month"),
   searchInput: document.querySelector("#search-input"),
   filterButtons: [...document.querySelectorAll(".venue-filter")],
 };
@@ -342,6 +343,8 @@ function renderStatus() {
 }
 
 function render() {
+  elements.showMonthButton.classList.toggle("is-active", state.showWholeMonth);
+  elements.showMonthButton.setAttribute("aria-pressed", String(state.showWholeMonth));
   renderDateStrip();
   renderCalendar();
   updateCounts();
@@ -405,7 +408,7 @@ document.querySelector("#previous-day").addEventListener("click", () =>
 document.querySelector("#next-day").addEventListener("click", () =>
   selectDate(addDays(state.selectedDate, 1)),
 );
-document.querySelector("#show-month").addEventListener("click", () => {
+elements.showMonthButton.addEventListener("click", () => {
   state.showWholeMonth = true;
   render();
 });

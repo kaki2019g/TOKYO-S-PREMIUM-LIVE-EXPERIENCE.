@@ -48,6 +48,16 @@ const requestedMessage = process.argv.slice(2).join(" ").trim();
 
 runGit(["rev-parse", "--show-toplevel"], { capture: true });
 
+const branch = runGit(["branch", "--show-current"], { capture: true });
+if (!branch) {
+  console.error("現在のブランチを取得できませんでした。");
+  process.exit(1);
+}
+
+const remote = runGit(["remote", "get-url", "origin"], { capture: true });
+console.log(`${remote} の ${branch} から最新の変更を取り込みます。`);
+runGit(["pull", "--rebase", "--autostash", "origin", branch]);
+
 const changes = runGit(["status", "--porcelain"], { capture: true });
 if (changes) {
   runGit(["add", "--all"]);
@@ -66,12 +76,7 @@ if (changes) {
   console.log("コミットする変更はありません。未送信のコミットがあればプッシュします。");
 }
 
-const branch = runGit(["branch", "--show-current"], { capture: true });
-if (!branch) {
-  console.error("現在のブランチを取得できませんでした。");
-  process.exit(1);
-}
-
-const remote = runGit(["remote", "get-url", "origin"], { capture: true });
+console.log("プッシュ直前の変更を確認します。");
+runGit(["pull", "--rebase", "origin", branch]);
 console.log(`${remote} の ${branch} にプッシュします。`);
 runGit(["push", "--set-upstream", "origin", branch]);

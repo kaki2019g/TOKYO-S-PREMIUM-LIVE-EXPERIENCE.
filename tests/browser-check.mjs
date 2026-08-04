@@ -75,6 +75,7 @@ const initial = await evaluate(`(() => ({
   menuButtonVisible: getComputedStyle(document.querySelector(".menu-button")).display !== "none",
   monthButtonVisible:
     getComputedStyle(document.querySelector("#show-month")).display !== "none",
+  monthButtonPressed: document.querySelector("#show-month").getAttribute("aria-pressed"),
   todayCards: document.querySelectorAll(".today-card").length,
   sourceStatus: document.querySelector("#source-status").textContent
 }))()`);
@@ -93,7 +94,9 @@ const monthView = await evaluate(`(() => {
   document.querySelector("#show-month").click();
   const result = {
     heading: document.querySelector("#results-date").textContent,
-    cards: document.querySelectorAll(".event-card").length
+    cards: document.querySelectorAll(".event-card").length,
+    buttonPressed: document.querySelector("#show-month").getAttribute("aria-pressed"),
+    buttonActive: document.querySelector("#show-month").classList.contains("is-active")
   };
   document.querySelector('.date-button[data-date="' + selectedDate + '"]').click();
   return result;
@@ -167,12 +170,15 @@ const passed =
   initial.scrollWidth === 390 &&
   initial.menuButtonVisible &&
   initial.monthButtonVisible &&
+  initial.monthButtonPressed === "false" &&
   initial.todayCards === 3 &&
   initial.sourceStatus.includes("Blue Note: OK") &&
   menu.expanded === "true" &&
   menu.navDisplay === "flex" &&
   monthView.heading.endsWith("/ ALL DATES") &&
   monthView.cards >= initial.cards &&
+  monthView.buttonPressed === "true" &&
+  monthView.buttonActive &&
   cottonClub.cards === 1 &&
   cottonClub.resultCount === "1 performances" &&
   search.cards === 1 &&
