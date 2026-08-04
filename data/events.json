@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T05:40:18.088Z",
+  "updatedAt": "2026-08-04T09:11:20.301Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -3439,6 +3439,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21622-2026-10-21",
+      "date": "2026-10-21",
+      "venue": "billboard",
+      "title": "Adi Oasis",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21622/top/top_ev-21622_1_1785381826.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21622&date=2026-10-21",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2026-10-21-joshua redman \"words fall short\"",
       "date": "2026-10-21",
       "venue": "blue-note",
@@ -4804,19 +4822,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-04T05:40:18.088Z",
+      "updatedAt": "2026-08-04T09:11:20.301Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-04T05:40:18.088Z",
+      "updatedAt": "2026-08-04T09:11:20.301Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 74,
-      "updatedAt": "2026-08-04T05:40:18.088Z",
+      "count": 75,
+      "updatedAt": "2026-08-04T09:11:20.301Z",
       "error": null
     }
   }
