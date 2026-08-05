@@ -16,6 +16,32 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./styles.css" />
+    <style>
+      @media (max-width: 760px) {
+        .event-row {
+          grid-template-columns: 72px minmax(0, 1fr) 67px 18px;
+        }
+
+        .event-time {
+          min-width: 0;
+          font-size: 12px;
+        }
+
+        .event-show {
+          display: grid;
+          grid-template-columns: 24px minmax(0, 1fr);
+          gap: 5px;
+        }
+
+        .event-show-label {
+          min-width: 0;
+        }
+
+        .event-title {
+          overflow-wrap: anywhere;
+        }
+      }
+    </style>
   </head>
   <body>
     <header class="site-header">
