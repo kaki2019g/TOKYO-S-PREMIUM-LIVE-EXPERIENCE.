@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T19:59:21.390Z",
+  "updatedAt": "2026-08-05T03:36:15.196Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -2694,8 +2694,8 @@
         "20:30"
       ],
       "price": "¥8,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5731.jpg?20260805",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kimura-strange-261001/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4840,19 +4840,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-08-04T19:59:21.390Z",
+      "updatedAt": "2026-08-05T03:36:15.196Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-04T19:59:21.390Z",
+      "updatedAt": "2026-08-05T03:36:15.196Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 75,
-      "updatedAt": "2026-08-04T19:59:21.390Z",
+      "updatedAt": "2026-08-05T03:36:15.196Z",
       "error": null
     }
   }
