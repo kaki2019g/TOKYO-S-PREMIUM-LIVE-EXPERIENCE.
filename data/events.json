@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T03:42:23.022Z",
+  "updatedAt": "2026-08-06T09:08:37.116Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -211,8 +211,8 @@
         "20:30"
       ],
       "price": "¥7,100〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21448/top/top_ev-21448_1_1778552922.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21448&date=2026-08-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -875,8 +875,8 @@
         "20:30"
       ],
       "price": "¥8,400〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21506/top/top_ev-21505_1_1780626680.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21506&date=2026-08-20",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3115,6 +3115,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-10-12-camille bertault",
+      "date": "2026-10-12",
+      "venue": "cotton-club",
+      "title": "CAMILLE BERTAULT",
+      "subtitle": "フランス発！新世代ジャズ・ヴォーカリスト登場 卓越したスキャットと独創的なヴォーカルで魅せるステージ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥7,700〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5736.jpg?20260806",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/camille-bertault-261012/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-10-13-alfredo rodriguez band featuring pedrito martinez",
       "date": "2026-10-13",
       "venue": "blue-note",
@@ -4159,6 +4177,42 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "blue-note-2026-11-10-theo katzman (of vulfpeck) solo",
+      "date": "2026-11-10",
+      "venue": "blue-note",
+      "title": "THEO KATZMAN (of VULFPECK) solo",
+      "subtitle": "ヴルフペック創設メンバーとして知られるマルチ・プレイヤー ソロで魅せるシンガー・ソングライターとしての原点回帰",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,800〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4002.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-11-11-theo katzman (of vulfpeck) solo",
+      "date": "2026-11-11",
+      "venue": "blue-note",
+      "title": "THEO KATZMAN (of VULFPECK) solo",
+      "subtitle": "ヴルフペック創設メンバーとして知られるマルチ・プレイヤー ソロで魅せるシンガー・ソングライターとしての原点回帰",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,800〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4002.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-11-12-juju jazz live 2026 everything is delicious in autumn!!",
       "date": "2026-11-12",
       "venue": "blue-note",
@@ -4686,6 +4740,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2026-11-30-gary bartz & ntu",
+      "date": "2026-11-30",
+      "venue": "blue-note",
+      "title": "GARY BARTZ & NTU",
+      "subtitle": "サックス界のリヴィング・レジェンドが再降臨 最新作『DAMAGE CONTROL』が誘う極上の音楽体験",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4003.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "cotton-club-2026-11-30-platina jazz",
       "date": "2026-11-30",
       "venue": "cotton-club",
@@ -4702,6 +4774,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5729.jpg?20260806",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-01-gary bartz & ntu",
+      "date": "2026-12-01",
+      "venue": "blue-note",
+      "title": "GARY BARTZ & NTU",
+      "subtitle": "サックス界のリヴィング・レジェンドが再降臨 最新作『DAMAGE CONTROL』が誘う極上の音楽体験",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4003.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-12-01-platina jazz",
@@ -4722,6 +4812,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5729.jpg?20260806",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/platina-jazz-261129/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-02-gary bartz & ntu",
+      "date": "2026-12-02",
+      "venue": "blue-note",
+      "title": "GARY BARTZ & NTU",
+      "subtitle": "サックス界のリヴィング・レジェンドが再降臨 最新作『DAMAGE CONTROL』が誘う極上の音楽体験",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4003.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/gary-bartz/",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-12-02-platina jazz",
@@ -4850,6 +4958,60 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21612/top/top_ev-21610_1_1784865981.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-27",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2027-01-27-senri oe trio",
+      "date": "2027-01-27",
+      "venue": "blue-note",
+      "title": "SENRI OE TRIO",
+      "subtitle": "３年ぶりの新作『HOMEWORK』をリリース！ 新章の幕開けを告げる“Senri Jazz”の快進撃",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4004.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-28-senri oe trio",
+      "date": "2027-01-28",
+      "venue": "blue-note",
+      "title": "SENRI OE TRIO",
+      "subtitle": "３年ぶりの新作『HOMEWORK』をリリース！ 新章の幕開けを告げる“Senri Jazz”の快進撃",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4004.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-29-senri oe trio",
+      "date": "2027-01-29",
+      "venue": "blue-note",
+      "title": "SENRI OE TRIO",
+      "subtitle": "３年ぶりの新作『HOMEWORK』をリリース！ 新章の幕開けを告げる“Senri Jazz”の快進撃",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4004.jpg?20260806",
+      "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
+      "source": "https://www.bluenote.co.jp/jp/"
     }
   ],
   "venues": {
@@ -4875,20 +5037,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 110,
-      "updatedAt": "2026-08-06T03:42:23.022Z",
+      "count": 118,
+      "updatedAt": "2026-08-06T09:08:37.116Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 84,
-      "updatedAt": "2026-08-06T03:42:23.022Z",
+      "count": 85,
+      "updatedAt": "2026-08-06T09:08:37.116Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 75,
-      "updatedAt": "2026-08-06T03:42:23.022Z",
+      "updatedAt": "2026-08-06T09:08:37.116Z",
       "error": null
     }
   }
