@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T00:17:24.727Z",
+  "updatedAt": "2026-08-07T07:44:12.844Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -3504,8 +3504,8 @@
         "20:30"
       ],
       "price": "¥8,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21622/top/top_ev-21622_1_1785381826.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21622&date=2026-10-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4098,8 +4098,8 @@
         "20:30"
       ],
       "price": "¥6,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21621/top/top_ev-21621_1_1785379536.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21621&date=2026-11-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4410,8 +4410,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3998.jpg?20260807",
       "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -4446,8 +4446,8 @@
         "19:30"
       ],
       "price": "¥11,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3998.jpg?20260807",
       "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -4482,8 +4482,8 @@
         "19:30"
       ],
       "price": "¥11,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3998.jpg?20260807",
       "url": "https://www.bluenote.co.jp/jp/artists/pacific-jazz-orchestra/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -4863,8 +4863,8 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4917,8 +4917,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21596/top/top_ev-21595_1_1784244837.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4957,6 +4957,42 @@
       "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21612/top/top_ev-21610_1_1784865981.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-27",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21617-2027-01-13",
+      "date": "2027-01-13",
+      "venue": "billboard",
+      "title": "Charlie Hunter Trio",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-13",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21617-2027-01-14",
+      "date": "2027-01-14",
+      "venue": "billboard",
+      "title": "Charlie Hunter Trio",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-14",
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
@@ -5038,19 +5074,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-07T00:17:24.727Z",
+      "updatedAt": "2026-08-07T07:44:12.844Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-08-07T00:17:24.727Z",
+      "updatedAt": "2026-08-07T07:44:12.844Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 75,
-      "updatedAt": "2026-08-07T00:17:24.727Z",
+      "count": 77,
+      "updatedAt": "2026-08-07T07:44:12.844Z",
       "error": null
     }
   }
