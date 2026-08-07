@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T07:44:12.844Z",
+  "updatedAt": "2026-08-07T13:41:27.174Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1676,6 +1676,23 @@
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5686.jpg?20260807",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/conte-to-ongaku-vol07/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21640-2026-09-08",
+      "date": "2026-09-08",
+      "venue": "billboard",
+      "title": "“Choice” by magora - Release Talk & Live",
+      "subtitle": "Billboard JAPAN Records presents",
+      "genre": "※1日＝1ステージ（トーク＆ライブ）となります。",
+      "shows": [
+        "19:00"
+      ],
+      "price": "¥5,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21640/top/top_ev-21640_1_1786083839.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21640&date=2026-09-08",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2026-09-08-the residents：eskimo",
@@ -4668,6 +4685,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21635-2026-11-27",
+      "date": "2026-11-27",
+      "venue": "billboard",
+      "title": "ハナレグミ faraway so close 2026",
+      "subtitle": "〜ハナレグミ with sweet thing♡ fall in Autumn〜",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "21:00"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21635/top/top_ev-21635_1_1785988263.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21635&date=2026-11-27",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2026-11-28-yasuda narumi 60th",
       "date": "2026-11-28",
       "venue": "cotton-club",
@@ -5074,19 +5109,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-07T07:44:12.844Z",
+      "updatedAt": "2026-08-07T13:41:27.174Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-08-07T07:44:12.844Z",
+      "updatedAt": "2026-08-07T13:41:27.174Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 77,
-      "updatedAt": "2026-08-07T07:44:12.844Z",
+      "count": 79,
+      "updatedAt": "2026-08-07T13:41:27.174Z",
       "error": null
     }
   }
