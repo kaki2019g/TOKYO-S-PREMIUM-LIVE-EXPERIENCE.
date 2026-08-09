@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T02:30:57.276Z",
+  "updatedAt": "2026-08-09T07:18:46.084Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -337,8 +337,8 @@
         "19:00"
       ],
       "price": "¥7,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21428/top/top_ev-21428_1_1778120393.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21428&date=2026-08-09",
       "source": "https://www.billboard-live.com/tokyo"
@@ -732,8 +732,8 @@
         "18:00"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21432/top/top_ev-21432_1_1777531432.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21432&date=2026-08-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4108,7 +4108,7 @@
       "date": "2026-11-05",
       "venue": "billboard",
       "title": "ZARUKAME",
-      "subtitle": "Billboard Live with special band \"Echors\"",
+      "subtitle": "Billboard Live with special band \"Echoes\"",
       "genre": "",
       "shows": [
         "17:30",
@@ -5109,19 +5109,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-09T02:30:57.276Z",
+      "updatedAt": "2026-08-09T07:18:46.084Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-08-09T02:30:57.276Z",
+      "updatedAt": "2026-08-09T07:18:46.084Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 79,
-      "updatedAt": "2026-08-09T02:30:57.276Z",
+      "updatedAt": "2026-08-09T07:18:46.084Z",
       "error": null
     }
   }
