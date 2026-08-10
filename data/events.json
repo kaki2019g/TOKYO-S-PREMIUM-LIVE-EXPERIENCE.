@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T02:36:48.732Z",
+  "updatedAt": "2026-08-10T08:07:05.367Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -409,8 +409,8 @@
         "20:30"
       ],
       "price": "¥8,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21412/top/top_ev-21412_1_1776737929.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21412&date=2026-08-10",
       "source": "https://www.billboard-live.com/tokyo"
@@ -660,8 +660,8 @@
         "18:00"
       ],
       "price": "¥6,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21445/top/top_ev-21445_1_1778142896.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21445&date=2026-08-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2035,10 +2035,10 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-09-15-aya hirano anniversary live 2026 〜cotton club〜",
+      "id": "cotton-club-2026-09-15-aya hirano anniversary live 2026 ?cotton club?",
       "date": "2026-09-15",
       "venue": "cotton-club",
-      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
+      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
       "subtitle": "4つの節目を迎える平野綾が初登場 これまでの音楽活動の軌跡と現在地を刻むアニバーサリー・ライヴ",
       "genre": "",
       "shows": [
@@ -2592,10 +2592,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-09-29-aya hirano anniversary live 2026 〜cotton club〜",
+      "id": "cotton-club-2026-09-29-aya hirano anniversary live 2026 ?cotton club?",
       "date": "2026-09-29",
       "venue": "cotton-club",
-      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 〜COTTON CLUB〜",
+      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
       "subtitle": "4つの節目を迎える平野綾が初登場 これまでの音楽活動の軌跡と現在地を刻むアニバーサリー・ライヴ",
       "genre": "",
       "shows": [
@@ -3827,8 +3827,8 @@
         "20:30"
       ],
       "price": "¥15,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3987.jpg?20260810",
       "url": "https://www.bluenote.co.jp/jp/artists/miki-maya/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -4151,8 +4151,8 @@
         "21:00"
       ],
       "price": "¥9,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4176,10 +4176,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-11-08-福井晶一 デビュー30周年記念コンサート〜curtain never falls〜",
+      "id": "cotton-club-2026-11-08-福井晶一 デビュー30周年記念コンサート?curtain never falls?",
       "date": "2026-11-08",
       "venue": "cotton-club",
-      "title": "福井晶一 デビュー30周年記念コンサート〜Curtain Never Falls〜",
+      "title": "福井晶一 デビュー30周年記念コンサート?Curtain Never Falls?",
       "subtitle": "福井晶一がデビュー30周年を記念して登場 豪華ゲストと贈るプレミアム・コンサート",
       "genre": "",
       "shows": [
@@ -5109,19 +5109,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-10T02:36:48.732Z",
+      "updatedAt": "2026-08-10T08:07:05.367Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-08-10T02:36:48.732Z",
+      "updatedAt": "2026-08-10T08:07:05.367Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 79,
-      "updatedAt": "2026-08-10T02:36:48.732Z",
+      "updatedAt": "2026-08-10T08:07:05.367Z",
       "error": null
     }
   }
