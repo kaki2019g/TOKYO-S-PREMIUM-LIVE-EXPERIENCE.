@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T02:29:48.630Z",
+  "updatedAt": "2026-08-11T07:39:52.497Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -660,8 +660,8 @@
         "18:00"
       ],
       "price": "¥6,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21445/top/top_ev-21445_1_1778142896.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21445&date=2026-08-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2207,8 +2207,8 @@
         "20:00"
       ],
       "price": "¥11,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3995.jpg?20260811",
       "url": "https://www.bluenote.co.jp/jp/artists/chara/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -2261,8 +2261,8 @@
         "20:00"
       ],
       "price": "¥11,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3995.jpg?20260811",
       "url": "https://www.bluenote.co.jp/jp/artists/chara/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -2855,8 +2855,8 @@
         "20:30"
       ],
       "price": "¥7,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5734.jpg?20260811",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/kurena-ishikawa-261006/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3143,8 +3143,8 @@
         "19:30"
       ],
       "price": "¥7,700〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5736.jpg?20260811",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/camille-bertault-261012/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3917,8 +3917,8 @@
         "19:00"
       ],
       "price": "¥8,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21625/top/top_ev-21625_1_1785462258.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21625&date=2026-10-31",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4295,8 +4295,8 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21637/top/top_ev-21637_1_1786001539.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21637&date=2026-11-14",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4786,8 +4786,8 @@
         "19:00"
       ],
       "price": "¥6,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21592/top/top_ev-21591_1_1784098506.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21592&date=2026-11-29",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5127,19 +5127,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-11T02:29:48.630Z",
+      "updatedAt": "2026-08-11T07:39:52.497Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-08-11T02:29:48.630Z",
+      "updatedAt": "2026-08-11T07:39:52.497Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-08-11T02:29:48.630Z",
+      "updatedAt": "2026-08-11T07:39:52.497Z",
       "error": null
     }
   }
