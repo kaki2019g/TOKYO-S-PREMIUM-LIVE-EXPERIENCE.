@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T02:47:29.170Z",
+  "updatedAt": "2026-08-12T07:55:04.293Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -481,7 +481,7 @@
         "20:00"
       ],
       "price": "¥12,000〜",
-      "availability": "SOLD OUT",
+      "availability": "販売終了",
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21469/top/top_ev-21469_1_1779331705.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21469&date=2026-08-12",
@@ -2035,10 +2035,10 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-09-15-aya hirano anniversary live 2026 ?cotton club?",
+      "id": "cotton-club-2026-09-15-aya hirano anniversary live 2026 ～cotton club～",
       "date": "2026-09-15",
       "venue": "cotton-club",
-      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
+      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 ～COTTON CLUB～",
       "subtitle": "4つの節目を迎える平野綾が初登場 これまでの音楽活動の軌跡と現在地を刻むアニバーサリー・ライヴ",
       "genre": "",
       "shows": [
@@ -2592,10 +2592,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-09-29-aya hirano anniversary live 2026 ?cotton club?",
+      "id": "cotton-club-2026-09-29-aya hirano anniversary live 2026 ～cotton club～",
       "date": "2026-09-29",
       "venue": "cotton-club",
-      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 ?COTTON CLUB?",
+      "title": "AYA HIRANO ANNIVERSARY LIVE 2026 ～COTTON CLUB～",
       "subtitle": "4つの節目を迎える平野綾が初登場 これまでの音楽活動の軌跡と現在地を刻むアニバーサリー・ライヴ",
       "genre": "",
       "shows": [
@@ -3251,8 +3251,8 @@
         "20:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4001.jpg?20260812",
       "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -3305,8 +3305,8 @@
         "20:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4001.jpg?20260812",
       "url": "https://www.bluenote.co.jp/jp/artists/chihiro-yamanaka/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -5127,19 +5127,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-12T02:47:29.170Z",
+      "updatedAt": "2026-08-12T07:55:04.293Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-08-12T02:47:29.170Z",
+      "updatedAt": "2026-08-12T07:55:04.293Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-08-12T02:47:29.170Z",
+      "updatedAt": "2026-08-12T07:55:04.293Z",
       "error": null
     }
   }
