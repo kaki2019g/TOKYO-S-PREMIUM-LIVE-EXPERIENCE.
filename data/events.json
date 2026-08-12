@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T07:55:04.293Z",
+  "updatedAt": "2026-08-12T13:51:18.138Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -786,8 +786,8 @@
         "20:30"
       ],
       "price": "¥18,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21536/top/top_ev-21536_1_1782270461.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21536&date=2026-08-18",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2340,6 +2340,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-09-22-rachael yamagata starlit alchemy tour",
+      "date": "2026-09-22",
+      "venue": "cotton-club",
+      "title": "RACHAEL YAMAGATA Starlit Alchemy Tour",
+      "subtitle": "心に寄り添う歌声で愛されるSSWが14年ぶりに来日！ 最新作『Starlit Alchemy』を携えたスペシャル・ステージ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5738.jpg?20260812",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-09-22-the miles davis centennial celebration with the miles electric band",
       "date": "2026-09-22",
       "venue": "blue-note",
@@ -2356,6 +2374,24 @@
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3992.jpg?20260812",
       "url": "https://www.bluenote.co.jp/jp/artists/miles-electric-band/",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-09-23-rachael yamagata starlit alchemy tour",
+      "date": "2026-09-23",
+      "venue": "cotton-club",
+      "title": "RACHAEL YAMAGATA Starlit Alchemy Tour",
+      "subtitle": "心に寄り添う歌声で愛されるSSWが14年ぶりに来日！ 最新作『Starlit Alchemy』を携えたスペシャル・ステージ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5738.jpg?20260812",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "blue-note-2026-09-23-the miles davis centennial celebration with the miles electric band",
@@ -4122,6 +4158,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2026-11-06-anatole muster",
+      "date": "2026-11-06",
+      "venue": "cotton-club",
+      "title": "ANATOLE MUSTER",
+      "subtitle": "ロンドン発、次世代ジャズを担う鬼才が登場！ アコーディオンで描く色鮮やかなボーダーレス・サウンド",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥7,700〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5737.jpg?20260812",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-11-06-aziza featuring dave holland, chris potter, lionel loueke & eric harland",
       "date": "2026-11-06",
       "venue": "blue-note",
@@ -4156,6 +4210,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-11-07-anatole muster",
+      "date": "2026-11-07",
+      "venue": "cotton-club",
+      "title": "ANATOLE MUSTER",
+      "subtitle": "ロンドン発、次世代ジャズを担う鬼才が登場！ アコーディオンで描く色鮮やかなボーダーレス・サウンド",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥7,700〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5737.jpg?20260812",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21534-2026-11-08",
@@ -4959,6 +5031,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2026-12-16-松原健之 クリスマスディナーショー2026",
+      "date": "2026-12-16",
+      "venue": "cotton-club",
+      "title": "松原健之 クリスマスディナーショー2026",
+      "subtitle": "“雪うたの貴公子”が紡ぐ、冬の贈りもの 松原健之が贈る恒例クリスマス・ディナーショー",
+      "genre": "",
+      "shows": [
+        "14:30",
+        "17:45"
+      ],
+      "price": "¥23,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5739.jpg?20260812",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/takeshi-matsubara-261216/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21596-2026-12-16",
       "date": "2026-12-16",
       "venue": "billboard",
@@ -5127,19 +5217,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-12T07:55:04.293Z",
+      "updatedAt": "2026-08-12T13:51:18.138Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 85,
-      "updatedAt": "2026-08-12T07:55:04.293Z",
+      "count": 90,
+      "updatedAt": "2026-08-12T13:51:18.138Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-08-12T07:55:04.293Z",
+      "updatedAt": "2026-08-12T13:51:18.138Z",
       "error": null
     }
   }
