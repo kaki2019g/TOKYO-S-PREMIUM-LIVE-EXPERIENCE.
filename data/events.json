@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T02:49:46.963Z",
+  "updatedAt": "2026-08-13T07:56:31.605Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -553,8 +553,8 @@
         "20:30"
       ],
       "price": "¥13,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21462/top/top_ev-21462_1_1779090110.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21462&date=2026-08-13",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1688,8 +1688,8 @@
         "19:00"
       ],
       "price": "¥5,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21640/top/top_ev-21640_1_1786083839.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21640&date=2026-09-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2729,8 +2729,8 @@
         "20:30"
       ],
       "price": "¥7,100〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21605/top/top_ev-21605_1_1784698008.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21605&date=2026-10-01",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3220,6 +3220,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5719.jpg?20260813",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/michaelmayo-261013/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21643-2026-10-13",
+      "date": "2026-10-13",
+      "venue": "billboard",
+      "title": "PYRAMID",
+      "subtitle": "Gracenotes Vol.3 〜New Album Release Live〜",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥7,100〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21643/top/top_ev-21642_1_1786595454.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21643&date=2026-10-13",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2026-10-14-alfredo rodriguez band featuring pedrito martinez",
@@ -4786,8 +4804,8 @@
         "21:00"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21635/top/top_ev-21635_1_1785988263.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21635&date=2026-11-27",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5114,8 +5132,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-13",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5132,8 +5150,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-14",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5217,19 +5235,19 @@
     "blue-note": {
       "ok": true,
       "count": 118,
-      "updatedAt": "2026-08-13T02:49:46.963Z",
+      "updatedAt": "2026-08-13T07:56:31.605Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 90,
-      "updatedAt": "2026-08-13T02:49:46.963Z",
+      "updatedAt": "2026-08-13T07:56:31.605Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 80,
-      "updatedAt": "2026-08-13T02:49:46.963Z",
+      "count": 81,
+      "updatedAt": "2026-08-13T07:56:31.605Z",
       "error": null
     }
   }
