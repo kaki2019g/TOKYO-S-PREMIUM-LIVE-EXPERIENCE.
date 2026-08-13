@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T07:56:31.605Z",
+  "updatedAt": "2026-08-13T13:50:59.483Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -732,8 +732,8 @@
         "18:00"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21432/top/top_ev-21432_1_1777531432.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21432&date=2026-08-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3834,6 +3834,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-10-27-wolfgang haffner trio",
+      "date": "2026-10-27",
+      "venue": "cotton-club",
+      "title": "WOLFGANG HAFFNER TRIO",
+      "subtitle": "世界で活躍するドイツ屈指のドラマーが登場！ 60歳＆キャリア50年を記念したアニヴァーサリー・ライヴ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5742.jpg?20260813",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/wolfgang-haffner-trio-261027/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21480-2026-10-27",
       "date": "2026-10-27",
       "venue": "billboard",
@@ -4320,6 +4338,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-11-12-benny green - piano solo -",
+      "date": "2026-11-12",
+      "venue": "cotton-club",
+      "title": "BENNY GREEN - piano solo -",
+      "subtitle": "オスカー・ピーターソンが認めた名手 一夜限りの至高のピアノ・ソロ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,500〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5740.jpg?20260813",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-261112/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-11-12-juju jazz live 2026 everything is delicious in autumn!!",
       "date": "2026-11-12",
       "venue": "blue-note",
@@ -4338,6 +4374,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-11-13-benny green trio",
+      "date": "2026-11-13",
+      "venue": "cotton-club",
+      "title": "BENNY GREEN TRIO",
+      "subtitle": "オスカー・ピーターソンが認めた名手 ジャズ界の重鎮2人と贈る極上のピアノ・トリオ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5741.jpg?20260813",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-11-13-juju jazz live 2026 everything is delicious in autumn!!",
       "date": "2026-11-13",
       "venue": "blue-note",
@@ -4354,6 +4408,24 @@
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3980.jpg?20260813",
       "url": "https://www.bluenote.co.jp/jp/artists/juju/",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-11-14-benny green trio",
+      "date": "2026-11-14",
+      "venue": "cotton-club",
+      "title": "BENNY GREEN TRIO",
+      "subtitle": "オスカー・ピーターソンが認めた名手 ジャズ界の重鎮2人と贈る極上のピアノ・トリオ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5741.jpg?20260813",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "blue-note-2026-11-14-juju jazz live 2026 everything is delicious in autumn!!",
@@ -4390,6 +4462,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21637/top/top_ev-21637_1_1786001539.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21637&date=2026-11-14",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-11-15-benny green trio",
+      "date": "2026-11-15",
+      "venue": "cotton-club",
+      "title": "BENNY GREEN TRIO",
+      "subtitle": "オスカー・ピーターソンが認めた名手 ジャズ界の重鎮2人と贈る極上のピアノ・トリオ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5741.jpg?20260813",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "blue-note-2026-11-15-venna",
@@ -5031,6 +5121,60 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2026-12-11-tank and the bangas：the last balloon tour",
+      "date": "2026-12-11",
+      "venue": "blue-note",
+      "title": "TANK AND THE BANGAS：The Last Balloon Tour",
+      "subtitle": "“アメリカ最高のライヴ・バンド”が再登場 バルーン三部作を完結させてネクスト・ステージへ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4005.jpg?20260813",
+      "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-12-tank and the bangas：the last balloon tour",
+      "date": "2026-12-12",
+      "venue": "blue-note",
+      "title": "TANK AND THE BANGAS：The Last Balloon Tour",
+      "subtitle": "“アメリカ最高のライヴ・バンド”が再登場 バルーン三部作を完結させてネクスト・ステージへ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4005.jpg?20260813",
+      "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-13-tank and the bangas：the last balloon tour",
+      "date": "2026-12-13",
+      "venue": "blue-note",
+      "title": "TANK AND THE BANGAS：The Last Balloon Tour",
+      "subtitle": "“アメリカ最高のライヴ・バンド”が再登場 バルーン三部作を完結させてネクスト・ステージへ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4005.jpg?20260813",
+      "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21540-2026-12-15",
       "date": "2026-12-15",
       "venue": "billboard",
@@ -5209,6 +5353,26 @@
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4004.jpg?20260813",
       "url": "https://www.bluenote.co.jp/jp/artists/senri-oe/",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-31-gretchen parlato \"the wise ones\"",
+      "date": "2027-01-31",
+      "venue": "blue-note",
+      "title": "GRETCHEN PARLATO \"The Wise Ones\"",
+      "subtitle": "待望の新作『The Wise Ones』を携えて 現代ジャズ最高峰ヴォーカリストがベストメンバーと登場",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30",
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,500〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4006.jpg?20260813",
+      "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
+      "source": "https://www.bluenote.co.jp/jp/"
     }
   ],
   "venues": {
@@ -5234,20 +5398,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 118,
-      "updatedAt": "2026-08-13T07:56:31.605Z",
+      "count": 122,
+      "updatedAt": "2026-08-13T13:50:59.483Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 90,
-      "updatedAt": "2026-08-13T07:56:31.605Z",
+      "count": 95,
+      "updatedAt": "2026-08-13T13:50:59.483Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-13T07:56:31.605Z",
+      "updatedAt": "2026-08-13T13:50:59.483Z",
       "error": null
     }
   }
