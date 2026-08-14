@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T07:53:07.709Z",
+  "updatedAt": "2026-08-14T13:46:28.527Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -3130,6 +3130,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21648-2026-10-11",
+      "date": "2026-10-11",
+      "venue": "billboard",
+      "title": "中村佳穂 NAKAMURA KAHO Billboard Live TOUR",
+      "subtitle": "うたのげんざいち2026✌",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥8,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21648/top/top_ev-21648_1_1786673423.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21648&date=2026-10-11",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2026-10-11-大西結花 40周年記念+1 anniversary live「ずっと大好き！！」～40 years of loving yuka～",
       "date": "2026-10-11",
       "venue": "cotton-club",
@@ -5397,19 +5415,19 @@
     "blue-note": {
       "ok": true,
       "count": 122,
-      "updatedAt": "2026-08-14T07:53:07.709Z",
+      "updatedAt": "2026-08-14T13:46:28.527Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 95,
-      "updatedAt": "2026-08-14T07:53:07.709Z",
+      "updatedAt": "2026-08-14T13:46:28.527Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 81,
-      "updatedAt": "2026-08-14T07:53:07.709Z",
+      "count": 82,
+      "updatedAt": "2026-08-14T13:46:28.527Z",
       "error": null
     }
   }
