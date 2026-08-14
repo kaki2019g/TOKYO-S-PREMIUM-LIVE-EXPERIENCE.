@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:28:06.498Z",
+  "updatedAt": "2026-08-14T02:48:37.379Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -685,24 +685,6 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-08-16-lakecia benjamin",
-      "date": "2026-08-16",
-      "venue": "cotton-club",
-      "title": "LAKECIA BENJAMIN",
-      "subtitle": "ニューヨーク発の気鋭サックス奏者が登場 新作『We Dream』の世界をカルテットで描き出す",
-      "genre": "",
-      "shows": [
-        "16:30",
-        "19:30"
-      ],
-      "price": "¥8,800〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
-      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260814",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
-      "source": "https://www.cottonclubjapan.co.jp/jp/"
-    },
-    {
       "id": "blue-note-2026-08-16-peter erskine \"dr. um\" -steps into the weather- featuring mike mainieri with john beasley, bob sheppard & matthew garrison",
       "date": "2026-08-16",
       "venue": "blue-note",
@@ -721,6 +703,23 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-08-16-ryo konishi and the limited express",
+      "date": "2026-08-16",
+      "venue": "cotton-club",
+      "title": "RYO KONISHI and the LIMITED EXPRESS",
+      "subtitle": "急遽決定！小西遼率いる、この日限りのスペシャル・ビッグバンド 往年のビッグバンド・サウンドからオリジナルまで贈る特別ステージ",
+      "genre": "",
+      "shows": [
+        "19:30"
+      ],
+      "price": "¥7,700〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5746.jpg?20260814",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryo-konishi-260816/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21432-2026-08-16",
       "date": "2026-08-16",
       "venue": "billboard",
@@ -732,8 +731,8 @@
         "18:00"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21432/top/top_ev-21432_1_1777531432.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21432&date=2026-08-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -757,21 +756,20 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-08-17-lakecia benjamin",
+      "id": "cotton-club-2026-08-17-toko furuuchispecial solo night",
       "date": "2026-08-17",
       "venue": "cotton-club",
-      "title": "LAKECIA BENJAMIN",
-      "subtitle": "ニューヨーク発の気鋭サックス奏者が登場 新作『We Dream』の世界をカルテットで描き出す",
+      "title": "TOKO FURUUCHISPECIAL SOLO NIGHT",
+      "subtitle": "甘く切ない恋模様を歌うシンガー・ソングライター 古内東子、久しぶりのソロLIVEが急遽決定！",
       "genre": "",
       "shows": [
-        "18:00",
-        "20:30"
+        "19:30"
       ],
-      "price": "¥8,800〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
-      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5676.jpg?20260814",
-      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/lakecia-benjamin-260816/",
+      "price": "¥7,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5747.jpg?20260814",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/toko-furuuchi-260817/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
@@ -5399,19 +5397,19 @@
     "blue-note": {
       "ok": true,
       "count": 122,
-      "updatedAt": "2026-08-13T19:28:06.498Z",
+      "updatedAt": "2026-08-14T02:48:37.379Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 95,
-      "updatedAt": "2026-08-13T19:28:06.498Z",
+      "updatedAt": "2026-08-14T02:48:37.379Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 81,
-      "updatedAt": "2026-08-13T19:28:06.498Z",
+      "updatedAt": "2026-08-14T02:48:37.379Z",
       "error": null
     }
   }
