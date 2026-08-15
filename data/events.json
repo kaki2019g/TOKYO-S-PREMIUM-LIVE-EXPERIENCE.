@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:51:40.928Z",
+  "updatedAt": "2026-08-15T07:00:11.360Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -660,8 +660,8 @@
         "18:00"
       ],
       "price": "¥6,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21445/top/top_ev-21445_1_1778142896.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21445&date=2026-08-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2619,8 +2619,8 @@
         "18:00"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21461/top/top_ev-21461_1_1779109946.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-28",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3105,8 +3105,8 @@
         "19:30"
       ],
       "price": "¥10,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5718.jpg?20260815",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/miyabi-natsuyaki-261010/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4023,8 +4023,8 @@
         "19:30"
       ],
       "price": "¥9,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4000.jpg?20260815",
       "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -4077,8 +4077,8 @@
         "20:30"
       ],
       "price": "¥9,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4000.jpg?20260815",
       "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -4131,8 +4131,8 @@
         "19:30"
       ],
       "price": "¥9,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4000.jpg?20260815",
       "url": "https://www.bluenote.co.jp/jp/artists/kiefer/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -5415,19 +5415,19 @@
     "blue-note": {
       "ok": true,
       "count": 122,
-      "updatedAt": "2026-08-15T01:51:40.928Z",
+      "updatedAt": "2026-08-15T07:00:11.360Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 95,
-      "updatedAt": "2026-08-15T01:51:40.928Z",
+      "updatedAt": "2026-08-15T07:00:11.360Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-15T01:51:40.928Z",
+      "updatedAt": "2026-08-15T07:00:11.360Z",
       "error": null
     }
   }
