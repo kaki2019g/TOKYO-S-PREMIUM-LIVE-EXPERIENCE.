@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T01:56:54.302Z",
+  "updatedAt": "2026-08-17T07:18:09.926Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -873,8 +873,8 @@
         "20:30"
       ],
       "price": "¥8,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21506/top/top_ev-21505_1_1780626680.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21506&date=2026-08-20",
       "source": "https://www.billboard-live.com/tokyo"
@@ -929,8 +929,8 @@
         "20:30"
       ],
       "price": "¥8,400〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21506/top/top_ev-21505_1_1780626680.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21506&date=2026-08-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4300,10 +4300,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-11-08-福井晶一 デビュー30周年記念コンサート?curtain never falls?",
+      "id": "cotton-club-2026-11-08-福井晶一 デビュー30周年記念コンサート～curtain never falls～",
       "date": "2026-11-08",
       "venue": "cotton-club",
-      "title": "福井晶一 デビュー30周年記念コンサート?Curtain Never Falls?",
+      "title": "福井晶一 デビュー30周年記念コンサート～Curtain Never Falls～",
       "subtitle": "福井晶一がデビュー30周年を記念して登場 豪華ゲストと贈るプレミアム・コンサート",
       "genre": "",
       "shows": [
@@ -5415,19 +5415,19 @@
     "blue-note": {
       "ok": true,
       "count": 122,
-      "updatedAt": "2026-08-17T01:56:54.302Z",
+      "updatedAt": "2026-08-17T07:18:09.926Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 95,
-      "updatedAt": "2026-08-17T01:56:54.302Z",
+      "updatedAt": "2026-08-17T07:18:09.926Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-17T01:56:54.302Z",
+      "updatedAt": "2026-08-17T07:18:09.926Z",
       "error": null
     }
   }
