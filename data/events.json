@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T01:52:56.659Z",
+  "updatedAt": "2026-08-18T07:06:46.304Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -784,7 +784,7 @@
         "20:30"
       ],
       "price": "¥18,900〜",
-      "availability": "SOLD OUT",
+      "availability": "販売終了",
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21536/top/top_ev-21536_1_1782270461.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21536&date=2026-08-18",
@@ -2349,8 +2349,8 @@
         "19:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5738.jpg?20260818",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -2385,8 +2385,8 @@
         "19:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5738.jpg?20260818",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/rachael-yamagata-260922/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3861,8 +3861,8 @@
         "20:30"
       ],
       "price": "¥8,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5742.jpg?20260818",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/wolfgang-haffner-trio-261027/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4221,8 +4221,8 @@
         "20:30"
       ],
       "price": "¥7,700〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5737.jpg?20260818",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4275,8 +4275,8 @@
         "19:30"
       ],
       "price": "¥7,700〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5737.jpg?20260818",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/anatole-muster-261106/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5415,19 +5415,19 @@
     "blue-note": {
       "ok": true,
       "count": 122,
-      "updatedAt": "2026-08-18T01:52:56.659Z",
+      "updatedAt": "2026-08-18T07:06:46.304Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 95,
-      "updatedAt": "2026-08-18T01:52:56.659Z",
+      "updatedAt": "2026-08-18T07:06:46.304Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-18T01:52:56.659Z",
+      "updatedAt": "2026-08-18T07:06:46.304Z",
       "error": null
     }
   }
