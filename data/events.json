@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:54:39.393Z",
+  "updatedAt": "2026-08-19T07:08:12.621Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -4365,8 +4365,8 @@
         "20:30"
       ],
       "price": "¥8,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5740.jpg?20260819",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-261112/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4401,8 +4401,8 @@
         "20:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5741.jpg?20260819",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4437,8 +4437,8 @@
         "19:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5741.jpg?20260819",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4491,8 +4491,8 @@
         "19:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5741.jpg?20260819",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/benny-green-trio-261113/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5415,19 +5415,19 @@
     "blue-note": {
       "ok": true,
       "count": 122,
-      "updatedAt": "2026-08-19T01:54:39.393Z",
+      "updatedAt": "2026-08-19T07:08:12.621Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 95,
-      "updatedAt": "2026-08-19T01:54:39.393Z",
+      "updatedAt": "2026-08-19T07:08:12.621Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-19T01:54:39.393Z",
+      "updatedAt": "2026-08-19T07:08:12.621Z",
       "error": null
     }
   }
