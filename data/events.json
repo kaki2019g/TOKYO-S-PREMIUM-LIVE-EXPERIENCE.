@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T07:08:12.621Z",
+  "updatedAt": "2026-08-19T13:11:47.753Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -822,7 +822,7 @@
       "availability": "予約受付中",
       "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3966.jpg?20260819",
-      "url": "https://www.bluenote.co.jp/jp/artists/nettai-jazz-gakudan/",
+      "url": "https://www.bluenote.co.jp/jp/artists/nettai-jazz-gakudan/2026_08/",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -873,8 +873,8 @@
         "20:30"
       ],
       "price": "¥8,400〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21506/top/top_ev-21505_1_1780626680.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21506&date=2026-08-20",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1312,7 +1312,7 @@
       "price": "¥6,900〜",
       "availability": "SOLD OUT",
       "availabilityType": "sold-out",
-      "image": "https://www.billboard-live.com/public/event_img/ev-21405/top/top_ev-21405_1_1776309462.jpg",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21405/top/top_ev-21405_1_1787132561.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21405&date=2026-08-30",
       "source": "https://www.billboard-live.com/tokyo"
     },
@@ -1901,8 +1901,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2480,6 +2480,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21557/top/top_ev-21557_1_1782291998.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-25",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-09-25-konishi ryosei autumn live 2026 「色なき風と、月待言結び。」",
+      "date": "2026-09-25",
+      "venue": "cotton-club",
+      "title": "KONISHI RYOSEI Autumn Live 2026 「色なき風と、月待言結び。」",
+      "subtitle": "舞台やミュージカルを中心に活躍する人気俳優 クラブ空間を鮮やかに彩るプレミアム・ステージ",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥9,800〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5744.jpg?20260819",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/konishi-ryosei-260925/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "blue-note-2026-09-25-ulysses owens jr. & generation y",
@@ -3400,6 +3418,23 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2026-10-16-広末涼子 act/ryoko hirosue meets the little prince〜星の王子さま",
+      "date": "2026-10-16",
+      "venue": "cotton-club",
+      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "subtitle": "またこの場所で、心に響く物語を。 広末涼子が贈る『星の王子さま』朗読ライヴ",
+      "genre": "",
+      "shows": [
+        "19:00"
+      ],
+      "price": "¥12,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5743.jpg?20260819",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21451-2026-10-17",
       "date": "2026-10-17",
       "venue": "billboard",
@@ -3436,6 +3471,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-10-17-広末涼子 act/ryoko hirosue meets the little prince〜星の王子さま",
+      "date": "2026-10-17",
+      "venue": "cotton-club",
+      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "subtitle": "またこの場所で、心に響く物語を。 広末涼子が贈る『星の王子さま』朗読ライヴ",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥12,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5743.jpg?20260819",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-10-18-the bad plus farewell tour",
       "date": "2026-10-18",
       "venue": "blue-note",
@@ -3465,11 +3518,29 @@
         "19:00"
       ],
       "price": "¥8,900〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21488/top/top_ev-21488_1_1779696252.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21488&date=2026-10-18",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-10-18-広末涼子 act/ryoko hirosue meets the little prince〜星の王子さま",
+      "date": "2026-10-18",
+      "venue": "cotton-club",
+      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "subtitle": "またこの場所で、心に響く物語を。 広末涼子が贈る『星の王子さま』朗読ライヴ",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥12,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5743.jpg?20260819",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21397-2026-10-19",
@@ -5209,6 +5280,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2026-12-16-tropical jazz big band",
+      "date": "2026-12-16",
+      "venue": "blue-note",
+      "title": "TROPICAL JAZZ BIG BAND",
+      "subtitle": "今年の年末恒例ライヴは２デイズ！ 一年を締めくくる“世界で一番熱い忘年会”",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4007.jpg?20260819",
+      "url": "https://www.bluenote.co.jp/jp/artists/nettai-jazz-gakudan/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "cotton-club-2026-12-16-松原健之 クリスマスディナーショー2026",
       "date": "2026-12-16",
       "venue": "cotton-club",
@@ -5243,6 +5332,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21596/top/top_ev-21595_1_1784244837.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-17-tropical jazz big band",
+      "date": "2026-12-17",
+      "venue": "blue-note",
+      "title": "TROPICAL JAZZ BIG BAND",
+      "subtitle": "今年の年末恒例ライヴは２デイズ！ 一年を締めくくる“世界で一番熱い忘年会”",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4007.jpg?20260819",
+      "url": "https://www.bluenote.co.jp/jp/artists/nettai-jazz-gakudan/",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21612-2026-12-26",
@@ -5414,20 +5521,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 122,
-      "updatedAt": "2026-08-19T07:08:12.621Z",
+      "count": 124,
+      "updatedAt": "2026-08-19T13:11:47.753Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 95,
-      "updatedAt": "2026-08-19T07:08:12.621Z",
+      "count": 99,
+      "updatedAt": "2026-08-19T13:11:47.753Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-19T07:08:12.621Z",
+      "updatedAt": "2026-08-19T13:11:47.753Z",
       "error": null
     }
   }
