@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T07:09:04.760Z",
+  "updatedAt": "2026-08-20T13:13:32.821Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -929,8 +929,8 @@
         "20:30"
       ],
       "price": "¥8,400〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21506/top/top_ev-21505_1_1780626680.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21506&date=2026-08-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1490,8 +1490,8 @@
         "21:00"
       ],
       "price": "¥17,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21434/top/top_ev-21434_1_1777548954.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1901,8 +1901,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2637,8 +2637,8 @@
         "18:00"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21461/top/top_ev-21461_1_1779109946.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-28",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3518,8 +3518,8 @@
         "19:00"
       ],
       "price": "¥8,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21488/top/top_ev-21488_1_1779696252.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21488&date=2026-10-18",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4389,6 +4389,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "blue-note-2026-11-09-keiko lee band",
+      "date": "2026-11-09",
+      "venue": "blue-note",
+      "title": "KEIKO LEE BAND",
+      "subtitle": "ジャズ・ディーヴァのディープ・ヴォイスに酔いしれる レジェンド・ミュージシャンと贈るプレミアム・ライヴ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥9,300〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4008.jpg?20260820",
+      "url": "https://www.bluenote.co.jp/jp/artists/keiko-lee/",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-11-10-theo katzman (of vulfpeck) solo",
       "date": "2026-11-10",
       "venue": "blue-note",
@@ -5172,6 +5190,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-12-03-高岡早紀 birthday premium live 2026",
+      "date": "2026-12-03",
+      "venue": "cotton-club",
+      "title": "高岡早紀 Birthday Premium Live 2026",
+      "subtitle": "歌手/女優として輝き続ける高岡早紀 気鋭ジャズ・ミュージシャンと贈るバースデー・ライヴ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,500〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5745.jpg?20260820",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/saki-takaoka-261203/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21590-2026-12-05",
       "date": "2026-12-05",
       "venue": "billboard",
@@ -5262,6 +5298,42 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-12-13-three visitors featuring edward simon, scott colley & brian blade",
+      "date": "2026-12-13",
+      "venue": "cotton-club",
+      "title": "THREE VISITORS featuring EDWARD SIMON, SCOTT COLLEY & BRIAN BLADE",
+      "subtitle": "現代ジャズの重要人物たちが結成したプロジェクト 話題作『Three Visitors』を携え待望の初登場",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥11,500〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5748.jpg?20260820",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/three-visitors-261213/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-12-14-three visitors featuring edward simon, scott colley & brian blade",
+      "date": "2026-12-14",
+      "venue": "cotton-club",
+      "title": "THREE VISITORS featuring EDWARD SIMON, SCOTT COLLEY & BRIAN BLADE",
+      "subtitle": "現代ジャズの重要人物たちが結成したプロジェクト 話題作『Three Visitors』を携え待望の初登場",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥11,500〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5748.jpg?20260820",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/three-visitors-261213/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21540-2026-12-15",
       "date": "2026-12-15",
       "venue": "billboard",
@@ -5278,6 +5350,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21540/top/top_ev-21540_1_1781862742.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21540&date=2026-12-15",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-15-three visitors featuring edward simon, scott colley & brian blade",
+      "date": "2026-12-15",
+      "venue": "blue-note",
+      "title": "THREE VISITORS featuring Edward Simon, Scott Colley & Brian Blade",
+      "subtitle": "現代ジャズの重要人物たちが結成したプロジェクト 話題作『Three Visitors』を携え待望の初登場",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,800〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4009.jpg?20260820",
+      "url": "https://www.bluenote.co.jp/jp/artists/three-visitors/",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "blue-note-2026-12-16-tropical jazz big band",
@@ -5521,20 +5611,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 124,
-      "updatedAt": "2026-08-20T07:09:04.760Z",
+      "count": 126,
+      "updatedAt": "2026-08-20T13:13:32.821Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 99,
-      "updatedAt": "2026-08-20T07:09:04.760Z",
+      "count": 102,
+      "updatedAt": "2026-08-20T13:13:32.821Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-08-20T07:09:04.760Z",
+      "updatedAt": "2026-08-20T13:13:32.821Z",
       "error": null
     }
   }
