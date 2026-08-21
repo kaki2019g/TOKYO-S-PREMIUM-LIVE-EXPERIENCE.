@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:09:48.854Z",
+  "updatedAt": "2026-08-21T13:13:31.760Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -4587,6 +4587,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21613-2026-11-15",
+      "date": "2026-11-15",
+      "venue": "billboard",
+      "title": "Grooving Night Premium",
+      "subtitle": "in Billboard Live TOKYO SIRUP×AAAMYYY",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:30"
+      ],
+      "price": "¥8,600〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21613/top/top_ev-21613_1_1787231919.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2026-11-15-venna",
       "date": "2026-11-15",
       "venue": "blue-note",
@@ -4623,6 +4641,24 @@
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/3981.jpg?20260821",
       "url": "https://www.bluenote.co.jp/jp/artists/juju/",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21644-2026-11-16",
+      "date": "2026-11-16",
+      "venue": "billboard",
+      "title": "ブギ連",
+      "subtitle": "ブギる心〜外伝",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥10,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21644/top/top_ev-21644_1_1786595931.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2026-11-17-juju jazz live 2026 everything is delicious in autumn!!",
@@ -5514,6 +5550,42 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21646-2027-01-21",
+      "date": "2027-01-21",
+      "venue": "billboard",
+      "title": "玉井詩織 Billboard Live Tour 2027 「With the music」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "21:00"
+      ],
+      "price": "¥11,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21646/top/top_ev-21646_1_1787032867.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-21",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21646-2027-01-22",
+      "date": "2027-01-22",
+      "venue": "billboard",
+      "title": "玉井詩織 Billboard Live Tour 2027 「With the music」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "21:00"
+      ],
+      "price": "¥11,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21646/top/top_ev-21646_1_1787032867.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-22",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-27-senri oe trio",
       "date": "2027-01-27",
       "venue": "blue-note",
@@ -5612,19 +5684,19 @@
     "blue-note": {
       "ok": true,
       "count": 126,
-      "updatedAt": "2026-08-21T07:09:48.854Z",
+      "updatedAt": "2026-08-21T13:13:31.760Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 102,
-      "updatedAt": "2026-08-21T07:09:48.854Z",
+      "updatedAt": "2026-08-21T13:13:31.760Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 82,
-      "updatedAt": "2026-08-21T07:09:48.854Z",
+      "count": 86,
+      "updatedAt": "2026-08-21T13:13:31.760Z",
       "error": null
     }
   }
