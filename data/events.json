@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T02:01:54.493Z",
+  "updatedAt": "2026-08-23T07:03:55.484Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -2044,8 +2044,8 @@
         "20:30"
       ],
       "price": "¥8,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5732.jpg?20260823",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -2655,8 +2655,8 @@
         "20:30"
       ],
       "price": "¥8,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5733.jpg?20260823",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/aya-hirano-260915/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3418,10 +3418,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-10-16-広末涼子 act/ryoko hirosue meets the little prince〜星の王子さま",
+      "id": "cotton-club-2026-10-16-広末涼子 act/ryoko hirosue meets the little prince～星の王子さま",
       "date": "2026-10-16",
       "venue": "cotton-club",
-      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince～星の王子さま",
       "subtitle": "またこの場所で、心に響く物語を。 広末涼子が贈る『星の王子さま』朗読ライヴ",
       "genre": "",
       "shows": [
@@ -3471,10 +3471,10 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-10-17-広末涼子 act/ryoko hirosue meets the little prince〜星の王子さま",
+      "id": "cotton-club-2026-10-17-広末涼子 act/ryoko hirosue meets the little prince～星の王子さま",
       "date": "2026-10-17",
       "venue": "cotton-club",
-      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince～星の王子さま",
       "subtitle": "またこの場所で、心に響く物語を。 広末涼子が贈る『星の王子さま』朗読ライヴ",
       "genre": "",
       "shows": [
@@ -3525,10 +3525,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-10-18-広末涼子 act/ryoko hirosue meets the little prince〜星の王子さま",
+      "id": "cotton-club-2026-10-18-広末涼子 act/ryoko hirosue meets the little prince～星の王子さま",
       "date": "2026-10-18",
       "venue": "cotton-club",
-      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince〜星の王子さま",
+      "title": "広末涼子 ACT/Ryoko Hirosue meets The Little Prince～星の王子さま",
       "subtitle": "またこの場所で、心に響く物語を。 広末涼子が贈る『星の王子さま』朗読ライヴ",
       "genre": "",
       "shows": [
@@ -5684,19 +5684,19 @@
     "blue-note": {
       "ok": true,
       "count": 126,
-      "updatedAt": "2026-08-23T02:01:54.493Z",
+      "updatedAt": "2026-08-23T07:03:55.484Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 102,
-      "updatedAt": "2026-08-23T02:01:54.493Z",
+      "updatedAt": "2026-08-23T07:03:55.484Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 86,
-      "updatedAt": "2026-08-23T02:01:54.493Z",
+      "updatedAt": "2026-08-23T07:03:55.484Z",
       "error": null
     }
   }
