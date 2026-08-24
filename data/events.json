@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T07:30:46.060Z",
+  "updatedAt": "2026-08-24T13:15:46.064Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -4881,6 +4881,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21659-2026-11-24",
+      "date": "2026-11-24",
+      "venue": "billboard",
+      "title": "Che'Nelle Billboard Live Tour 2026",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥11,000〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21659/top/top_ev-21659_1_1787555982.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21659&date=2026-11-24",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2026-11-24-kenny barron trio",
       "date": "2026-11-24",
       "venue": "blue-note",
@@ -5684,19 +5702,19 @@
     "blue-note": {
       "ok": true,
       "count": 126,
-      "updatedAt": "2026-08-24T07:30:46.060Z",
+      "updatedAt": "2026-08-24T13:15:46.064Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 102,
-      "updatedAt": "2026-08-24T07:30:46.060Z",
+      "updatedAt": "2026-08-24T13:15:46.064Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 86,
-      "updatedAt": "2026-08-24T07:30:46.060Z",
+      "count": 87,
+      "updatedAt": "2026-08-24T13:15:46.064Z",
       "error": null
     }
   }
