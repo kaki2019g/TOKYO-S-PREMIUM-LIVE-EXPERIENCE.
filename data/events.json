@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T01:54:26.553Z",
+  "updatedAt": "2026-08-25T07:10:35.005Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1090,8 +1090,8 @@
         "21:00"
       ],
       "price": "¥6,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21524/top/top_ev-21524_1_1781413262.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21524&date=2026-08-25",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5255,8 +5255,8 @@
         "20:30"
       ],
       "price": "¥8,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5745.jpg?20260825",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/saki-takaoka-261203/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5309,8 +5309,8 @@
         "20:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4005.jpg?20260825",
       "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -5327,8 +5327,8 @@
         "19:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4005.jpg?20260825",
       "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -5345,8 +5345,8 @@
         "19:30"
       ],
       "price": "¥9,900〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4005.jpg?20260825",
       "url": "https://www.bluenote.co.jp/jp/artists/tank-and-the-bangas/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -5702,19 +5702,19 @@
     "blue-note": {
       "ok": true,
       "count": 126,
-      "updatedAt": "2026-08-25T01:54:26.553Z",
+      "updatedAt": "2026-08-25T07:10:35.005Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 102,
-      "updatedAt": "2026-08-25T01:54:26.553Z",
+      "updatedAt": "2026-08-25T07:10:35.005Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 87,
-      "updatedAt": "2026-08-25T01:54:26.553Z",
+      "updatedAt": "2026-08-25T07:10:35.005Z",
       "error": null
     }
   }
