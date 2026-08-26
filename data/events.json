@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T07:10:49.335Z",
+  "updatedAt": "2026-08-26T13:18:22.003Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1901,8 +1901,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2642,6 +2642,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21461/top/top_ev-21461_1_1779109946.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21461&date=2026-09-28",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-09-28-マーティ・フリードマン japan live 2026",
+      "date": "2026-09-28",
+      "venue": "cotton-club",
+      "title": "マーティ・フリードマン JAPAN LIVE 2026",
+      "subtitle": "世界的ギタリスト、マーティ・フリードマン登場！ 相川七瀬＆ASTERISMと贈る一夜限りのスペシャルステージ",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥10,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5751.jpg?20260826",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-friedman-260928/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-09-29-aya hirano anniversary live 2026 ～cotton club～",
@@ -4047,6 +4065,23 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-10-30-古舘と客人と vol.40 古舘伊知郎 バカリズム",
+      "date": "2026-10-30",
+      "venue": "cotton-club",
+      "title": "古舘と客人と vol.40 古舘伊知郎 バカリズム",
+      "subtitle": "古舘伊知郎が\"今\"話したい人と一対一で語り合う 親密なクラブ空間で堪能するプレミアムステージ！",
+      "genre": "",
+      "shows": [
+        "20:00"
+      ],
+      "price": "¥8,000〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5749.jpg?20260826",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ichiro-furutachi-261030/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-10-31-the legendary count basie orchestra directed by scotty barnhart",
       "date": "2026-10-31",
       "venue": "blue-note",
@@ -4423,6 +4458,24 @@
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4002.jpg?20260826",
       "url": "https://www.bluenote.co.jp/jp/artists/theo-katzman/",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-11-11-la reserve asia tour 2026 : maria kim, lucy yeghiazaryan & caity gyorgy",
+      "date": "2026-11-11",
+      "venue": "cotton-club",
+      "title": "LA RESERVE ASIA TOUR 2026 : MARIA KIM, LUCY YEGHIAZARYAN & CAITY GYORGY",
+      "subtitle": "ブルックリン発の注目ジャズ・レーベルが初上陸 3人の歌姫が現代ジャズの多様性と美しさを響かせる",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "20:30"
+      ],
+      "price": "¥8,500〜",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5750.jpg?20260826",
+      "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/la-reserve-asiatour-20261111/",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "blue-note-2026-11-11-theo katzman (of vulfpeck) solo",
@@ -5702,19 +5755,19 @@
     "blue-note": {
       "ok": true,
       "count": 126,
-      "updatedAt": "2026-08-26T07:10:49.335Z",
+      "updatedAt": "2026-08-26T13:18:22.003Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 102,
-      "updatedAt": "2026-08-26T07:10:49.335Z",
+      "count": 105,
+      "updatedAt": "2026-08-26T13:18:22.003Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 87,
-      "updatedAt": "2026-08-26T07:10:49.335Z",
+      "updatedAt": "2026-08-26T13:18:22.003Z",
       "error": null
     }
   }
