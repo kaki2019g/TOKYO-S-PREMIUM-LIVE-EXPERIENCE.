@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T22:18:10.868Z",
+  "updatedAt": "2026-08-28T11:28:29.061Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1256,8 +1256,8 @@
         "20:30"
       ],
       "price": "¥8,800〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21436/top/top_ev-21435_1_1777614445.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21436&date=2026-08-28",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1310,8 +1310,8 @@
         "18:00"
       ],
       "price": "¥6,900〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21405/top/top_ev-21405_1_1787132561.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21405&date=2026-08-30",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1490,8 +1490,8 @@
         "21:00"
       ],
       "price": "¥17,900〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21434/top/top_ev-21434_1_1777548954.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4363,8 +4363,8 @@
         "21:00"
       ],
       "price": "¥9,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4981,8 +4981,8 @@
         "20:30"
       ],
       "price": "¥11,000〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21659/top/top_ev-21659_1_1787555982.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21659&date=2026-11-24",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5632,8 +5632,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-13",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5650,8 +5650,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-14",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5791,19 +5791,19 @@
     "blue-note": {
       "ok": true,
       "count": 128,
-      "updatedAt": "2026-08-27T22:18:10.868Z",
+      "updatedAt": "2026-08-28T11:28:29.061Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-08-27T22:18:10.868Z",
+      "updatedAt": "2026-08-28T11:28:29.061Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 87,
-      "updatedAt": "2026-08-27T22:18:10.868Z",
+      "updatedAt": "2026-08-28T11:28:29.061Z",
       "error": null
     }
   }
