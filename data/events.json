@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T22:24:31.555Z",
+  "updatedAt": "2026-08-29T07:08:00.936Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1901,8 +1901,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4963,8 +4963,8 @@
         "19:00"
       ],
       "price": "¥13,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5704.jpg?20260829",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tsubasa-makoto-261123/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5016,8 +5016,8 @@
         "16:00"
       ],
       "price": "¥13,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5704.jpg?20260829",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tsubasa-makoto-261123/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5052,8 +5052,8 @@
         "19:00"
       ],
       "price": "¥13,800〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5704.jpg?20260829",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/tsubasa-makoto-261123/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5366,6 +5366,24 @@
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21673-2026-12-06",
+      "date": "2026-12-06",
+      "venue": "billboard",
+      "title": "BONNIE PINK Billboard Live 2026 アルバム再現ツアー Vol.3 「Even So」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "15:00",
+        "18:00"
+      ],
+      "price": "¥8,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21673/top/top_ev-21673_1_1787826147.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21673&date=2026-12-06",
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
@@ -5760,8 +5778,8 @@
         "20:30"
       ],
       "price": "¥9,500〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.bluenote.co.jp/web_mainte/img/event/4006.jpg?20260829",
       "url": "https://www.bluenote.co.jp/jp/artists/gretchen-parlato/",
       "source": "https://www.bluenote.co.jp/jp/"
@@ -5791,19 +5809,19 @@
     "blue-note": {
       "ok": true,
       "count": 128,
-      "updatedAt": "2026-08-28T22:24:31.555Z",
+      "updatedAt": "2026-08-29T07:08:00.936Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-08-28T22:24:31.555Z",
+      "updatedAt": "2026-08-29T07:08:00.936Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 87,
-      "updatedAt": "2026-08-28T22:24:31.555Z",
+      "count": 88,
+      "updatedAt": "2026-08-29T07:08:00.936Z",
       "error": null
     }
   }
