@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:57:24.587Z",
+  "updatedAt": "2026-08-30T05:28:37.733Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1310,7 +1310,7 @@
         "18:00"
       ],
       "price": "¥6,900〜",
-      "availability": "SOLD OUT",
+      "availability": "販売終了",
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21405/top/top_ev-21405_1_1787132561.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21405&date=2026-08-30",
@@ -2655,8 +2655,8 @@
         "20:30"
       ],
       "price": "¥10,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5751.jpg?20260830",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/marty-friedman-260928/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -4453,8 +4453,8 @@
         "19:00"
       ],
       "price": "¥12,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5735.jpg?20260830",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/shoichi-fukui-261108/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5362,8 +5362,8 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -5809,19 +5809,19 @@
     "blue-note": {
       "ok": true,
       "count": 128,
-      "updatedAt": "2026-08-29T20:57:24.587Z",
+      "updatedAt": "2026-08-30T05:28:37.733Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-08-29T20:57:24.587Z",
+      "updatedAt": "2026-08-30T05:28:37.733Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-08-29T20:57:24.587Z",
+      "updatedAt": "2026-08-30T05:28:37.733Z",
       "error": null
     }
   }
