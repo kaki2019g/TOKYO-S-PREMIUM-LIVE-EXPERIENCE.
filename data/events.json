@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T21:10:36.534Z",
+  "updatedAt": "2026-08-31T05:41:39.601Z",
   "events": [
     {
       "id": "billboard-ev-21502-2026-08-01",
@@ -1686,8 +1686,8 @@
         "19:00"
       ],
       "price": "¥5,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21640/top/top_ev-21640_1_1786083839.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21640&date=2026-09-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3446,8 +3446,8 @@
         "19:00"
       ],
       "price": "¥12,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5743.jpg?20260831",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3500,8 +3500,8 @@
         "19:00"
       ],
       "price": "¥12,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5743.jpg?20260831",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -3554,8 +3554,8 @@
         "19:00"
       ],
       "price": "¥12,000〜",
-      "availability": "公式サイトで確認",
-      "availabilityType": "unknown",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://reserve.cottonclubjapan.co.jp/web_mainte/img/event/5743.jpg?20260831",
       "url": "https://www.cottonclubjapan.co.jp/jp/sp/artists/ryoko-hirosue-261016/",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
@@ -5809,19 +5809,19 @@
     "blue-note": {
       "ok": true,
       "count": 128,
-      "updatedAt": "2026-08-30T21:10:36.534Z",
+      "updatedAt": "2026-08-31T05:41:39.601Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-08-30T21:10:36.534Z",
+      "updatedAt": "2026-08-31T05:41:39.601Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-08-30T21:10:36.534Z",
+      "updatedAt": "2026-08-31T05:41:39.601Z",
       "error": null
     }
   }
