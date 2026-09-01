@@ -1,7 +1,8 @@
 import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import test from "node:test";
-import { parseClubMonth } from "../lib/scrapers.js";
+import { mergeRefreshResults } from "../lib/event-store.js";
+import { parseClubMonth, venueDefinitions } from "../lib/scrapers.js";
 
 const store = JSON.parse(
   await readFile(new URL("../data/events.json", import.meta.url), "utf8"),
@@ -37,6 +38,48 @@ test("event ids are unique", () => {
   assert.equal(new Set(ids).size, ids.length);
 });
 
+test("an empty scraper result keeps the previous venue cache", () => {
+  const previous = {
+    events: [
+      {
+        id: "blue-note-2026-09-01-cached",
+        date: "2026-09-01",
+        venue: "blue-note",
+        title: "Cached event",
+      },
+    ],
+    venues: venueDefinitions,
+    sources: {
+      "blue-note": {
+        ok: true,
+        count: 1,
+        updatedAt: "2026-08-01T00:00:00.000Z",
+        error: null,
+      },
+    },
+  };
+  const results = [
+    {
+      status: "fulfilled",
+      value: { venue: "blue-note", events: [] },
+    },
+    {
+      status: "fulfilled",
+      value: { venue: "cotton-club", events: [] },
+    },
+    {
+      status: "fulfilled",
+      value: { venue: "billboard", events: [] },
+    },
+  ];
+
+  const refreshed = mergeRefreshResults(previous, results, "2026-09-01T00:00:00.000Z");
+
+  assert.deepEqual(refreshed.events, previous.events);
+  assert.equal(refreshed.sources["blue-note"].ok, false);
+  assert.match(refreshed.sources["blue-note"].error, /returned no events/);
+});
+
 test("classic club scraper keeps every show listed on the same date", () => {
   const html = `
     <div class="scheduleTable">
@@ -67,4 +110,36 @@ test("classic club scraper keeps every show listed on the same date", () => {
   );
 
   assert.deepEqual(event.shows, ["16:30", "19:30"]);
+});
+
+test("club scraper supports the current schedule card markup", () => {
+  const html = `
+    <div class="m-schedule-list__row">
+      <div class="m-schedule-list__date">
+        <span class="m-schedule-list__date-num">30</span>
+        <span class="m-schedule-list__date-num">1</span>
+      </div>
+      <a class="c-schedule-list-card" href="/reserve/schedule/exec/123">
+        <img src="/reserve/img/event/123.jpg" alt="">
+        <p class="c-schedule-list-card__title">Modern Live<br>in Tokyo</p>
+        <span class="c-schedule-list-card__charge-price">¥9,000</span>
+      </a>
+    </div>`;
+  const events = parseClubMonth(
+    html,
+    {
+      venue: "blue-note",
+      venueUrl: "https://www.bluenote.co.jp/jp/",
+      scheduleBase: "https://reserve.bluenote.co.jp/",
+    },
+    { year: 2026, month: 9 },
+  );
+
+  assert.deepEqual(
+    events.map((event) => event.date),
+    ["2026-09-30", "2026-10-01"],
+  );
+  assert.equal(events[0].title, "Modern Live in Tokyo");
+  assert.equal(events[0].price, "¥9,000");
+  assert.equal(events[0].url, "https://reserve.bluenote.co.jp/reserve/schedule/exec/123");
 });
