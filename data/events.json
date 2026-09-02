@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T04:40:28.205Z",
+  "updatedAt": "2026-09-02T11:23:59.079Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -1836,8 +1836,8 @@
         "18:00"
       ],
       "price": "¥7,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21451/top/top_ev-21449_1_1778639629.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21451&date=2026-10-17",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2634,8 +2634,8 @@
         "21:00"
       ],
       "price": "¥9,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2968,6 +2968,21 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-11-16-richard galliano new viaggio trio",
+      "date": "2026-11-16",
+      "venue": "cotton-club",
+      "title": "RICHARD GALLIANO NEW VIAGGIO TRIO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5752.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5752",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21644-2026-11-16",
       "date": "2026-11-16",
       "venue": "billboard",
@@ -2999,6 +3014,21 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-11-17-richard galliano new viaggio trio",
+      "date": "2026-11-17",
+      "venue": "cotton-club",
+      "title": "RICHARD GALLIANO NEW VIAGGIO TRIO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5752.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5752",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-11-18-carlos toshiki 40th anniversary live tour 2026",
@@ -3997,19 +4027,19 @@
     "blue-note": {
       "ok": true,
       "count": 100,
-      "updatedAt": "2026-09-02T04:40:28.205Z",
+      "updatedAt": "2026-09-02T11:23:59.079Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 76,
-      "updatedAt": "2026-09-02T04:40:28.205Z",
+      "count": 78,
+      "updatedAt": "2026-09-02T11:23:59.079Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 74,
-      "updatedAt": "2026-09-02T04:40:28.205Z",
+      "updatedAt": "2026-09-02T11:23:59.079Z",
       "error": null
     }
   }
