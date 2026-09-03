@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T04:37:30.022Z",
+  "updatedAt": "2026-09-03T11:20:21.561Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -58,7 +58,7 @@
         "21:00"
       ],
       "price": "¥17,900〜",
-      "availability": "SOLD OUT",
+      "availability": "販売終了",
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21434/top/top_ev-21434_1_1777548954.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21434&date=2026-09-03",
@@ -2634,8 +2634,8 @@
         "21:00"
       ],
       "price": "¥9,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3751,6 +3751,36 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "blue-note-2026-12-18-akiko wada -soul power-",
+      "date": "2026-12-18",
+      "venue": "blue-note",
+      "title": "AKIKO WADA -SOUL POWER-",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥18,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4011.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4011",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-19-akiko wada -soul power-",
+      "date": "2026-12-19",
+      "venue": "blue-note",
+      "title": "AKIKO WADA -SOUL POWER-",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥18,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4011.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4011",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21657-2026-12-19",
       "date": "2026-12-19",
       "venue": "billboard",
@@ -3841,6 +3871,36 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2027-01-11-jeff parker eta ivtet",
+      "date": "2027-01-11",
+      "venue": "blue-note",
+      "title": "JEFF PARKER ETA IVtet",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4012.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4012",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-12-jeff parker eta ivtet",
+      "date": "2027-01-12",
+      "venue": "blue-note",
+      "title": "JEFF PARKER ETA IVtet",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4012.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4012",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21617-2027-01-13",
       "date": "2027-01-13",
       "venue": "billboard",
@@ -3857,6 +3917,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21617/top/top_ev-21617_1_1785297888.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21617&date=2027-01-13",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2027-01-13-jeff parker eta ivtet",
+      "date": "2027-01-13",
+      "venue": "blue-note",
+      "title": "JEFF PARKER ETA IVtet",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4012.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4012",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21617-2027-01-14",
@@ -3877,6 +3952,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2027-01-21-the messthetics and james brandon lewis",
+      "date": "2027-01-21",
+      "venue": "blue-note",
+      "title": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4013.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4013",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21646-2027-01-21",
       "date": "2027-01-21",
       "venue": "billboard",
@@ -3895,6 +3985,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2027-01-22-the messthetics and james brandon lewis",
+      "date": "2027-01-22",
+      "venue": "cotton-club",
+      "title": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5753.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5753",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21646-2027-01-22",
       "date": "2027-01-22",
       "venue": "billboard",
@@ -3911,6 +4016,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21646/top/top_ev-21646_1_1787032867.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-22",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-01-23-the messthetics and james brandon lewis",
+      "date": "2027-01-23",
+      "venue": "cotton-club",
+      "title": "THE MESSTHETICS AND JAMES BRANDON LEWIS",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5753.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5753",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "blue-note-2027-01-27-senri oe trio",
@@ -4026,20 +4146,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 100,
-      "updatedAt": "2026-09-03T04:37:30.022Z",
+      "count": 106,
+      "updatedAt": "2026-09-03T11:20:21.561Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 78,
-      "updatedAt": "2026-09-03T04:37:30.022Z",
+      "count": 80,
+      "updatedAt": "2026-09-03T11:20:21.561Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 74,
-      "updatedAt": "2026-09-03T04:37:30.022Z",
+      "updatedAt": "2026-09-03T11:20:21.561Z",
       "error": null
     }
   }
