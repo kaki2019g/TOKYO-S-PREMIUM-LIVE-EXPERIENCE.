@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T21:05:13.859Z",
+  "updatedAt": "2026-09-04T04:44:48.361Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -456,8 +456,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2493,8 +2493,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21607/top/top_ev-21607_1_1784777838.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21607&date=2026-11-02",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3381,8 +3381,8 @@
         "19:00"
       ],
       "price": "¥7,700〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21563/top/top_ev-21563_1_1783505674.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21563&date=2026-11-28",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4147,19 +4147,19 @@
     "blue-note": {
       "ok": true,
       "count": 106,
-      "updatedAt": "2026-09-03T21:05:13.859Z",
+      "updatedAt": "2026-09-04T04:44:48.361Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-09-03T21:05:13.859Z",
+      "updatedAt": "2026-09-04T04:44:48.361Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 74,
-      "updatedAt": "2026-09-03T21:05:13.859Z",
+      "updatedAt": "2026-09-04T04:44:48.361Z",
       "error": null
     }
   }
