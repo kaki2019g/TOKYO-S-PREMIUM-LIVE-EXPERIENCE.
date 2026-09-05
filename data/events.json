@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T10:40:18.582Z",
+  "updatedAt": "2026-09-05T15:17:41.760Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -3871,6 +3871,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21679-2026-12-29",
+      "date": "2026-12-29",
+      "venue": "billboard",
+      "title": "Do As Infinity Billboard Live Tour 2026",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,800〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21679/top/top_ev-21677_1_1788520089.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21679&date=2026-12-29",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-11-jeff parker eta ivtet",
       "date": "2027-01-11",
       "venue": "blue-note",
@@ -4147,19 +4165,19 @@
     "blue-note": {
       "ok": true,
       "count": 106,
-      "updatedAt": "2026-09-05T10:40:18.582Z",
+      "updatedAt": "2026-09-05T15:17:41.760Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-09-05T10:40:18.582Z",
+      "updatedAt": "2026-09-05T15:17:41.760Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 74,
-      "updatedAt": "2026-09-05T10:40:18.582Z",
+      "count": 75,
+      "updatedAt": "2026-09-05T15:17:41.760Z",
       "error": null
     }
   }
