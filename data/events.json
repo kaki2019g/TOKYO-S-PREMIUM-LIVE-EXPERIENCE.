@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T04:34:36.893Z",
+  "updatedAt": "2026-09-05T10:40:18.582Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -154,8 +154,8 @@
         "19:00"
       ],
       "price": "¥15,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21551/top/top_ev-21547_1_1782184183.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21551&date=2026-09-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1836,8 +1836,8 @@
         "18:00"
       ],
       "price": "¥7,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21451/top/top_ev-21449_1_1778639629.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21451&date=2026-10-17",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4147,19 +4147,19 @@
     "blue-note": {
       "ok": true,
       "count": 106,
-      "updatedAt": "2026-09-05T04:34:36.893Z",
+      "updatedAt": "2026-09-05T10:40:18.582Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-09-05T04:34:36.893Z",
+      "updatedAt": "2026-09-05T10:40:18.582Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 74,
-      "updatedAt": "2026-09-05T04:34:36.893Z",
+      "updatedAt": "2026-09-05T10:40:18.582Z",
       "error": null
     }
   }
