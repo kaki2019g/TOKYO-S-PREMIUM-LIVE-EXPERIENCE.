@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T20:27:25.762Z",
+  "updatedAt": "2026-09-07T04:48:04.776Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -4165,20 +4165,20 @@
     "blue-note": {
       "ok": true,
       "count": 106,
-      "updatedAt": "2026-09-06T20:27:25.762Z",
+      "updatedAt": "2026-09-07T04:48:04.776Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-09-06T20:27:25.762Z",
+      "updatedAt": "2026-09-07T04:48:04.776Z",
       "error": null
     },
     "billboard": {
-      "ok": true,
+      "ok": false,
       "count": 75,
       "updatedAt": "2026-09-06T20:27:25.762Z",
-      "error": null
+      "error": "fetch failed"
     }
   }
 }
