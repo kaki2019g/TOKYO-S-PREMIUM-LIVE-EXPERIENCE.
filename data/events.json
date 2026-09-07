@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T04:48:04.776Z",
+  "updatedAt": "2026-09-07T12:40:23.565Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -220,8 +220,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21521/top/top_ev-21521_1_1781234116.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21521&date=2026-09-07",
       "source": "https://www.billboard-live.com/tokyo"
@@ -456,8 +456,8 @@
         "19:00"
       ],
       "price": "¥12,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21566/top/top_ev-21566_1_1785484818.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21566&date=2026-09-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3996,8 +3996,8 @@
         "21:00"
       ],
       "price": "¥11,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21646/top/top_ev-21646_1_1787032867.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4029,8 +4029,8 @@
         "21:00"
       ],
       "price": "¥11,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21646/top/top_ev-21646_1_1787032867.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-22",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4165,20 +4165,20 @@
     "blue-note": {
       "ok": true,
       "count": 106,
-      "updatedAt": "2026-09-07T04:48:04.776Z",
+      "updatedAt": "2026-09-07T12:40:23.565Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-09-07T04:48:04.776Z",
+      "updatedAt": "2026-09-07T12:40:23.565Z",
       "error": null
     },
     "billboard": {
-      "ok": false,
+      "ok": true,
       "count": 75,
-      "updatedAt": "2026-09-06T20:27:25.762Z",
-      "error": "fetch failed"
+      "updatedAt": "2026-09-07T12:40:23.565Z",
+      "error": null
     }
   }
 }
