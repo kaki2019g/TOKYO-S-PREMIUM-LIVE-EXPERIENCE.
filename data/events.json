@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T21:12:58.804Z",
+  "updatedAt": "2026-09-09T04:47:43.675Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -2994,8 +2994,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21644/top/top_ev-21644_1_1786595931.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4183,19 +4183,19 @@
     "blue-note": {
       "ok": true,
       "count": 106,
-      "updatedAt": "2026-09-08T21:12:58.804Z",
+      "updatedAt": "2026-09-09T04:47:43.675Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-09-08T21:12:58.804Z",
+      "updatedAt": "2026-09-09T04:47:43.675Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 76,
-      "updatedAt": "2026-09-08T21:12:58.804Z",
+      "updatedAt": "2026-09-09T04:47:43.675Z",
       "error": null
     }
   }
