@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T04:48:52.348Z",
+  "updatedAt": "2026-09-10T11:25:12.865Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -360,8 +360,8 @@
         "20:00"
       ],
       "price": "¥8,800〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21471/top/top_ev-21471_1_1779358847.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21471&date=2026-09-10",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3559,6 +3559,21 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "blue-note-2026-12-03-sai \"flow tones 26\"",
+      "date": "2026-12-03",
+      "venue": "blue-note",
+      "title": "SAI \"FLOW TONES 26\"",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4014.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4014",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "cotton-club-2026-12-03-高岡早紀 birthday premium live 2026",
       "date": "2026-12-03",
       "venue": "cotton-club",
@@ -3572,6 +3587,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5745.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5745",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21685-2026-12-04",
+      "date": "2026-12-04",
+      "venue": "billboard",
+      "title": "斉藤由貴 Xmas live 2026",
+      "subtitle": "",
+      "genre": "※全席GOODS付き",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥10,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21685/top/top_ev-21685_1_1788922897.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "billboard-ev-21590-2026-12-05",
@@ -4242,20 +4275,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 106,
-      "updatedAt": "2026-09-10T04:48:52.348Z",
+      "count": 107,
+      "updatedAt": "2026-09-10T11:25:12.865Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 84,
-      "updatedAt": "2026-09-10T04:48:52.348Z",
+      "updatedAt": "2026-09-10T11:25:12.865Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 76,
-      "updatedAt": "2026-09-10T04:48:52.348Z",
+      "count": 77,
+      "updatedAt": "2026-09-10T11:25:12.865Z",
       "error": null
     }
   }
