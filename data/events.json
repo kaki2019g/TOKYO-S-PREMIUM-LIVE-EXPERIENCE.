@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:46:03.885Z",
+  "updatedAt": "2026-09-11T11:27:13.880Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -378,8 +378,8 @@
         "20:30"
       ],
       "price": "¥6,000〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21570/top/top_ev-21570_1_1782966595.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21570&date=2026-09-11",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3751,6 +3751,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21688-2026-12-14",
+      "date": "2026-12-14",
+      "venue": "billboard",
+      "title": "Marihiko Hara Trio",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥6,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21688/top/top_ev-21688_1_1789008560.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21688&date=2026-12-14",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2026-12-14-three visitors featuring edward simon, scott colley &amp; brian blade",
       "date": "2026-12-14",
       "venue": "cotton-club",
@@ -3993,8 +4011,8 @@
         "20:30"
       ],
       "price": "¥9,800〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21679/top/top_ev-21677_1_1788520089.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21679&date=2026-12-29",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4107,8 +4125,8 @@
         "21:00"
       ],
       "price": "¥11,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21646/top/top_ev-21646_1_1787032867.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21646&date=2027-01-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4276,19 +4294,19 @@
     "blue-note": {
       "ok": true,
       "count": 107,
-      "updatedAt": "2026-09-11T04:46:03.885Z",
+      "updatedAt": "2026-09-11T11:27:13.880Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 84,
-      "updatedAt": "2026-09-11T04:46:03.885Z",
+      "updatedAt": "2026-09-11T11:27:13.880Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 77,
-      "updatedAt": "2026-09-11T04:46:03.885Z",
+      "count": 78,
+      "updatedAt": "2026-09-11T11:27:13.880Z",
       "error": null
     }
   }
