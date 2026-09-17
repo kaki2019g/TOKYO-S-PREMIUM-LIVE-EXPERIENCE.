@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T04:57:01.338Z",
+  "updatedAt": "2026-09-17T11:47:20.616Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -3385,6 +3385,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2026-11-28-rhymester and the boom baps \"king of stage at blue note tokyo 2026\"",
+      "date": "2026-11-28",
+      "venue": "blue-note",
+      "title": "RHYMESTER AND THE BOOM BAPS \"King of Stage at Blue Note Tokyo 2026\"",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4017.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4017",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "cotton-club-2026-11-28-yasuda narumi 60th",
       "date": "2026-11-28",
       "venue": "cotton-club",
@@ -3431,6 +3446,21 @@
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5729.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5729",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-11-29-rhymester and the boom baps \"king of stage at blue note tokyo 2026\"",
+      "date": "2026-11-29",
+      "venue": "blue-note",
+      "title": "RHYMESTER AND THE BOOM BAPS \"King of Stage at Blue Note Tokyo 2026\"",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4017.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4017",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21592-2026-11-29",
@@ -3589,6 +3619,21 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "blue-note-2026-12-04-soil&amp;\"pimp\"sessions year-end special live 2026 in tokyo「so il what」",
+      "date": "2026-12-04",
+      "venue": "blue-note",
+      "title": "SOIL&amp;\"PIMP\"SESSIONS YEAR-END SPECIAL LIVE 2026 IN TOKYO「SO il WHAT」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4015.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4015",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21685-2026-12-04",
       "date": "2026-12-04",
       "venue": "billboard",
@@ -3623,6 +3668,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-05-soil&amp;\"pimp\"sessions year-end special live 2026 in tokyo「so il what」",
+      "date": "2026-12-05",
+      "venue": "blue-note",
+      "title": "SOIL&amp;\"PIMP\"SESSIONS YEAR-END SPECIAL LIVE 2026 IN TOKYO「SO il WHAT」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4015.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4015",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21673-2026-12-06",
@@ -4018,6 +4078,51 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2027-01-08-jose james presents facing east: the music of john coltrane with special guest ron blake",
+      "date": "2027-01-08",
+      "venue": "blue-note",
+      "title": "JOSE JAMES presents Facing East: The Music of John Coltrane with special guest RON BLAKE",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4016.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4016",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-09-jose james presents facing east: the music of john coltrane with special guest ron blake",
+      "date": "2027-01-09",
+      "venue": "blue-note",
+      "title": "JOSE JAMES presents Facing East: The Music of John Coltrane with special guest RON BLAKE",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4016.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4016",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-10-jose james presents facing east: the music of john coltrane with special guest ron blake",
+      "date": "2027-01-10",
+      "venue": "blue-note",
+      "title": "JOSE JAMES presents Facing East: The Music of John Coltrane with special guest RON BLAKE",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4016.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4016",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2027-01-11-jeff parker eta ivtet",
       "date": "2027-01-11",
       "venue": "blue-note",
@@ -4293,20 +4398,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 107,
-      "updatedAt": "2026-09-17T04:57:01.338Z",
+      "count": 114,
+      "updatedAt": "2026-09-17T11:47:20.616Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 84,
-      "updatedAt": "2026-09-17T04:57:01.338Z",
+      "updatedAt": "2026-09-17T11:47:20.616Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 78,
-      "updatedAt": "2026-09-17T04:57:01.338Z",
+      "updatedAt": "2026-09-17T11:47:20.616Z",
       "error": null
     }
   }
