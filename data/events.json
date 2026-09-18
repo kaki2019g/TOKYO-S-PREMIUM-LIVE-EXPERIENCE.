@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T04:48:59.802Z",
+  "updatedAt": "2026-09-18T11:21:33.201Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -696,8 +696,8 @@
         "20:30"
       ],
       "price": "¥6,200〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21519/top/top_ev-21519_1_1781231429.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21519&date=2026-09-18",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3811,6 +3811,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21692-2026-12-13",
+      "date": "2026-12-13",
+      "venue": "billboard",
+      "title": "今井美樹 Billboard Live 2026",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥12,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21692/top/top_ev-21692_1_1789373686.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21692&date=2026-12-13",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21688-2026-12-14",
       "date": "2026-12-14",
       "venue": "billboard",
@@ -4373,6 +4391,42 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4006.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4006",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21695-2027-02-03",
+      "date": "2027-02-03",
+      "venue": "billboard",
+      "title": "Jo Jelly",
+      "subtitle": "First Japan Live at Billboard Live",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥7,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21695/top/top_ev-21695_1_1789542039.jpeg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-03",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21695-2027-02-04",
+      "date": "2027-02-04",
+      "venue": "billboard",
+      "title": "Jo Jelly",
+      "subtitle": "First Japan Live at Billboard Live",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥7,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21695/top/top_ev-21695_1_1789542039.jpeg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-04",
+      "source": "https://www.billboard-live.com/tokyo"
     }
   ],
   "venues": {
@@ -4399,19 +4453,19 @@
     "blue-note": {
       "ok": true,
       "count": 114,
-      "updatedAt": "2026-09-18T04:48:59.802Z",
+      "updatedAt": "2026-09-18T11:21:33.201Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 84,
-      "updatedAt": "2026-09-18T04:48:59.802Z",
+      "updatedAt": "2026-09-18T11:21:33.201Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 78,
-      "updatedAt": "2026-09-18T04:48:59.802Z",
+      "count": 81,
+      "updatedAt": "2026-09-18T11:21:33.201Z",
       "error": null
     }
   }
