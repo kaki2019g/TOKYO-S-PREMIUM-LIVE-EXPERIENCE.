@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:03:15.372Z",
+  "updatedAt": "2026-09-22T11:44:30.724Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -2415,7 +2415,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5749.jpg",
-      "url": "https://reserve.cottonclubjapan.co.jp/reserve/lottery/index/furutachivol40",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5749",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
@@ -4471,19 +4471,19 @@
     "blue-note": {
       "ok": true,
       "count": 114,
-      "updatedAt": "2026-09-22T05:03:15.372Z",
+      "updatedAt": "2026-09-22T11:44:30.724Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 84,
-      "updatedAt": "2026-09-22T05:03:15.372Z",
+      "updatedAt": "2026-09-22T11:44:30.724Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-09-22T05:03:15.372Z",
+      "updatedAt": "2026-09-22T11:44:30.724Z",
       "error": null
     }
   }
