@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:49:29.392Z",
+  "updatedAt": "2026-09-23T11:43:34.476Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -2371,6 +2371,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2026-10-29-魚返明未 solo piano",
+      "date": "2026-10-29",
+      "venue": "cotton-club",
+      "title": "魚返明未 solo piano",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥6,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5757.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5757",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21584-2026-10-30",
       "date": "2026-10-30",
       "venue": "billboard",
@@ -2777,6 +2792,21 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4002.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4002",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-11-10-古舘と客人と vol.41 古舘伊知郎 有働由美子",
+      "date": "2026-11-10",
+      "venue": "cotton-club",
+      "title": "古舘と客人と vol.41 古舘伊知郎 有働由美子",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5758.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5758",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-11-11-la reserve asia tour 2026 : maria kim, lucy yeghiazaryan &amp; caity gyorgy",
@@ -3619,6 +3649,21 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2026-12-04-music and bullet？ 〜音楽と銃弾〜",
+      "date": "2026-12-04",
+      "venue": "cotton-club",
+      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5759.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5759",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-12-04-soil&amp;\"pimp\"sessions year-end special live 2026 in tokyo「so il what」",
       "date": "2026-12-04",
       "venue": "blue-note",
@@ -3670,6 +3715,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2026-12-05-music and bullet？ 〜音楽と銃弾〜",
+      "date": "2026-12-05",
+      "venue": "cotton-club",
+      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5759.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5759",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-12-05-soil&amp;\"pimp\"sessions year-end special live 2026 in tokyo「so il what」",
       "date": "2026-12-05",
       "venue": "blue-note",
@@ -3701,6 +3761,36 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21673/top/top_ev-21673_1_1787826147.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21673&date=2026-12-06",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-12-06-music and bullet？ 〜音楽と銃弾〜",
+      "date": "2026-12-06",
+      "venue": "cotton-club",
+      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5759.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5759",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-12-07-music and bullet？ 〜音楽と銃弾〜",
+      "date": "2026-12-07",
+      "venue": "cotton-club",
+      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5759.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5759",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-12-10-kazuki kato treasure box 2026 - man to man3 -",
@@ -4288,6 +4378,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21693-2027-01-23",
+      "date": "2027-01-23",
+      "venue": "billboard",
+      "title": "EPO エンドレスバレンタイン",
+      "subtitle": "With 清水信之＋佐橋佳幸＋GOOD BYE APRIL",
+      "genre": "",
+      "shows": [
+        "15:00",
+        "18:00"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21693/top/top_ev-21693_1_1789379809.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21693&date=2027-01-23",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2027-01-23-the messthetics and james brandon lewis",
       "date": "2027-01-23",
       "venue": "cotton-club",
@@ -4301,6 +4409,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5753.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5753",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21693-2027-01-24",
+      "date": "2027-01-24",
+      "venue": "billboard",
+      "title": "EPO エンドレスバレンタイン",
+      "subtitle": "With 清水信之＋佐橋佳幸＋GOOD BYE APRIL",
+      "genre": "",
+      "shows": [
+        "15:00",
+        "18:00"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21693/top/top_ev-21693_1_1789379809.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21693&date=2027-01-24",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2027-01-27-senri oe trio",
@@ -4471,19 +4597,19 @@
     "blue-note": {
       "ok": true,
       "count": 114,
-      "updatedAt": "2026-09-23T04:49:29.392Z",
+      "updatedAt": "2026-09-23T11:43:34.476Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 84,
-      "updatedAt": "2026-09-23T04:49:29.392Z",
+      "count": 90,
+      "updatedAt": "2026-09-23T11:43:34.476Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 82,
-      "updatedAt": "2026-09-23T04:49:29.392Z",
+      "count": 84,
+      "updatedAt": "2026-09-23T11:43:34.476Z",
       "error": null
     }
   }
