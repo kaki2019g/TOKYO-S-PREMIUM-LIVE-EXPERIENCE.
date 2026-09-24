@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T11:52:06.134Z",
+  "updatedAt": "2026-09-24T17:15:16.435Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -2865,7 +2865,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3980.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3980",
+      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -2931,7 +2931,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3980.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3980",
+      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -2961,7 +2961,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3980.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3980",
+      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -3042,7 +3042,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
+      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -3090,7 +3090,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
+      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -3135,7 +3135,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
+      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -4750,19 +4750,19 @@
     "blue-note": {
       "ok": true,
       "count": 123,
-      "updatedAt": "2026-09-24T11:52:06.134Z",
+      "updatedAt": "2026-09-24T17:15:16.435Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 90,
-      "updatedAt": "2026-09-24T11:52:06.134Z",
+      "updatedAt": "2026-09-24T17:15:16.435Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-09-24T11:52:06.134Z",
+      "updatedAt": "2026-09-24T17:15:16.435Z",
       "error": null
     }
   }
