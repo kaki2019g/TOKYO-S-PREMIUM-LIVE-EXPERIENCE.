@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T04:57:29.485Z",
+  "updatedAt": "2026-09-24T11:52:06.134Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -915,8 +915,8 @@
         "20:30"
       ],
       "price": "¥9,100〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21557/top/top_ev-21557_1_1782291998.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21557&date=2026-09-24",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1866,8 +1866,8 @@
         "18:00"
       ],
       "price": "¥7,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21451/top/top_ev-21449_1_1778639629.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21451&date=2026-10-17",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2887,6 +2887,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21710-2026-11-13",
+      "date": "2026-11-13",
+      "venue": "billboard",
+      "title": "#12 稲垣潤一×武部聡志",
+      "subtitle": "Billboard Live presents Piano Duo Session",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21710/top/top_ev-21710_1_1790220272.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21710&date=2026-11-13",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2026-11-13-benny green trio",
       "date": "2026-11-13",
       "venue": "cotton-club",
@@ -3649,10 +3667,10 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-12-04-music and bullet？ 〜音楽と銃弾〜",
+      "id": "cotton-club-2026-12-04-music and bullet ⅱ 〜音楽と銃弾〜",
       "date": "2026-12-04",
       "venue": "cotton-club",
-      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -3715,10 +3733,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-12-05-music and bullet？ 〜音楽と銃弾〜",
+      "id": "cotton-club-2026-12-05-music and bullet ⅱ 〜音楽と銃弾〜",
       "date": "2026-12-05",
       "venue": "cotton-club",
-      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -3763,10 +3781,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-12-06-music and bullet？ 〜音楽と銃弾〜",
+      "id": "cotton-club-2026-12-06-music and bullet ⅱ 〜音楽と銃弾〜",
       "date": "2026-12-06",
       "venue": "cotton-club",
-      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -3778,10 +3796,10 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-12-07-music and bullet？ 〜音楽と銃弾〜",
+      "id": "cotton-club-2026-12-07-music and bullet ⅱ 〜音楽と銃弾〜",
       "date": "2026-12-07",
       "venue": "cotton-club",
-      "title": "Music and Bullet？ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -4096,6 +4114,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2026-12-21-holly cole : swinging christmas with strings",
+      "date": "2026-12-21",
+      "venue": "blue-note",
+      "title": "HOLLY COLE : Swinging Christmas with Strings",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4020.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4020",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21657-2026-12-21",
       "date": "2026-12-21",
       "venue": "billboard",
@@ -4112,6 +4145,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-21",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-22-holly cole : swinging christmas with strings",
+      "date": "2026-12-22",
+      "venue": "blue-note",
+      "title": "HOLLY COLE : Swinging Christmas with Strings",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4020.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4020",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21657-2026-12-22",
@@ -4132,6 +4180,66 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2026-12-23-holly cole : swinging christmas with strings",
+      "date": "2026-12-23",
+      "venue": "blue-note",
+      "title": "HOLLY COLE : Swinging Christmas with Strings",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4020.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4020",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-24-christmas evening with emmet cohen",
+      "date": "2026-12-24",
+      "venue": "blue-note",
+      "title": "Christmas Evening with EMMET COHEN",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4019.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4019",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-25-christmas evening with emmet cohen",
+      "date": "2026-12-25",
+      "venue": "blue-note",
+      "title": "Christmas Evening with EMMET COHEN",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4019.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4019",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-26-christmas evening with emmet cohen",
+      "date": "2026-12-26",
+      "venue": "blue-note",
+      "title": "Christmas Evening with EMMET COHEN",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4019.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4019",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21612-2026-12-26",
       "date": "2026-12-26",
       "venue": "billboard",
@@ -4148,6 +4256,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21612/top/top_ev-21610_1_1784865981.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-26",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-27-christmas evening with emmet cohen",
+      "date": "2026-12-27",
+      "venue": "blue-note",
+      "title": "Christmas Evening with EMMET COHEN",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,900",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4019.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4019",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21612-2026-12-27",
@@ -4184,6 +4307,36 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21679/top/top_ev-21677_1_1788520089.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21679&date=2026-12-29",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2027-01-05-toshiki soejima 8th anniversary live",
+      "date": "2027-01-05",
+      "venue": "blue-note",
+      "title": "TOSHIKI SOEJIMA 8th Anniversary Live",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4018.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4018",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-06-toshiki soejima 8th anniversary live",
+      "date": "2027-01-06",
+      "venue": "blue-note",
+      "title": "TOSHIKI SOEJIMA 8th Anniversary Live",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4018.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4018",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "blue-note-2027-01-08-jose james presents facing east: the music of john coltrane with special guest ron blake",
@@ -4596,20 +4749,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 114,
-      "updatedAt": "2026-09-24T04:57:29.485Z",
+      "count": 123,
+      "updatedAt": "2026-09-24T11:52:06.134Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 90,
-      "updatedAt": "2026-09-24T04:57:29.485Z",
+      "updatedAt": "2026-09-24T11:52:06.134Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 84,
-      "updatedAt": "2026-09-24T04:57:29.485Z",
+      "count": 85,
+      "updatedAt": "2026-09-24T11:52:06.134Z",
       "error": null
     }
   }
