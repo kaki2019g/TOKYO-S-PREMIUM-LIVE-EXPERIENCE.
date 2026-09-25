@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T21:33:41.860Z",
+  "updatedAt": "2026-09-25T05:02:14.438Z",
   "events": [
     {
       "id": "blue-note-2026-09-01-mike stern band featuring dennis chambers, randy brecker, leni stern &amp; lincoln goines",
@@ -4597,6 +4597,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21698-2027-01-28",
+      "date": "2027-01-28",
+      "venue": "billboard",
+      "title": "LOSALIOS",
+      "subtitle": "with 田中邦和、タブゾンビ、LEO",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21698/top/top_ev-21698_1_1790306633.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21698&date=2027-01-28",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-28-senri oe trio",
       "date": "2027-01-28",
       "venue": "blue-note",
@@ -4750,19 +4768,19 @@
     "blue-note": {
       "ok": true,
       "count": 123,
-      "updatedAt": "2026-09-24T21:33:41.860Z",
+      "updatedAt": "2026-09-25T05:02:14.438Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 90,
-      "updatedAt": "2026-09-24T21:33:41.860Z",
+      "updatedAt": "2026-09-25T05:02:14.438Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 85,
-      "updatedAt": "2026-09-24T21:33:41.860Z",
+      "count": 86,
+      "updatedAt": "2026-09-25T05:02:14.438Z",
       "error": null
     }
   }
