@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T06:02:00.956Z",
+  "updatedAt": "2026-10-01T13:24:10.587Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -28,8 +28,8 @@
         "20:30"
       ],
       "price": "¥7,100〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21605/top/top_ev-21605_1_1784698008.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21605&date=2026-10-01",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1452,7 +1452,7 @@
       "date": "2026-11-05",
       "venue": "billboard",
       "title": "ZARUKAME",
-      "subtitle": "Billboard Live with special band \"Echoes\"",
+      "subtitle": "Billboard Live with special band \"Echoes\" Guest：上野耕平",
       "genre": "",
       "shows": [
         "17:30",
@@ -2513,10 +2513,10 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-12-04-music and bullet ⅱ 〜音楽と銃弾〜",
+      "id": "cotton-club-2026-12-04-music and bullet ⅱ",
       "date": "2026-12-04",
       "venue": "cotton-club",
-      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -2579,10 +2579,10 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-12-05-music and bullet ⅱ 〜音楽と銃弾〜",
+      "id": "cotton-club-2026-12-05-music and bullet ⅱ",
       "date": "2026-12-05",
       "venue": "cotton-club",
-      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -2627,10 +2627,25 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
-      "id": "cotton-club-2026-12-06-music and bullet ⅱ 〜音楽と銃弾〜",
+      "id": "blue-note-2026-12-06-lee ritenour",
+      "date": "2026-12-06",
+      "venue": "blue-note",
+      "title": "LEE RITENOUR",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4021.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4021",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-12-06-music and bullet ⅱ",
       "date": "2026-12-06",
       "venue": "cotton-club",
-      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -2642,10 +2657,25 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2026-12-07-music and bullet ⅱ 〜音楽と銃弾〜",
+      "id": "blue-note-2026-12-07-lee ritenour",
+      "date": "2026-12-07",
+      "venue": "blue-note",
+      "title": "LEE RITENOUR",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4021.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4021",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2026-12-07-music and bullet ⅱ",
       "date": "2026-12-07",
       "venue": "cotton-club",
-      "title": "Music and Bullet Ⅱ 〜音楽と銃弾〜",
+      "title": "Music and Bullet Ⅱ",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -2655,6 +2685,21 @@
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5759.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5759",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2026-12-08-lee ritenour",
+      "date": "2026-12-08",
+      "venue": "blue-note",
+      "title": "LEE RITENOUR",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4021.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4021",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-12-10-kazuki kato treasure box 2026 - man to man3 -",
@@ -2796,6 +2841,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21692/top/top_ev-21692_1_1789373686.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21692&date=2026-12-13",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-14-domi &amp; jd beck",
+      "date": "2026-12-14",
+      "venue": "blue-note",
+      "title": "DOMi &amp; JD BECK",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4022.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4022",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21688-2026-12-14",
@@ -3392,6 +3452,81 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2027-01-15-incognito",
+      "date": "2027-01-15",
+      "venue": "blue-note",
+      "title": "INCOGNITO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥13,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-16-incognito",
+      "date": "2027-01-16",
+      "venue": "blue-note",
+      "title": "INCOGNITO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥13,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-17-incognito",
+      "date": "2027-01-17",
+      "venue": "blue-note",
+      "title": "INCOGNITO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥13,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-18-incognito",
+      "date": "2027-01-18",
+      "venue": "blue-note",
+      "title": "INCOGNITO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥13,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "blue-note-2027-01-19-incognito",
+      "date": "2027-01-19",
+      "venue": "blue-note",
+      "title": "INCOGNITO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥13,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21711-2027-01-20",
       "date": "2027-01-20",
       "venue": "billboard",
@@ -3408,6 +3543,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21711/top/top_ev-21711_1_1790229133.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21711&date=2027-01-20",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2027-01-20-incognito",
+      "date": "2027-01-20",
+      "venue": "blue-note",
+      "title": "INCOGNITO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥13,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "blue-note-2027-01-21-the messthetics and james brandon lewis",
@@ -3590,6 +3740,21 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "blue-note-2027-01-30-blue note tokyo all-star jazz orchestra directed by eric miyashiro with special guest gretchen parlato",
+      "date": "2027-01-30",
+      "venue": "blue-note",
+      "title": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guest GRETCHEN PARLATO",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥10,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4024.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4024",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2027-01-31-gretchen parlato \"the wise ones\"",
       "date": "2027-01-31",
       "venue": "blue-note",
@@ -3712,20 +3877,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 94,
-      "updatedAt": "2026-10-01T06:02:00.956Z",
+      "count": 105,
+      "updatedAt": "2026-10-01T13:24:10.587Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-01T06:02:00.956Z",
+      "updatedAt": "2026-10-01T13:24:10.587Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-01T06:02:00.956Z",
+      "updatedAt": "2026-10-01T13:24:10.587Z",
       "error": null
     }
   }
