@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T22:19:53.388Z",
+  "updatedAt": "2026-10-01T06:02:00.956Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -3178,8 +3178,8 @@
         "20:30"
       ],
       "price": "¥9,800〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21679/top/top_ev-21677_1_1788520089.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21679&date=2026-12-29",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3228,6 +3228,24 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4016.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4016",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21717-2027-01-08",
+      "date": "2027-01-08",
+      "venue": "billboard",
+      "title": "岸谷香",
+      "subtitle": "KAORI PARADISE 2027 新春スペシャル",
+      "genre": "",
+      "shows": [
+        "17:00",
+        "20:00"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21717/top/top_ev-21717_1_1790309399.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21717&date=2027-01-08",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2027-01-09-jose james presents facing east: the music of john coltrane with special guest ron blake",
@@ -3695,19 +3713,19 @@
     "blue-note": {
       "ok": true,
       "count": 94,
-      "updatedAt": "2026-09-30T22:19:53.388Z",
+      "updatedAt": "2026-10-01T06:02:00.956Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-09-30T22:19:53.388Z",
+      "updatedAt": "2026-10-01T06:02:00.956Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 68,
-      "updatedAt": "2026-09-30T22:19:53.388Z",
+      "count": 69,
+      "updatedAt": "2026-10-01T06:02:00.956Z",
       "error": null
     }
   }
