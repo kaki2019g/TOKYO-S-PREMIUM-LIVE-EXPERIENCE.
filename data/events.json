@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T22:43:58.978Z",
+  "updatedAt": "2026-10-02T05:44:44.896Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -679,8 +679,8 @@
         "18:00"
       ],
       "price": "¥7,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21451/top/top_ev-21449_1_1778639629.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21451&date=2026-10-17",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1900,8 +1900,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21644/top/top_ev-21644_1_1786595931.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3043,8 +3043,8 @@
         "19:00"
       ],
       "price": "¥12,400〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-19",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3076,8 +3076,8 @@
         "20:30"
       ],
       "price": "¥12,400〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3109,8 +3109,8 @@
         "20:30"
       ],
       "price": "¥12,400〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-22",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3538,8 +3538,8 @@
         "20:30"
       ],
       "price": "¥6,100〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21711/top/top_ev-21711_1_1790229133.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21711&date=2027-01-20",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3637,8 +3637,8 @@
         "18:00"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21693/top/top_ev-21693_1_1789379809.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21693&date=2027-01-23",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3796,8 +3796,8 @@
         "20:00"
       ],
       "price": "¥10,000〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21699/top/top_ev-21699_1_1789688053.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21699&date=2027-02-01",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3878,19 +3878,19 @@
     "blue-note": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-10-01T22:43:58.978Z",
+      "updatedAt": "2026-10-02T05:44:44.896Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-01T22:43:58.978Z",
+      "updatedAt": "2026-10-02T05:44:44.896Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-01T22:43:58.978Z",
+      "updatedAt": "2026-10-02T05:44:44.896Z",
       "error": null
     }
   }
