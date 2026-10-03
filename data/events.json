@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:17:39.977Z",
+  "updatedAt": "2026-10-03T05:23:04.750Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -121,8 +121,8 @@
         "19:00"
       ],
       "price": "¥8,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21243/top/top_ev-21243_1_1789610921.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21243&date=2026-10-03",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3503,6 +3503,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21712-2027-01-15",
+      "date": "2027-01-15",
+      "venue": "billboard",
+      "title": "marasy, Shota Horie, Yumao at Billboard Live",
+      "subtitle": "まらしぃ／堀江晶太(kemu)／ゆーまお［ヒトリエ］",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,520〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21712/top/top_ev-21712_1_1790302316.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21712&date=2027-01-15",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-16-incognito",
       "date": "2027-01-16",
       "venue": "blue-note",
@@ -3914,19 +3932,19 @@
     "blue-note": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-10-02T22:17:39.977Z",
+      "updatedAt": "2026-10-03T05:23:04.750Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-02T22:17:39.977Z",
+      "updatedAt": "2026-10-03T05:23:04.750Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 71,
-      "updatedAt": "2026-10-02T22:17:39.977Z",
+      "count": 72,
+      "updatedAt": "2026-10-03T05:23:04.750Z",
       "error": null
     }
   }
