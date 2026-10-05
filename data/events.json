@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T05:47:24.682Z",
+  "updatedAt": "2026-10-05T14:48:03.458Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -154,8 +154,8 @@
         "20:30"
       ],
       "price": "¥15,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21372/top/top_ev-21372_1_1775194079.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21372&date=2026-10-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1570,8 +1570,8 @@
         "19:00"
       ],
       "price": "¥8,100〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21534/top/top_ev-21533_1_1781839989.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1900,8 +1900,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21644/top/top_ev-21644_1_1786595931.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3932,19 +3932,19 @@
     "blue-note": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-10-05T05:47:24.682Z",
+      "updatedAt": "2026-10-05T14:48:03.458Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-05T05:47:24.682Z",
+      "updatedAt": "2026-10-05T14:48:03.458Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 72,
-      "updatedAt": "2026-10-05T05:47:24.682Z",
+      "updatedAt": "2026-10-05T14:48:03.458Z",
       "error": null
     }
   }
