@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T00:06:14.264Z",
+  "updatedAt": "2026-10-06T06:26:51.082Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1607,6 +1607,42 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21737-2026-11-09",
+      "date": "2026-11-09",
+      "venue": "billboard",
+      "title": "THE NIGHT OF TELE® & P-BASS® 〜The 75th ANNIVERSARY〜",
+      "subtitle": "Fender x Billboard Live TOKYO presents",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥11,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21737/top/top_ev-21737_1_1791203745.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-09",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21737-2026-11-10",
+      "date": "2026-11-10",
+      "venue": "billboard",
+      "title": "THE NIGHT OF TELE® & P-BASS® 〜The 75th ANNIVERSARY〜",
+      "subtitle": "Fender x Billboard Live TOKYO presents",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥11,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21737/top/top_ev-21737_1_1791203745.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-10",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2026-11-10-theo katzman (of vulfpeck) solo",
       "date": "2026-11-10",
       "venue": "blue-note",
@@ -1837,8 +1873,8 @@
         "19:30"
       ],
       "price": "¥8,600〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21613/top/top_ev-21613_1_1787231919.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3514,8 +3550,8 @@
         "20:30"
       ],
       "price": "¥8,520〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21712/top/top_ev-21712_1_1790302316.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21712&date=2027-01-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3932,19 +3968,19 @@
     "blue-note": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-10-06T00:06:14.264Z",
+      "updatedAt": "2026-10-06T06:26:51.082Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-06T00:06:14.264Z",
+      "updatedAt": "2026-10-06T06:26:51.082Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 72,
-      "updatedAt": "2026-10-06T00:06:14.264Z",
+      "count": 74,
+      "updatedAt": "2026-10-06T06:26:51.082Z",
       "error": null
     }
   }
