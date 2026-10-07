@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:05:48.004Z",
+  "updatedAt": "2026-10-07T13:30:40.311Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -250,8 +250,8 @@
         "20:30"
       ],
       "price": "¥15,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21372/top/top_ev-21372_1_1775194079.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21372&date=2026-10-07",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1146,6 +1146,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21480/top/top_ev-21480_1_1779516152.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-27",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2026-10-28-the charm park release live「り・り・り」",
+      "date": "2026-10-28",
+      "venue": "cotton-club",
+      "title": "THE CHARM PARK Release Live「り・り・り」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5765.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5765",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21480-2026-10-28",
@@ -3173,6 +3188,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2026-12-22-glay takuro christmas live \"journey without a map 2026\"",
+      "date": "2026-12-22",
+      "venue": "cotton-club",
+      "title": "GLAY TAKURO Christmas Live \"Journey without a map 2026\"",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥12,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5764.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5764",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2026-12-22-holly cole : swinging christmas with strings",
       "date": "2026-12-22",
       "venue": "blue-note",
@@ -3986,19 +4016,19 @@
     "blue-note": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-10-07T06:05:48.004Z",
+      "updatedAt": "2026-10-07T13:30:40.311Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 69,
-      "updatedAt": "2026-10-07T06:05:48.004Z",
+      "count": 71,
+      "updatedAt": "2026-10-07T13:30:40.311Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 75,
-      "updatedAt": "2026-10-07T06:05:48.004Z",
+      "updatedAt": "2026-10-07T13:30:40.311Z",
       "error": null
     }
   }
