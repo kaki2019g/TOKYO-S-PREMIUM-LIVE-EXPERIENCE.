@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:25:30.740Z",
+  "updatedAt": "2026-10-07T06:05:48.004Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -2029,8 +2029,8 @@
         "20:30"
       ],
       "price": "¥8,900〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21707/top/top_ev-21707_1_1790217941.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21707&date=2026-11-19",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2789,6 +2789,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21725-2026-12-10",
+      "date": "2026-12-10",
+      "venue": "billboard",
+      "title": "トータス松本 ライブ2026 Good Times",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "20:00"
+      ],
+      "price": "¥14,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21725/top/top_ev-21725_1_1790920389.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21725&date=2026-12-10",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21546-2026-12-11",
       "date": "2026-12-11",
       "venue": "billboard",
@@ -2941,8 +2959,8 @@
         "20:30"
       ],
       "price": "¥6,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21688/top/top_ev-21688_1_1789008560.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21688&date=2026-12-14",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3919,8 +3937,8 @@
         "20:30"
       ],
       "price": "¥7,900〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21695/top/top_ev-21695_1_1789542039.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-03",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3937,8 +3955,8 @@
         "20:30"
       ],
       "price": "¥7,900〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21695/top/top_ev-21695_1_1789542039.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3968,19 +3986,19 @@
     "blue-note": {
       "ok": true,
       "count": 105,
-      "updatedAt": "2026-10-06T18:25:30.740Z",
+      "updatedAt": "2026-10-07T06:05:48.004Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-10-06T18:25:30.740Z",
+      "updatedAt": "2026-10-07T06:05:48.004Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 74,
-      "updatedAt": "2026-10-06T18:25:30.740Z",
+      "count": 75,
+      "updatedAt": "2026-10-07T06:05:48.004Z",
       "error": null
     }
   }
