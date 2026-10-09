@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T23:23:51.555Z",
+  "updatedAt": "2026-10-09T06:15:00.270Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1633,8 +1633,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21737/top/top_ev-21737_1_1791203745.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-09",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1651,8 +1651,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21737/top/top_ev-21737_1_1791203745.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21737&date=2026-11-10",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1744,7 +1744,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3980.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3980",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -1810,7 +1810,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3980.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3980",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -1840,7 +1840,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3980.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3980",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -1921,7 +1921,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -1969,7 +1969,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -2014,7 +2014,7 @@
       "availability": "公式サイトで確認",
       "availabilityType": "unknown",
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/3981.jpg",
-      "url": "https://reserve.bluenote.co.jp/reserve/lottery/index/2026juju",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/3981",
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
@@ -2767,8 +2767,8 @@
         "20:30"
       ],
       "price": "¥12,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21727/top/top_ev-21727_1_1790735619.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21727&date=2026-12-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2800,11 +2800,26 @@
         "20:30"
       ],
       "price": "¥12,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21727/top/top_ev-21727_1_1790735619.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21727&date=2026-12-09",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2026-12-09-rei presents \"jam! jam! jam!\" 2026",
+      "date": "2026-12-09",
+      "venue": "blue-note",
+      "title": "Rei presents \"JAM! JAM! JAM!\" 2026",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4029.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4029",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "cotton-club-2026-12-10-kazuki kato treasure box 2026 - man to man3 -",
@@ -3941,6 +3956,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21722-2027-01-31",
+      "date": "2027-01-31",
+      "venue": "billboard",
+      "title": "宮沢和史 & JABATIDA",
+      "subtitle": "Semana da Música Brasileira e Latina! 2027 ～ジャバチーダ新春コンサート！～",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥8,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21722/top/top_ev-21721_1_1790329024.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21722&date=2027-01-31",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-02-01-gretchen parlato \"the wise ones\"",
       "date": "2027-02-01",
       "venue": "blue-note",
@@ -4048,20 +4081,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 106,
-      "updatedAt": "2026-10-08T23:23:51.555Z",
+      "count": 107,
+      "updatedAt": "2026-10-09T06:15:00.270Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 71,
-      "updatedAt": "2026-10-08T23:23:51.555Z",
+      "updatedAt": "2026-10-09T06:15:00.270Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 76,
-      "updatedAt": "2026-10-08T23:23:51.555Z",
+      "count": 77,
+      "updatedAt": "2026-10-09T06:15:00.270Z",
       "error": null
     }
   }
