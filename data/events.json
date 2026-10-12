@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:04:31.793Z",
+  "updatedAt": "2026-10-12T15:34:18.651Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -3524,6 +3524,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21747-2027-01-10",
+      "date": "2027-01-10",
+      "venue": "billboard",
+      "title": "Chage Billboard Live 68 to 69",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:00",
+        "20:00"
+      ],
+      "price": "¥11,600〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21747/top/top_ev-21745_1_1791542170.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21747&date=2027-01-10",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-10-jose james presents facing east: the music of john coltrane with special guest ron blake",
       "date": "2027-01-10",
       "venue": "blue-note",
@@ -3681,6 +3699,24 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21731-2027-01-17",
+      "date": "2027-01-17",
+      "venue": "billboard",
+      "title": "Sonar Pocket Billboard Live 2027 ～Happy New Year〜",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥9,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21731/top/top_ev-21731_1_1791276614.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21731&date=2027-01-17",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2027-01-18-incognito",
@@ -4082,19 +4118,19 @@
     "blue-note": {
       "ok": true,
       "count": 107,
-      "updatedAt": "2026-10-12T06:04:31.793Z",
+      "updatedAt": "2026-10-12T15:34:18.651Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 71,
-      "updatedAt": "2026-10-12T06:04:31.793Z",
+      "updatedAt": "2026-10-12T15:34:18.651Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 77,
-      "updatedAt": "2026-10-12T06:04:31.793Z",
+      "count": 79,
+      "updatedAt": "2026-10-12T15:34:18.651Z",
       "error": null
     }
   }
