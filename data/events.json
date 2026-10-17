@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T04:33:47.432Z",
+  "updatedAt": "2026-10-17T10:50:07.349Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -742,8 +742,8 @@
         "19:00"
       ],
       "price": "¥8,900〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21488/top/top_ev-21488_1_1779696252.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21488&date=2026-10-18",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3635,10 +3635,10 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "blue-note-2027-01-07-blue note tokyo all-star jazz orchestra directed by eric miyashiro with special guest josé james",
+      "id": "blue-note-2027-01-07-blue note tokyo all-star jazz orchestra directed by eric miyashiro with special guest jose james",
       "date": "2027-01-07",
       "venue": "blue-note",
-      "title": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guest JOSÉ JAMES",
+      "title": "BLUE NOTE TOKYO ALL-STAR JAZZ ORCHESTRA directed by ERIC MIYASHIRO with special guest JOSE JAMES",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -4299,6 +4299,24 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21695/top/top_ev-21695_1_1789542039.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21695&date=2027-02-04",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21758-2027-02-06",
+      "date": "2027-02-06",
+      "venue": "billboard",
+      "title": "寺岡呼人 BIRTHDAY LIVE 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥8,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21758/top/top_ev-21758_1_1792122470.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21758&date=2027-02-06",
+      "source": "https://www.billboard-live.com/tokyo"
     }
   ],
   "venues": {
@@ -4325,19 +4343,19 @@
     "blue-note": {
       "ok": true,
       "count": 108,
-      "updatedAt": "2026-10-17T04:33:47.432Z",
+      "updatedAt": "2026-10-17T10:50:07.349Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 79,
-      "updatedAt": "2026-10-17T04:33:47.432Z",
+      "updatedAt": "2026-10-17T10:50:07.349Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 83,
-      "updatedAt": "2026-10-17T04:33:47.432Z",
+      "count": 84,
+      "updatedAt": "2026-10-17T10:50:07.349Z",
       "error": null
     }
   }
