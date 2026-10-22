@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T11:58:48.110Z",
+  "updatedAt": "2026-10-22T17:14:51.734Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -2260,8 +2260,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21587/top/top_ev-21587_1_1783685034.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21587&date=2026-11-25",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3281,6 +3281,24 @@
       "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-19",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21762-2026-12-20",
+      "date": "2026-12-20",
+      "venue": "billboard",
+      "title": "iri",
+      "subtitle": "10th Anniversary LIVE “after party” AT BILLBOARD LIVE TOKYO",
+      "genre": "",
+      "shows": [
+        "16:30",
+        "19:30"
+      ],
+      "price": "¥10,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21762/top/top_ev-21762_1_1792398147.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21762&date=2026-12-20",
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
@@ -4523,19 +4541,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-22T11:58:48.110Z",
+      "updatedAt": "2026-10-22T17:14:51.734Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-22T11:58:48.110Z",
+      "updatedAt": "2026-10-22T17:14:51.734Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 84,
-      "updatedAt": "2026-10-22T11:58:48.110Z",
+      "count": 85,
+      "updatedAt": "2026-10-22T17:14:51.734Z",
       "error": null
     }
   }
