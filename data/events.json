@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:57:37.350Z",
+  "updatedAt": "2026-10-23T11:44:45.043Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1174,8 +1174,8 @@
         "20:30"
       ],
       "price": "¥17,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21480/top/top_ev-21480_1_1779516152.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-28",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1585,8 +1585,8 @@
         "19:00"
       ],
       "price": "¥8,100〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21534/top/top_ev-21533_1_1781839989.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2552,6 +2552,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21752-2026-12-03",
+      "date": "2026-12-03",
+      "venue": "billboard",
+      "title": "NOA Billboard Live 2026",
+      "subtitle": "",
+      "genre": "※曜日により開演時間が異なります。",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,800〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21752/top/top_ev-21752_1_1792635196.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21752&date=2026-12-03",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2026-12-03-sai \"flow tones 26\"",
       "date": "2026-12-03",
       "venue": "blue-note",
@@ -2916,6 +2934,24 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4005.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4005",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21752-2026-12-12",
+      "date": "2026-12-12",
+      "venue": "billboard",
+      "title": "NOA Billboard Live 2026",
+      "subtitle": "",
+      "genre": "※曜日により開演時間が異なります。",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥8,800〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21752/top/top_ev-21752_1_1792635196.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21752&date=2026-12-12",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2026-12-12-tank and the bangas：the last balloon tour",
@@ -4289,6 +4325,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21768-2027-01-26",
+      "date": "2027-01-26",
+      "venue": "billboard",
+      "title": "BLICHER HEMMER GADD",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21768/top/top_ev-21767_1_1792640287.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21768&date=2027-01-26",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-26-kroi featuring incognito horns",
       "date": "2027-01-26",
       "venue": "blue-note",
@@ -4541,19 +4595,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-23T04:57:37.350Z",
+      "updatedAt": "2026-10-23T11:44:45.043Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-23T04:57:37.350Z",
+      "updatedAt": "2026-10-23T11:44:45.043Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 85,
-      "updatedAt": "2026-10-23T04:57:37.350Z",
+      "count": 88,
+      "updatedAt": "2026-10-23T11:44:45.043Z",
       "error": null
     }
   }
