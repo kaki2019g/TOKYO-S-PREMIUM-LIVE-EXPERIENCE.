@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T04:42:26.223Z",
+  "updatedAt": "2026-10-24T11:08:17.001Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -997,8 +997,8 @@
         "19:00"
       ],
       "price": "¥7,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21511/top/top_ev-21511_1_1780972386.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21511&date=2026-10-24",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1381,8 +1381,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21607/top/top_ev-21607_1_1784777838.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21607&date=2026-11-02",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4145,6 +4145,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21773-2027-01-18",
+      "date": "2027-01-18",
+      "venue": "billboard",
+      "title": "KAZ Billboard Live 2026-2027“SLOW AFTERGLOW”",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥12,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21773/top/top_ev-21773_1_1792740278.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-18",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-19-incognito",
       "date": "2027-01-19",
       "venue": "blue-note",
@@ -4158,6 +4176,24 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21773-2027-01-19",
+      "date": "2027-01-19",
+      "venue": "billboard",
+      "title": "KAZ Billboard Live 2026-2027“SLOW AFTERGLOW”",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥12,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21773/top/top_ev-21773_1_1792740278.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-19",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "billboard-ev-21711-2027-01-20",
@@ -4595,19 +4631,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-24T04:42:26.223Z",
+      "updatedAt": "2026-10-24T11:08:17.001Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-24T04:42:26.223Z",
+      "updatedAt": "2026-10-24T11:08:17.001Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 88,
-      "updatedAt": "2026-10-24T04:42:26.223Z",
+      "count": 90,
+      "updatedAt": "2026-10-24T11:08:17.001Z",
       "error": null
     }
   }
