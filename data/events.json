@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T11:38:09.000Z",
+  "updatedAt": "2026-10-25T16:28:09.971Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1888,8 +1888,8 @@
         "19:30"
       ],
       "price": "¥8,600〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21613/top/top_ev-21613_1_1787231919.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1951,8 +1951,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21644/top/top_ev-21644_1_1786595931.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4631,19 +4631,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-25T11:38:09.000Z",
+      "updatedAt": "2026-10-25T16:28:09.971Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-25T11:38:09.000Z",
+      "updatedAt": "2026-10-25T16:28:09.971Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 90,
-      "updatedAt": "2026-10-25T11:38:09.000Z",
+      "updatedAt": "2026-10-25T16:28:09.971Z",
       "error": null
     }
   }
