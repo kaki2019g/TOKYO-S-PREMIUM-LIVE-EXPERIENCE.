@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T13:10:49.641Z",
+  "updatedAt": "2026-10-26T22:43:14.105Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1141,8 +1141,8 @@
         "20:30"
       ],
       "price": "¥17,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21480/top/top_ev-21480_1_1779516152.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-27",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1951,8 +1951,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21644/top/top_ev-21644_1_1786595931.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21644&date=2026-11-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2323,8 +2323,8 @@
         "21:00"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21635/top/top_ev-21635_1_1785988263.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21635&date=2026-11-27",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4649,19 +4649,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-26T13:10:49.641Z",
+      "updatedAt": "2026-10-26T22:43:14.105Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-26T13:10:49.641Z",
+      "updatedAt": "2026-10-26T22:43:14.105Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 91,
-      "updatedAt": "2026-10-26T13:10:49.641Z",
+      "updatedAt": "2026-10-26T22:43:14.105Z",
       "error": null
     }
   }
