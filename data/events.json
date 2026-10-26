@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T20:55:11.127Z",
+  "updatedAt": "2026-10-26T04:53:29.507Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1585,8 +1585,8 @@
         "19:00"
       ],
       "price": "¥8,100〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21534/top/top_ev-21533_1_1781839989.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4409,6 +4409,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21777-2027-01-27",
+      "date": "2027-01-27",
+      "venue": "billboard",
+      "title": "柴田淳",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥7,800〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21777/top/top_ev-21776_1_1792738133.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21777&date=2027-01-27",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21698-2027-01-28",
       "date": "2027-01-28",
       "venue": "billboard",
@@ -4631,19 +4649,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-25T20:55:11.127Z",
+      "updatedAt": "2026-10-26T04:53:29.507Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-25T20:55:11.127Z",
+      "updatedAt": "2026-10-26T04:53:29.507Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 90,
-      "updatedAt": "2026-10-25T20:55:11.127Z",
+      "count": 91,
+      "updatedAt": "2026-10-26T04:53:29.507Z",
       "error": null
     }
   }
