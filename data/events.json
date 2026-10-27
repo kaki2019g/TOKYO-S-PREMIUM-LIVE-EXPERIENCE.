@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:11:33.416Z",
+  "updatedAt": "2026-10-27T12:18:56.266Z",
   "events": [
     {
       "id": "blue-note-2026-10-01-yellowjackets",
@@ -1141,8 +1141,8 @@
         "20:30"
       ],
       "price": "¥17,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21480/top/top_ev-21480_1_1779516152.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21480&date=2026-10-27",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1303,8 +1303,8 @@
         "19:00"
       ],
       "price": "¥8,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21625/top/top_ev-21625_1_1785462258.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21625&date=2026-10-31",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1585,8 +1585,8 @@
         "19:00"
       ],
       "price": "¥8,100〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21534/top/top_ev-21533_1_1781839989.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3187,8 +3187,8 @@
         "20:30"
       ],
       "price": "¥11,600〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21748/top/top_ev-21748_1_1791856850.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21748&date=2026-12-17",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3250,8 +3250,8 @@
         "20:30"
       ],
       "price": "¥11,600〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21748/top/top_ev-21748_1_1791856850.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21748&date=2026-12-18",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3694,8 +3694,8 @@
         "20:30"
       ],
       "price": "¥9,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21741/top/top_ev-21740_1_1791526166.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21741&date=2026-12-28",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4372,8 +4372,8 @@
         "20:30"
       ],
       "price": "¥9,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売開始前",
+      "availabilityType": "upcoming",
       "image": "https://www.billboard-live.com/public/event_img/ev-21768/top/top_ev-21767_1_1792640287.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21768&date=2027-01-26",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4607,6 +4607,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21771-2027-02-05",
+      "date": "2027-02-05",
+      "venue": "billboard",
+      "title": "Stick Men",
+      "subtitle": "Tony Levin, Pat Mastelotto and Markus Reuter",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21771/top/top_ev-21771_1_1792668716.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21771&date=2027-02-05",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21758-2027-02-06",
       "date": "2027-02-06",
       "venue": "billboard",
@@ -4649,19 +4667,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-10-27T05:11:33.416Z",
+      "updatedAt": "2026-10-27T12:18:56.266Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-10-27T05:11:33.416Z",
+      "updatedAt": "2026-10-27T12:18:56.266Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 91,
-      "updatedAt": "2026-10-27T05:11:33.416Z",
+      "count": 92,
+      "updatedAt": "2026-10-27T12:18:56.266Z",
       "error": null
     }
   }
