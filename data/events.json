@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T06:14:29.117Z",
+  "updatedAt": "2026-11-01T13:35:28.886Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -60,24 +60,6 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4000.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4000",
       "source": "https://www.bluenote.co.jp/jp/"
-    },
-    {
-      "id": "billboard-ev-21607-2026-11-02",
-      "date": "2026-11-02",
-      "venue": "billboard",
-      "title": "清春",
-      "subtitle": "",
-      "genre": "",
-      "shows": [
-        "17:30",
-        "20:30"
-      ],
-      "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
-      "image": "https://www.billboard-live.com/public/event_img/ev-21607/top/top_ev-21607_1_1784777838.jpg",
-      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21607&date=2026-11-02",
-      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "cotton-club-2026-11-03-kazuki kosakai sing,sing,sing &amp; talk!! ～70years / 70minutes～",
@@ -277,8 +259,8 @@
         "19:00"
       ],
       "price": "¥8,100〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21534/top/top_ev-21533_1_1781839989.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21534&date=2026-11-08",
       "source": "https://www.billboard-live.com/tokyo"
@@ -580,8 +562,8 @@
         "19:30"
       ],
       "price": "¥8,600〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21613/top/top_ev-21613_1_1787231919.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1194,6 +1176,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5729.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5729",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21790-2026-12-01",
+      "date": "2026-12-01",
+      "venue": "billboard",
+      "title": "浜田雅功 at Billboard Live TOKYO〜LIVE DEBUT〜",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:00",
+        "20:00"
+      ],
+      "price": "¥11,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21790/top/top_ev-21790_1_1793172923.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21790&date=2026-12-01",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2026-12-02-gary bartz &amp; ntu",
@@ -3603,6 +3603,60 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21758/top/top_ev-21758_1_1792122470.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21758&date=2027-02-06",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21785-2027-02-15",
+      "date": "2027-02-15",
+      "venue": "billboard",
+      "title": "八神純子＆後藤次利",
+      "subtitle": "「The Night Flight 2027」 featuring 今剛、林立夫、佐藤準",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21785/top/top_ev-21785_1_1793426432.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-15",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21785-2027-02-18",
+      "date": "2027-02-18",
+      "venue": "billboard",
+      "title": "八神純子＆後藤次利",
+      "subtitle": "「The Night Flight 2027」 featuring 今剛、林立夫、佐藤準",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21785/top/top_ev-21785_1_1793426432.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-18",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21785-2027-02-22",
+      "date": "2027-02-22",
+      "venue": "billboard",
+      "title": "八神純子＆後藤次利",
+      "subtitle": "「The Night Flight 2027」 featuring 今剛、林立夫、佐藤準",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21785/top/top_ev-21785_1_1793426432.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-22",
+      "source": "https://www.billboard-live.com/tokyo"
     }
   ],
   "venues": {
@@ -3629,19 +3683,19 @@
     "blue-note": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-11-01T06:14:29.117Z",
+      "updatedAt": "2026-11-01T13:35:28.886Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 73,
-      "updatedAt": "2026-11-01T06:14:29.117Z",
+      "updatedAt": "2026-11-01T13:35:28.886Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 66,
-      "updatedAt": "2026-11-01T06:14:29.117Z",
+      "count": 69,
+      "updatedAt": "2026-11-01T13:35:28.886Z",
       "error": null
     }
   }
