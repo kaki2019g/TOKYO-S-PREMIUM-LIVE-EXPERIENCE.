@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T06:15:03.026Z",
+  "updatedAt": "2026-11-02T16:14:57.207Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -196,8 +196,8 @@
         "21:00"
       ],
       "price": "¥9,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -433,8 +433,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21670/top/top_ev-21670_1_1788174014.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21670&date=2026-11-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1621,8 +1621,8 @@
         "20:30"
       ],
       "price": "¥9,200〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21546/top/top_ev-21544_1_1782182172.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21546&date=2026-12-11",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2740,8 +2740,8 @@
         "18:00"
       ],
       "price": "¥6,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21715/top/top_ev-21715_1_1790307619.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21715&date=2027-01-09",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3683,19 +3683,19 @@
     "blue-note": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-11-02T06:15:03.026Z",
+      "updatedAt": "2026-11-02T16:14:57.207Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 73,
-      "updatedAt": "2026-11-02T06:15:03.026Z",
+      "updatedAt": "2026-11-02T16:14:57.207Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-11-02T06:15:03.026Z",
+      "updatedAt": "2026-11-02T16:14:57.207Z",
       "error": null
     }
   }
