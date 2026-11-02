@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T22:06:00.153Z",
+  "updatedAt": "2026-11-02T06:15:03.026Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -196,8 +196,8 @@
         "21:00"
       ],
       "price": "¥9,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21629/top/top_ev-21629_1_1785464540.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21629&date=2026-11-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -433,8 +433,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21670/top/top_ev-21670_1_1788174014.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21670&date=2026-11-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2576,10 +2576,10 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2027-01-02-民謡クルセイダーズ 迎春！minyo is back in town 2027 new year special at cotton club",
+      "id": "cotton-club-2027-01-02-民謡クルセイダーズ 迎春！minyo is back in town 2027 new year at cotton club 〜フレディ塚本birthday special!!〜",
       "date": "2027-01-02",
       "venue": "cotton-club",
-      "title": "民謡クルセイダーズ 迎春！MINYO IS BACK IN TOWN 2027 NEW YEAR SPECIAL AT COTTON CLUB",
+      "title": "民謡クルセイダーズ 迎春！MINYO IS BACK IN TOWN 2027 NEW YEAR AT COTTON CLUB 〜フレディ塚本Birthday Special!!〜",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -2606,10 +2606,10 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
-      "id": "cotton-club-2027-01-03-民謡クルセイダーズ 迎春！minyo is back in town 2027 new year special at cotton club",
+      "id": "cotton-club-2027-01-03-民謡クルセイダーズ 迎春！minyo is back in town 2027 new year at cotton club 〜フレディ塚本birthday special!!〜",
       "date": "2027-01-03",
       "venue": "cotton-club",
-      "title": "民謡クルセイダーズ 迎春！MINYO IS BACK IN TOWN 2027 NEW YEAR SPECIAL AT COTTON CLUB",
+      "title": "民謡クルセイダーズ 迎春！MINYO IS BACK IN TOWN 2027 NEW YEAR AT COTTON CLUB 〜フレディ塚本Birthday Special!!〜",
       "subtitle": "",
       "genre": "",
       "shows": [],
@@ -3102,7 +3102,7 @@
       "date": "2027-01-20",
       "venue": "billboard",
       "title": "Cityy",
-      "subtitle": "寺地美穂（Sax,Fl,Vo）/ 中園亜美（Sax,Vo）/ 竹田麻里絵（Key,Vo）/ Juna Serita（Ba,Vo） featuring 則竹裕之（Dr）",
+      "subtitle": "寺地美穂（Sax,Fl,Vo）/ 中園亜美（Sax,Vo）/ 竹田麻里絵（Keys,Vo）/ Juna Serita（Ba,Vo） featuring 則竹裕之（Dr）",
       "genre": "",
       "shows": [
         "17:30",
@@ -3683,19 +3683,19 @@
     "blue-note": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-11-01T22:06:00.153Z",
+      "updatedAt": "2026-11-02T06:15:03.026Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 73,
-      "updatedAt": "2026-11-01T22:06:00.153Z",
+      "updatedAt": "2026-11-02T06:15:03.026Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 69,
-      "updatedAt": "2026-11-01T22:06:00.153Z",
+      "updatedAt": "2026-11-02T06:15:03.026Z",
       "error": null
     }
   }
