@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T06:32:04.443Z",
+  "updatedAt": "2026-11-04T19:49:23.932Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -433,8 +433,8 @@
         "20:30"
       ],
       "price": "¥11,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21670/top/top_ev-21670_1_1788174014.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21670&date=2026-11-12",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1351,8 +1351,8 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2999,6 +2999,21 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2027-01-16-new york voices farewell tour 2027",
+      "date": "2027-01-16",
+      "venue": "cotton-club",
+      "title": "NEW YORK VOICES Farewell Tour 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5785.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5785",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2027-01-17-incognito",
       "date": "2027-01-17",
       "venue": "blue-note",
@@ -3012,6 +3027,21 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4027.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4027",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2027-01-17-new york voices farewell tour 2027",
+      "date": "2027-01-17",
+      "venue": "cotton-club",
+      "title": "NEW YORK VOICES Farewell Tour 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5785.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5785",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21731-2027-01-17",
@@ -3065,6 +3095,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2027-01-18-new york voices farewell tour 2027",
+      "date": "2027-01-18",
+      "venue": "cotton-club",
+      "title": "NEW YORK VOICES Farewell Tour 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5785.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5785",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2027-01-19-incognito",
       "date": "2027-01-19",
       "venue": "blue-note",
@@ -3096,6 +3141,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21773/top/top_ev-21773_1_1792740278.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-19",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-01-19-new york voices farewell tour 2027",
+      "date": "2027-01-19",
+      "venue": "cotton-club",
+      "title": "NEW YORK VOICES Farewell Tour 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5785.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5785",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21711-2027-01-20",
@@ -3587,6 +3647,21 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2027-02-06-伊東たけし メロウ・マッドネス・セプテット \"luxury night 2027\"",
+      "date": "2027-02-06",
+      "venue": "cotton-club",
+      "title": "伊東たけし メロウ・マッドネス・セプテット \"Luxury Night 2027\"",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5789.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5789",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21758-2027-02-06",
       "date": "2027-02-06",
       "venue": "billboard",
@@ -3605,6 +3680,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "cotton-club-2027-02-07-伊東たけし メロウ・マッドネス・セプテット \"luxury night 2027\"",
+      "date": "2027-02-07",
+      "venue": "cotton-club",
+      "title": "伊東たけし メロウ・マッドネス・セプテット \"Luxury Night 2027\"",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5789.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5789",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21785-2027-02-15",
       "date": "2027-02-15",
       "venue": "billboard",
@@ -3621,6 +3711,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21785/top/top_ev-21785_1_1793426432.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-15",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-02-17-米倉利紀 style72 basic. 2027 -white cattle party",
+      "date": "2027-02-17",
+      "venue": "cotton-club",
+      "title": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5786.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5786",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21785-2027-02-18",
@@ -3657,6 +3762,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21785/top/top_ev-21785_1_1793426432.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-22",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-02-23-米倉利紀 style72 basic. 2027 -white cattle party",
+      "date": "2027-02-23",
+      "venue": "cotton-club",
+      "title": "米倉利紀 sTYle72 basic. 2027 -white CATTLE party",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥9,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5787.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5787",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21794-2027-03-02",
@@ -3711,6 +3831,57 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21781/top/top_ev-21781_1_1793079025.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21781&date=2027-03-06",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21797-2027-03-15",
+      "date": "2027-03-15",
+      "venue": "billboard",
+      "title": "エイジア ASIA",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥16,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21797/top/top_ev-21797_1_1793759430.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21797&date=2027-03-15",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21797-2027-03-16",
+      "date": "2027-03-16",
+      "venue": "billboard",
+      "title": "エイジア ASIA",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥16,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21797/top/top_ev-21797_1_1793759430.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21797&date=2027-03-16",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-04-17-香坂みゆき ～50th anniversary live～",
+      "date": "2027-04-17",
+      "venue": "cotton-club",
+      "title": "香坂みゆき ～50th Anniversary Live～",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥10,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5788.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5788",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     }
   ],
   "venues": {
@@ -3737,19 +3908,19 @@
     "blue-note": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-11-04T06:32:04.443Z",
+      "updatedAt": "2026-11-04T19:49:23.932Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 73,
-      "updatedAt": "2026-11-04T06:32:04.443Z",
+      "count": 82,
+      "updatedAt": "2026-11-04T19:49:23.932Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 72,
-      "updatedAt": "2026-11-04T06:32:04.443Z",
+      "count": 74,
+      "updatedAt": "2026-11-04T19:49:23.932Z",
       "error": null
     }
   }
