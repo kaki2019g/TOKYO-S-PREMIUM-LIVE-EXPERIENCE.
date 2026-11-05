@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T19:49:23.932Z",
+  "updatedAt": "2026-11-05T06:54:39.860Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -148,8 +148,8 @@
         "20:30"
       ],
       "price": "¥6,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21621/top/top_ev-21621_1_1785379536.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21621&date=2026-11-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3482,6 +3482,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21803-2027-01-29",
+      "date": "2027-01-29",
+      "venue": "billboard",
+      "title": "夏川りみ",
+      "subtitle": "Billboard Live 2027 『Volume 〜Color〜』",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21803/top/top_ev-21803_1_1793845898.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21803&date=2027-01-29",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-30-blue note tokyo all-star jazz orchestra directed by eric miyashiro with special guest gretchen parlato",
       "date": "2027-01-30",
       "venue": "blue-note",
@@ -3908,19 +3926,19 @@
     "blue-note": {
       "ok": true,
       "count": 88,
-      "updatedAt": "2026-11-04T19:49:23.932Z",
+      "updatedAt": "2026-11-05T06:54:39.860Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 82,
-      "updatedAt": "2026-11-04T19:49:23.932Z",
+      "updatedAt": "2026-11-05T06:54:39.860Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 74,
-      "updatedAt": "2026-11-04T19:49:23.932Z",
+      "count": 75,
+      "updatedAt": "2026-11-05T06:54:39.860Z",
       "error": null
     }
   }
