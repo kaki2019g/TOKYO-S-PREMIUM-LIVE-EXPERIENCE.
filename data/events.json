@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T06:05:23.548Z",
+  "updatedAt": "2026-11-07T13:09:40.648Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1621,8 +1621,8 @@
         "20:30"
       ],
       "price": "¥9,200〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21546/top/top_ev-21544_1_1782182172.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21546&date=2026-12-11",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2262,6 +2262,24 @@
       "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5768.jpg",
       "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5768",
       "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21817-2026-12-24",
+      "date": "2026-12-24",
+      "venue": "billboard",
+      "title": "WONK",
+      "subtitle": "WONK LIVE for LAB",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "21:00"
+      ],
+      "price": "¥8,000〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21817/top/top_ev-21817_1_1793961774.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21817&date=2026-12-24",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "blue-note-2026-12-25-christmas evening with emmet cohen",
@@ -4079,19 +4097,19 @@
     "blue-note": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-07T06:05:23.548Z",
+      "updatedAt": "2026-11-07T13:09:40.648Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 83,
-      "updatedAt": "2026-11-07T06:05:23.548Z",
+      "updatedAt": "2026-11-07T13:09:40.648Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 76,
-      "updatedAt": "2026-11-07T06:05:23.548Z",
+      "count": 77,
+      "updatedAt": "2026-11-07T13:09:40.648Z",
       "error": null
     }
   }
