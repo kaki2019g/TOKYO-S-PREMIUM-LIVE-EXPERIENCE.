@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:31:06.869Z",
+  "updatedAt": "2026-11-08T22:11:05.776Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -4097,19 +4097,19 @@
     "blue-note": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-08T13:31:06.869Z",
+      "updatedAt": "2026-11-08T22:11:05.776Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 83,
-      "updatedAt": "2026-11-08T13:31:06.869Z",
+      "updatedAt": "2026-11-08T22:11:05.776Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 77,
-      "updatedAt": "2026-11-08T13:31:06.869Z",
+      "updatedAt": "2026-11-08T22:11:05.776Z",
       "error": null
     }
   }
