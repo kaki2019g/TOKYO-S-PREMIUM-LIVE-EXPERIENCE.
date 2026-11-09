@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T06:42:57.292Z",
+  "updatedAt": "2026-11-09T22:25:50.072Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -562,8 +562,8 @@
         "19:30"
       ],
       "price": "¥8,600〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21613/top/top_ev-21613_1_1787231919.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3341,6 +3341,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21789-2027-01-25",
+      "date": "2027-01-25",
+      "venue": "billboard",
+      "title": "Reol Installation Concert 2027 「音沙汰」",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥9,900〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21789/top/top_ev-21789_1_1793156046.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21789&date=2027-01-25",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21768-2027-01-26",
       "date": "2027-01-26",
       "venue": "billboard",
@@ -4097,19 +4115,19 @@
     "blue-note": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-09T06:42:57.292Z",
+      "updatedAt": "2026-11-09T22:25:50.072Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 83,
-      "updatedAt": "2026-11-09T06:42:57.292Z",
+      "updatedAt": "2026-11-09T22:25:50.072Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 77,
-      "updatedAt": "2026-11-09T06:42:57.292Z",
+      "count": 78,
+      "updatedAt": "2026-11-09T22:25:50.072Z",
       "error": null
     }
   }
