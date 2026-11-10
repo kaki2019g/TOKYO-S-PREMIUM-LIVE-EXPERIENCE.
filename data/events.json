@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T07:24:53.192Z",
+  "updatedAt": "2026-11-10T19:47:43.802Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -3863,6 +3863,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21820-2027-02-25",
+      "date": "2027-02-25",
+      "venue": "billboard",
+      "title": "SLOW SHANK TOUR 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥5,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21820/top/top_ev-21818_1_1794191482.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21820&date=2027-02-25",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21794-2027-03-02",
       "date": "2027-03-02",
       "venue": "billboard",
@@ -4115,19 +4133,19 @@
     "blue-note": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-10T07:24:53.192Z",
+      "updatedAt": "2026-11-10T19:47:43.802Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 83,
-      "updatedAt": "2026-11-10T07:24:53.192Z",
+      "updatedAt": "2026-11-10T19:47:43.802Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 78,
-      "updatedAt": "2026-11-10T07:24:53.192Z",
+      "count": 79,
+      "updatedAt": "2026-11-10T19:47:43.802Z",
       "error": null
     }
   }
