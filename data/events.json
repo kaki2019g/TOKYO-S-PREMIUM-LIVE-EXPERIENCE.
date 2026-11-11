@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:32:55.749Z",
+  "updatedAt": "2026-11-11T19:39:17.507Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1621,8 +1621,8 @@
         "20:30"
       ],
       "price": "¥9,200〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21546/top/top_ev-21544_1_1782182172.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21546&date=2026-12-11",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2714,6 +2714,21 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2027-01-08-kozzy iwakawa 素晴らしき音楽世界旅行 新春スペシャル〜大人の新年会",
+      "date": "2027-01-08",
+      "venue": "cotton-club",
+      "title": "KOZZY IWAKAWA 素晴らしき音楽世界旅行 新春スペシャル〜大人の新年会",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5794.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5794",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21717-2027-01-08",
       "date": "2027-01-08",
       "venue": "billboard",
@@ -3749,6 +3764,36 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "cotton-club-2027-02-09-dolphin hyperspace featuring luke titus",
+      "date": "2027-02-09",
+      "venue": "cotton-club",
+      "title": "DOLPHIN HYPERSPACE featuring LUKE TITUS",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5793.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5793",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2027-02-10-dolphin hyperspace featuring luke titus",
+      "date": "2027-02-10",
+      "venue": "cotton-club",
+      "title": "DOLPHIN HYPERSPACE featuring LUKE TITUS",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,800",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5793.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5793",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
       "id": "blue-note-2027-02-11-molly tuttle + ketch secor (of old crow medicine show)",
       "date": "2027-02-11",
       "venue": "blue-note",
@@ -3795,6 +3840,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21785/top/top_ev-21785_1_1793426432.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21785&date=2027-02-15",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-02-16-bohemianvoodoo live at cotton club",
+      "date": "2027-02-16",
+      "venue": "cotton-club",
+      "title": "bohemianvoodoo Live at COTTON CLUB",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5792.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5792",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "cotton-club-2027-02-17-米倉利紀 style72 basic. 2027 -white cattle party",
@@ -3879,6 +3939,36 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21820/top/top_ev-21818_1_1794191482.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21820&date=2027-02-25",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "cotton-club-2027-02-27-kenichi tsunoda big band live at cotton club 2027",
+      "date": "2027-02-27",
+      "venue": "cotton-club",
+      "title": "KENICHI TSUNODA BIG BAND LIVE at COTTON CLUB 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,700",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5795.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5795",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
+    },
+    {
+      "id": "cotton-club-2027-02-28-kenichi tsunoda big band live at cotton club 2027",
+      "date": "2027-02-28",
+      "venue": "cotton-club",
+      "title": "KENICHI TSUNODA BIG BAND LIVE at COTTON CLUB 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥7,700",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.cottonclubjapan.co.jp/reserve/img/event/5795.jpg",
+      "url": "https://reserve.cottonclubjapan.co.jp/reserve/schedule/exec/5795",
+      "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21794-2027-03-02",
@@ -4133,19 +4223,19 @@
     "blue-note": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-11T06:32:55.749Z",
+      "updatedAt": "2026-11-11T19:39:17.507Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
-      "count": 83,
-      "updatedAt": "2026-11-11T06:32:55.749Z",
+      "count": 89,
+      "updatedAt": "2026-11-11T19:39:17.507Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 79,
-      "updatedAt": "2026-11-11T06:32:55.749Z",
+      "updatedAt": "2026-11-11T19:39:17.507Z",
       "error": null
     }
   }
