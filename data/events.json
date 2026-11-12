@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T07:17:37.227Z",
+  "updatedAt": "2026-11-12T19:59:00.735Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -3665,6 +3665,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2027-02-03-toku \"tributes\" release live 2027",
+      "date": "2027-02-03",
+      "venue": "blue-note",
+      "title": "TOKU \"TRIBUTES\" Release Live 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥8,500",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4039.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4039",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21695-2027-02-04",
       "date": "2027-02-04",
       "venue": "billboard",
@@ -4007,6 +4022,21 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "blue-note-2027-03-04-goro ito + paula morelenbaum + jaques morelenbaum with special guests lisa ono (3.4 thu.), miu sakamoto (3.5 fri.)",
+      "date": "2027-03-04",
+      "venue": "blue-note",
+      "title": "GORO ITO + PAULA MORELENBAUM + JAQUES MORELENBAUM with special guests LISA ONO (3.4 thu.), MIU SAKAMOTO (3.5 fri.)",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4040.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4040",
+      "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
       "id": "billboard-ev-21794-2027-03-04",
       "date": "2027-03-04",
       "venue": "billboard",
@@ -4023,6 +4053,21 @@
       "image": "https://www.billboard-live.com/public/event_img/ev-21794/top/top_ev-21794_1_1793608384.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21794&date=2027-03-04",
       "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "blue-note-2027-03-05-goro ito + paula morelenbaum + jaques morelenbaum with special guests lisa ono (3.4 thu.), miu sakamoto (3.5 fri.)",
+      "date": "2027-03-05",
+      "venue": "blue-note",
+      "title": "GORO ITO + PAULA MORELENBAUM + JAQUES MORELENBAUM with special guests LISA ONO (3.4 thu.), MIU SAKAMOTO (3.5 fri.)",
+      "subtitle": "",
+      "genre": "",
+      "shows": [],
+      "price": "¥11,000",
+      "availability": "公式サイトで確認",
+      "availabilityType": "unknown",
+      "image": "https://reserve.bluenote.co.jp/reserve/img/event/4040.jpg",
+      "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4040",
+      "source": "https://www.bluenote.co.jp/jp/"
     },
     {
       "id": "billboard-ev-21810-2027-03-05",
@@ -4240,20 +4285,20 @@
   "sources": {
     "blue-note": {
       "ok": true,
-      "count": 96,
-      "updatedAt": "2026-11-12T07:17:37.227Z",
+      "count": 99,
+      "updatedAt": "2026-11-12T19:59:00.735Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-11-12T07:17:37.227Z",
+      "updatedAt": "2026-11-12T19:59:00.735Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 80,
-      "updatedAt": "2026-11-12T07:17:37.227Z",
+      "updatedAt": "2026-11-12T19:59:00.735Z",
       "error": null
     }
   }
