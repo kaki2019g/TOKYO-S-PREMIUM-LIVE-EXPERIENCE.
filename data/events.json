@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T06:51:27.760Z",
+  "updatedAt": "2026-11-13T19:46:35.523Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -562,8 +562,8 @@
         "19:30"
       ],
       "price": "¥8,600〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21613/top/top_ev-21613_1_1787231919.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21613&date=2026-11-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -997,8 +997,8 @@
         "21:00"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21635/top/top_ev-21635_1_1785988263.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21635&date=2026-11-27",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1351,8 +1351,8 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1891,8 +1891,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21596/top/top_ev-21595_1_1784244837.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3839,6 +3839,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21829-2027-02-12",
+      "date": "2027-02-12",
+      "venue": "billboard",
+      "title": "N.S. DANCEMBLE",
+      "subtitle": "Billboard Live Tour",
+      "genre": "",
+      "shows": [
+        "18:00",
+        "21:00"
+      ],
+      "price": "¥6,000〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21829/top/top_ev-21828_1_1794536143.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21829&date=2027-02-12",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21785-2027-02-15",
       "date": "2027-02-15",
       "venue": "billboard",
@@ -4121,6 +4139,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21826-2027-03-07",
+      "date": "2027-03-07",
+      "venue": "billboard",
+      "title": "I Don't Like Mondays. “Billboard Live Tour 2027”",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "15:00",
+        "18:00"
+      ],
+      "price": "¥8,000〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21826/top/top_ev-21825_1_1794469122.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21826&date=2027-03-07",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-03-07-maya delilah",
       "date": "2027-03-07",
       "venue": "blue-note",
@@ -4286,19 +4322,19 @@
     "blue-note": {
       "ok": true,
       "count": 99,
-      "updatedAt": "2026-11-13T06:51:27.760Z",
+      "updatedAt": "2026-11-13T19:46:35.523Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-11-13T06:51:27.760Z",
+      "updatedAt": "2026-11-13T19:46:35.523Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 80,
-      "updatedAt": "2026-11-13T06:51:27.760Z",
+      "count": 82,
+      "updatedAt": "2026-11-13T19:46:35.523Z",
       "error": null
     }
   }
