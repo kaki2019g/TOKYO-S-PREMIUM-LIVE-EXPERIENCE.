@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:46:35.523Z",
+  "updatedAt": "2026-11-14T06:31:41.423Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -529,7 +529,7 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "SOLD OUT",
+      "availability": "販売終了",
       "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21637/top/top_ev-21637_1_1786001539.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21637&date=2026-11-14",
@@ -1891,8 +1891,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21596/top/top_ev-21595_1_1784244837.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2035,8 +2035,8 @@
         "19:00"
       ],
       "price": "¥12,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-19",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3566,6 +3566,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21833-2027-01-30",
+      "date": "2027-01-30",
+      "venue": "billboard",
+      "title": "麗蘭 2027 at Billboard Live",
+      "subtitle": "[Pride And Joy]",
+      "genre": "",
+      "shows": [
+        "16:00",
+        "19:00"
+      ],
+      "price": "¥8,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21833/top/top_ev-21833_1_1794554355.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21833&date=2027-01-30",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-01-31-gretchen parlato \"the wise ones\"",
       "date": "2027-01-31",
       "venue": "blue-note",
@@ -4322,19 +4340,19 @@
     "blue-note": {
       "ok": true,
       "count": 99,
-      "updatedAt": "2026-11-13T19:46:35.523Z",
+      "updatedAt": "2026-11-14T06:31:41.423Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-11-13T19:46:35.523Z",
+      "updatedAt": "2026-11-14T06:31:41.423Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 82,
-      "updatedAt": "2026-11-13T19:46:35.523Z",
+      "count": 83,
+      "updatedAt": "2026-11-14T06:31:41.423Z",
       "error": null
     }
   }
