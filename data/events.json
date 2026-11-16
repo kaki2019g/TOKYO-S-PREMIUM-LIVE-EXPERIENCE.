@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T06:38:33.748Z",
+  "updatedAt": "2026-11-16T22:11:14.249Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -934,8 +934,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21587/top/top_ev-21587_1_1783685034.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21587&date=2026-11-25",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1891,8 +1891,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21596/top/top_ev-21595_1_1784244837.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3727,8 +3727,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21771/top/top_ev-21771_1_1792668716.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21771&date=2027-02-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4256,6 +4256,42 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21813-2027-03-17",
+      "date": "2027-03-17",
+      "venue": "billboard",
+      "title": "小室哲哉",
+      "subtitle": "Tetsuya Komuro “Short circuit eats long story”",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥12,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21813/top/top_ev-21813_1_1794455895.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21813&date=2027-03-17",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
+      "id": "billboard-ev-21813-2027-03-18",
+      "date": "2027-03-18",
+      "venue": "billboard",
+      "title": "小室哲哉",
+      "subtitle": "Tetsuya Komuro “Short circuit eats long story”",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥12,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21813/top/top_ev-21813_1_1794455895.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21813&date=2027-03-18",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-03-21-ben wendel : barcode",
       "date": "2027-03-21",
       "venue": "blue-note",
@@ -4340,19 +4376,19 @@
     "blue-note": {
       "ok": true,
       "count": 99,
-      "updatedAt": "2026-11-16T06:38:33.748Z",
+      "updatedAt": "2026-11-16T22:11:14.249Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-11-16T06:38:33.748Z",
+      "updatedAt": "2026-11-16T22:11:14.249Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 83,
-      "updatedAt": "2026-11-16T06:38:33.748Z",
+      "count": 85,
+      "updatedAt": "2026-11-16T22:11:14.249Z",
       "error": null
     }
   }
