@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T22:11:14.249Z",
+  "updatedAt": "2026-11-17T07:59:47.724Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -3544,8 +3544,8 @@
         "20:30"
       ],
       "price": "¥9,500〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21803/top/top_ev-21803_1_1793845898.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21803&date=2027-01-29",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4376,19 +4376,19 @@
     "blue-note": {
       "ok": true,
       "count": 99,
-      "updatedAt": "2026-11-16T22:11:14.249Z",
+      "updatedAt": "2026-11-17T07:59:47.724Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-11-16T22:11:14.249Z",
+      "updatedAt": "2026-11-17T07:59:47.724Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 85,
-      "updatedAt": "2026-11-16T22:11:14.249Z",
+      "updatedAt": "2026-11-17T07:59:47.724Z",
       "error": null
     }
   }
