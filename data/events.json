@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T20:59:07.499Z",
+  "updatedAt": "2026-11-18T07:36:01.107Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1603,8 +1603,8 @@
         "20:00"
       ],
       "price": "¥14,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21725/top/top_ev-21725_1_1790920389.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21725&date=2026-12-10",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4337,6 +4337,24 @@
       "source": "https://www.bluenote.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21842-2027-04-02",
+      "date": "2027-04-02",
+      "venue": "billboard",
+      "title": "清春",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥10,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21842/top/top_ev-21842_1_1794912649.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21842&date=2027-04-02",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2027-04-17-香坂みゆき ～50th anniversary live～",
       "date": "2027-04-17",
       "venue": "cotton-club",
@@ -4376,19 +4394,19 @@
     "blue-note": {
       "ok": true,
       "count": 99,
-      "updatedAt": "2026-11-17T20:59:07.499Z",
+      "updatedAt": "2026-11-18T07:36:01.107Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 89,
-      "updatedAt": "2026-11-17T20:59:07.499Z",
+      "updatedAt": "2026-11-18T07:36:01.107Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 85,
-      "updatedAt": "2026-11-17T20:59:07.499Z",
+      "count": 86,
+      "updatedAt": "2026-11-18T07:36:01.107Z",
       "error": null
     }
   }
