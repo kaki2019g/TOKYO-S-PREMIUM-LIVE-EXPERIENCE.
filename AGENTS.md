@@ -6,7 +6,7 @@
 
 東京のライブレストラン 3 会場（Blue Note Tokyo、Cotton Club、Billboard Live Tokyo）の公式公開情報を取得し、1 つのスケジュール画面にまとめる小規模な Web アプリです。
 
-- ランタイム: Node.js（ES Modules、グローバル `fetch` を使用するため Node.js 18 以降）
+- ランタイム: Node.js 20.18.1 以降（ES Modules、グローバル `fetch`、Cheerio 1.1 系の要件に依存。GitHub Actions では Node.js 22 を使用）
 - サーバー: Node.js 標準 `node:http`。Web フレームワークなし
 - フロントエンド: 素の HTML / CSS / JavaScript。`npm run build` で静的公開用 `dist` を生成
 - HTML 解析: Cheerio
