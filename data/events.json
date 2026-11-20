@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:23:27.430Z",
+  "updatedAt": "2026-11-20T20:26:56.282Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1333,8 +1333,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21685/top/top_ev-21685_1_1788922897.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1399,8 +1399,8 @@
         "18:00"
       ],
       "price": "¥8,900〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21673/top/top_ev-21673_1_1787826147.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21673&date=2026-12-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2035,8 +2035,8 @@
         "19:00"
       ],
       "price": "¥12,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-19",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2295,6 +2295,24 @@
       "image": "https://reserve.bluenote.co.jp/reserve/img/event/4019.jpg",
       "url": "https://reserve.bluenote.co.jp/reserve/schedule/exec/4019",
       "source": "https://www.bluenote.co.jp/jp/"
+    },
+    {
+      "id": "billboard-ev-21857-2026-12-25",
+      "date": "2026-12-25",
+      "venue": "billboard",
+      "title": "s**t kingz",
+      "subtitle": "【追加公演】",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥13,000〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21857/top/top_ev-21610_1_1784865981.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21857&date=2026-12-25",
+      "source": "https://www.billboard-live.com/tokyo"
     },
     {
       "id": "cotton-club-2026-12-25-special christmas evening with laura anglade",
@@ -3703,8 +3721,8 @@
         "20:00"
       ],
       "price": "¥10,000〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21699/top/top_ev-21699_1_1789688053.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21699&date=2027-02-01",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4700,19 +4718,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-11-20T07:23:27.430Z",
+      "updatedAt": "2026-11-20T20:26:56.282Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-20T07:23:27.430Z",
+      "updatedAt": "2026-11-20T20:26:56.282Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 88,
-      "updatedAt": "2026-11-20T07:23:27.430Z",
+      "count": 89,
+      "updatedAt": "2026-11-20T20:26:56.282Z",
       "error": null
     }
   }
