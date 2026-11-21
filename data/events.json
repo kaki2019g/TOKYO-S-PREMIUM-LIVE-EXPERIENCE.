@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T20:26:56.282Z",
+  "updatedAt": "2026-11-21T07:16:50.949Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1333,8 +1333,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21685/top/top_ev-21685_1_1788922897.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4301,6 +4301,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21848-2027-03-01",
+      "date": "2027-03-01",
+      "venue": "billboard",
+      "title": "石崎ひゅーい 2027 「キミがいるLIVE」 -Piano Quintet-",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥8,400〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21848/top/top_ev-21846_1_1794978722.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21848&date=2027-03-01",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "billboard-ev-21794-2027-03-02",
       "date": "2027-03-02",
       "venue": "billboard",
@@ -4718,19 +4736,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-11-20T20:26:56.282Z",
+      "updatedAt": "2026-11-21T07:16:50.949Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-20T20:26:56.282Z",
+      "updatedAt": "2026-11-21T07:16:50.949Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 89,
-      "updatedAt": "2026-11-20T20:26:56.282Z",
+      "count": 90,
+      "updatedAt": "2026-11-21T07:16:50.949Z",
       "error": null
     }
   }
