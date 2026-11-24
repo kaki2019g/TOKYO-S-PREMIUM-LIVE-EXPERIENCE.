@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T09:59:12.161Z",
+  "updatedAt": "2026-11-24T22:30:21.807Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1333,8 +1333,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21685/top/top_ev-21685_1_1788922897.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1399,8 +1399,8 @@
         "18:00"
       ],
       "price": "¥8,900〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21673/top/top_ev-21673_1_1787826147.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21673&date=2026-12-06",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1891,8 +1891,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21596/top/top_ev-21595_1_1784244837.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21596&date=2026-12-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2356,8 +2356,8 @@
         "19:00"
       ],
       "price": "¥13,000〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21612/top/top_ev-21610_1_1784865981.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21612&date=2026-12-26",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3823,8 +3823,8 @@
         "20:30"
       ],
       "price": "¥9,300〜",
-      "availability": "SOLD OUT",
-      "availabilityType": "sold-out",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21771/top/top_ev-21771_1_1792668716.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21771&date=2027-02-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4736,19 +4736,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-11-24T09:59:12.161Z",
+      "updatedAt": "2026-11-24T22:30:21.807Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-24T09:59:12.161Z",
+      "updatedAt": "2026-11-24T22:30:21.807Z",
       "error": null
     },
     "billboard": {
       "ok": true,
       "count": 90,
-      "updatedAt": "2026-11-24T09:59:12.161Z",
+      "updatedAt": "2026-11-24T22:30:21.807Z",
       "error": null
     }
   }
