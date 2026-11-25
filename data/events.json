@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:30:21.807Z",
+  "updatedAt": "2026-11-25T08:42:46.635Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -934,8 +934,8 @@
         "20:30"
       ],
       "price": "¥8,700〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "販売終了",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21587/top/top_ev-21587_1_1783685034.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21587&date=2026-11-25",
       "source": "https://www.billboard-live.com/tokyo"
@@ -1333,8 +1333,8 @@
         "20:30"
       ],
       "price": "¥10,500〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21685/top/top_ev-21685_1_1788922897.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21685&date=2026-12-04",
       "source": "https://www.billboard-live.com/tokyo"
@@ -2131,8 +2131,8 @@
         "20:30"
       ],
       "price": "¥12,400〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21657/top/top_ev-21657_1_1788219976.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21657&date=2026-12-21",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3169,8 +3169,8 @@
         "20:30"
       ],
       "price": "¥12,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21773/top/top_ev-21773_1_1792740278.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-18",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3217,8 +3217,8 @@
         "20:30"
       ],
       "price": "¥12,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21773/top/top_ev-21773_1_1792740278.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21773&date=2027-01-19",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4112,6 +4112,24 @@
       "source": "https://www.billboard-live.com/tokyo"
     },
     {
+      "id": "billboard-ev-21860-2027-02-17",
+      "date": "2027-02-17",
+      "venue": "billboard",
+      "title": "DEZOLVE Best Album「DEZOLVEST」Release Live 2027",
+      "subtitle": "",
+      "genre": "",
+      "shows": [
+        "17:30",
+        "20:30"
+      ],
+      "price": "¥6,500〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21860/top/top_ev-21860_1_1795588266.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21860&date=2027-02-17",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "blue-note-2027-02-17-ivan lins",
       "date": "2027-02-17",
       "venue": "blue-note",
@@ -4736,19 +4754,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-11-24T22:30:21.807Z",
+      "updatedAt": "2026-11-25T08:42:46.635Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 96,
-      "updatedAt": "2026-11-24T22:30:21.807Z",
+      "updatedAt": "2026-11-25T08:42:46.635Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 90,
-      "updatedAt": "2026-11-24T22:30:21.807Z",
+      "count": 91,
+      "updatedAt": "2026-11-25T08:42:46.635Z",
       "error": null
     }
   }
