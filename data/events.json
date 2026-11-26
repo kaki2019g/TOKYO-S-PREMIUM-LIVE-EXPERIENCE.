@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T21:45:17.219Z",
+  "updatedAt": "2026-11-26T08:27:40.578Z",
   "events": [
     {
       "id": "blue-note-2026-11-01-kiefer",
@@ -1351,8 +1351,8 @@
         "19:00"
       ],
       "price": "¥8,300〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21590/top/top_ev-21590_1_1783935140.jpeg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21590&date=2026-12-05",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3151,8 +3151,8 @@
         "19:00"
       ],
       "price": "¥9,900〜",
-      "availability": "予約受付中",
-      "availabilityType": "available",
+      "availability": "SOLD OUT",
+      "availabilityType": "sold-out",
       "image": "https://www.billboard-live.com/public/event_img/ev-21731/top/top_ev-21731_1_1791276614.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21731&date=2027-01-17",
       "source": "https://www.billboard-live.com/tokyo"
@@ -3556,8 +3556,8 @@
         "20:30"
       ],
       "price": "¥7,800〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21777/top/top_ev-21776_1_1792738133.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21777&date=2027-01-27",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4364,6 +4364,24 @@
       "source": "https://www.cottonclubjapan.co.jp/jp/"
     },
     {
+      "id": "billboard-ev-21835-2027-02-27",
+      "date": "2027-02-27",
+      "venue": "billboard",
+      "title": "浅井健一",
+      "subtitle": "ACOUSTIC & ELECTRIC 「SEA SIDE DUCK」",
+      "genre": "",
+      "shows": [
+        "15:30",
+        "18:30"
+      ],
+      "price": "¥9,300〜",
+      "availability": "予約受付中",
+      "availabilityType": "available",
+      "image": "https://www.billboard-live.com/public/event_img/ev-21835/top/top_ev-21834_1_1794559739.jpg",
+      "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21835&date=2027-02-27",
+      "source": "https://www.billboard-live.com/tokyo"
+    },
+    {
       "id": "cotton-club-2027-02-28-kenichi tsunoda big band live at cotton club 2027",
       "date": "2027-02-28",
       "venue": "cotton-club",
@@ -4573,8 +4591,8 @@
         "20:30"
       ],
       "price": "¥16,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21797/top/top_ev-21797_1_1793759430.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21797&date=2027-03-15",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4591,8 +4609,8 @@
         "20:30"
       ],
       "price": "¥16,300〜",
-      "availability": "販売開始前",
-      "availabilityType": "upcoming",
+      "availability": "予約受付中",
+      "availabilityType": "available",
       "image": "https://www.billboard-live.com/public/event_img/ev-21797/top/top_ev-21797_1_1793759430.jpg",
       "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21797&date=2027-03-16",
       "source": "https://www.billboard-live.com/tokyo"
@@ -4814,19 +4832,19 @@
     "blue-note": {
       "ok": true,
       "count": 110,
-      "updatedAt": "2026-11-25T21:45:17.219Z",
+      "updatedAt": "2026-11-26T08:27:40.578Z",
       "error": null
     },
     "cotton-club": {
       "ok": true,
       "count": 100,
-      "updatedAt": "2026-11-25T21:45:17.219Z",
+      "updatedAt": "2026-11-26T08:27:40.578Z",
       "error": null
     },
     "billboard": {
       "ok": true,
-      "count": 91,
-      "updatedAt": "2026-11-25T21:45:17.219Z",
+      "count": 92,
+      "updatedAt": "2026-11-26T08:27:40.578Z",
       "error": null
     }
   }
